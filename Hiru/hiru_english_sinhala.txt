@@ -1,0 +1,1397 @@
+134637.json | Syria Conflict: Humanitarian Air Drops 'Not Imminent' | 134637.json | සිරියාවට ගුවනින් සහනාධාර හෙළන්නැයි බටහිර රටවල් ජගත් සංවිධානයෙන් ඉල්ලයි
+100440.json | 71,000 police personnel for presidential election duties. | 100440.json | ජනාධිපතිවරණ රාජකාරිවලට පොලිසියෙන් 71,000 ක්.
+100441.json | Army camps will not be removed from the North in a Maithree administration: says Maithree. | 100441.json | උතුරේ හමුදා කඳවුරු ඉවත් කරන්නේ නැහැ - මෛත්‍රී.
+100442.json | Good governance should be measured by results: We produced results: says President. | 100442.json | අපි ප්‍රතිඵල පෙන්නුම් කළා - ජනපති.
+100444.json | Syria conflict: 76,000 die in deadliest year - activists. | 100444.json | සිරියානු - ඉරාක ගැටුම්වලින් 91,000 ක් මියගිහින්.
+100461.json | Maithree will win the Presidential election - says JVP | 100461.json | ජනපතිවරණයෙන් දිනන්නේ මෛත්‍රී - ජවිපෙ.
+100464.json | Update: UPFA MP Achala Jagoda also supports Common Candidate Maithripala. | 100464.json | Update: සන්ධාන මන්ත්‍රී අචල ජාගොඩගේ සහායත් මෛත්‍රීපාලට.
+100466.json | AirAsia underwater search to begin | 100466.json | කඩා වැටුණු එයාර් ඒෂියා ගුවන් යානයේ කළුපෙට්ටිය සොයා මෙහෙයුමක්.
+100470.json | Election Commissioner to prevent election propaganda over mobile phones. | 100470.json | ජංගම දුරකථන හරහා මැතිවරණ ප්‍රචාරක කටයුතුවලට වැට.
+100473.json | University students will not be charged facility loans; an assurance from Common Candidate | 100473.json | සරසවි ශිෂ්‍යයින්ගෙන් මුදල් අය කරන්නේ නැහැ. -  මෛත්‍රී.
+100495.json | Fuel bowser explodes at a filling station in Nelum-deniya. | 100495.json | Update: නෙළුම්දෙනියේ පිරවුම්හලකදී තෙල් බවුසරයක් පුපුරයි.
+100496.json | No kings or royal families; a statement from Common Candidate Maithree. | 100496.json | රජුන් හෝ රජ පවුල් තිබිය නොහැකියි. - මෛත්‍රී.
+100497.json | One policy for both North and South; President in Jaffna. | 100497.json | උතුරටත්, දකුණටත් එකම ප්‍රතිපත්තියයි. - ජනපති.
+100498.json | Common Candidates plans for Education a jumble; Min. Bandula | 100498.json | අධ්‍යාපන ඇමති පොදු අපේක්ෂකගේ අධ්‍යාපනය ගැන පහදයි.
+100500.json | Government should disclose deal with KP; Ve. Sobhitha Thera | 100500.json | සෝභිත හිමියන් ගිවිසුම් ගැන තොරතුරු ඉල්ලයි.
+203422.json | Parliament to convene on November 7th. Speaker says quoting the President | 203422.json | පාර්ලිමේන්තුව කැඳවීම නොවැම්බර් 7 වනදා, ජනපති පැවසූ බව කතානායක කියයි
+203426.json | More Ministers likely to take oaths today; Another cabinet meeting on Monday | 203426.json | අදත් ඇමතිවරුන් පිරිසක් දිවුරුම් දෙන ලකුණු - සඳුදා තවත් කැබිනට් හමුවක්
+203436.json | IOC yet to reduce fuel prices; Bus fares likely to reduce | 203436.json | සංස්ථා ඉන්ධන මිල පහළ දමද්දී අයි.ඕ.සී. මිලේ තවමත් වෙනසක් නැහැ - බස් ගාස්තු අඩුවීම ගැන ඉඟියක්
+203444.json | Patali and Daya Gamage visit their former ministries | 203444.json | පාඨලී සහ දයා ගමගේ හිටපු අමාත්‍යාංශවලට
+203449.json | President assures UN Chief, new Prime Minister was appointed constitutionally | 203449.json | නව අගමැති පත් කිරීම සිදු කළේ ව්‍යවස්ථානුකූලව බව ජනපති ජගත් මහලේකම්ට දන්වයි
+104637.json | Nothing to be hidden from Int. Community – PM | 104637.json | ජාත්‍යන්තරයට සඟවන්න දෙයක් නෑ. - අගමැති
+106715.json | 19th Amendment: Over 19 petitions in SC | 106715.json | 19 වන සංශෝධනය ගැන ශ්‍රේෂ්ඨාධිකරණයට පෙත්සම් 19 ක්
+106716.json | 2 killed in an accident | 106716.json | වෑන් රථයක් අඩි 75 ක ප්‍රපාතයකට පෙරළෙයි - අයෙක් මරුට
+106717.json | India assists to rescue Lankans in Yemen | 106717.json | ශ්‍රී ලාංකිකයන් මුදා ගැනීමට ඉන්දියාවේ සහය
+106720.json | Full-face helmet ban violators are fined | 106720.json | "එහෙනම් පර්දාව තහනම් කරනු" - සිංහල රාවය
+106725.json | Deputy Minister Karaliyadda resigns | 106725.json | තිස්ස ඉල්ලා අස්වෙයි
+106726.json | J C Waliamuna report to the PM | 106726.json | ශ්‍රී ලංකන් ගුවන් සේවයේ අධ්‍යයන වාර්තාව අගමැතිට
+106739.json | Russian trawler sinks with 54 dead | 106739.json | ට්‍රෝලර් යාත්‍රාවක් ගිලී නැවියන් 54 ක් මරුට
+106740.json | Update: Case of alleged abduction against Minister Rajitha's son taken for hearing | 106740.json | ඇමති රාජිතගේ පවුලට එරෙහි නඩුව ගැන මහාධිකරණය, මහේස්ත්‍රාත් වාර්තාවක් ඉල්ලයි
+106743.json | Full face helmet ban relaxed | 106743.json | ෆුල්ෆේස් හෙල්මට් නීතිය දින කිහිපයකට ලිහිල් කරයි
+106744.json | Protest in Battaramulla by RDA | 106744.json | මාර්ග අධිකාරියේ වෘත්තිය සමිති සෙත්සිරිපාය ඉදිරිපිට අවහිර කරලා
+127586.json | John Amaratunga Takes Oath As Minister Of Lands | 127586.json | ජෝන් අමරතුංගට තවත් ඇමති ධුරයක්
+127596.json | The Joint Opposition To Take To Streets Saying Thajudeen’s Murder Investigation A Drama | 127596.json | 17 වනදා ඒකාබද්ධ විපක්ෂය පාරට
+127597.json | Decision whether to exhume the body of Embilipitiya youth to be announced tomorrow | 127597.json | සුමිත් ප්‍රසන්නගේ සිරුර ගොඩගනී ?
+127598.json | Clergy in Sabaragamuwa will receive only teaching appointments in future | 127598.json | සබරගමුවේ පූජ්‍ය පක්ෂයට ඉදිරියේ ගුරුපත්වීම් පමණයි
+127599.json | JVP Goes To Supreme Court Requesting The Empowerment Of Paddy Marketing Board Act | 127599.json | ජවිපෙ ශ්‍රේෂ්ඨාධිකරණයට
+127604.json | One Killed, 10 Injured In Bus-Lorry Crash | 127604.json | දික්පිටියේ රිය අනතුරින් තුවාල ලැබූ අයෙකු මරුට.
+127616.json | DIG Dissanayake Further Remanded | 127616.json | වවුනියාව හිටපු DIG යළි රිමාන්ඩ්
+127618.json | Enrique Iglesias Concert Orgernizers Ordered to Appear in Court | 127618.json | එන්රිකේ ප්‍රසංගය සංවිධාන කළ ලයිව් ඉවෙන්ට්ස් ආයතනයට අධිකරණයේ පෙනී සිටින ලෙස නියෝග
+127620.json | Unknown gunmen open fire at a prison bus in Dematagoda -  Dematagoda Chaminda injured. | 127620.json | දෙමටගොඩදී බන්ධනාගාර බස් රථයකට වෙඩි - දෙමටගොඩ චමින්දට තුවාල
+127622.json | Ex-DIG Vaas Gunawardena's Wife Remanded | 127622.json | වාස් ගුණවර්ධනගේ බිරිඳත් රිමාන්ඩ්
+127626.json | Indonesia earthquake: Tsunami fears after massive 7.9 magnitude quake hits | 127626.json | ඉන්දුනීසියාවේ ප්‍රබල භූ චලනයක්
+100472.json | President charges the opposition tries to curtail free education. | 100472.json | විපක්ෂය නිදහස් අධ්‍යාපනය කප්පාදු කිරීමට සැරසෙනවා.-ජනපති.
+100504.json | Common candidate Maithripala Sirisena's rally Attacked. | 100504.json | පැල්මඩුල්ලේ ජන හමුවකට ගල් ප්‍රහාරයක්.
+104635.json | Sling mud at Duminda Silva is to target votes! - Mahinda Yapa | 104635.json | දුමින්ද සිල්වාට මඩ ගහලා ඡන්ද ටික කඩන්නයි මේ හදන්නනේ ! - මහින්ද යාපා කියයි
+106748.json | Probe over Russian Embassy employee Noel's death | 106748.json | අභිරහස් ලෙස මියගිය නොයෙල්ගේ සිරුර ගොඩගැනේ
+108683.json | "I assure a stable future" - PM at May Day | 108683.json | ස්ථිර අනාගතයක් ලබාදෙන බවට අගමැති රනිල්ගෙන් මැයි දින සැමරුමේදී සහතිකයක්
+112467.json | Update: HIRU FM  celebrates 17 years today; Prize vouchers airdropped for listeners island-wide | 112467.json | Update:  හිරුගේ 17වන සංවත්සරයට  ශ්‍රාවකත්වයට ගුවනින් උපහාර පිදුණු වගයි
+115838.json | 64th Anniversary of SLFP in Polonnaruwa Today. | 115838.json | ශ්‍රී ල.නි.ප. 64 වන සංවත්සරය අද පොළොන්නරුවේදී
+117674.json | International drug kingpin Siddik re-remanded | 117674.json | අන්තර්ජාතික මත්ද්‍රව්‍ය ජාවාරම්කරු මොහොමඩ් සිද්දික් යළි රිමාන්ඩ්
+119489.json | 2 DIG's summoned to the police commission to inquire about assault on students | 119489.json | පූජිත් ජයසුන්දර සහ ගාමිණී මතුරට පොලිස් කොමිසමට පැමිණේ
+119522.json | Update: Prime Minister also appoints a committee to investigate police attack on HNDA students | 119522.json | Update: සිසුන්ට කළ පොලිස් පහරදීම ගැන සොයන්න, අගමැති කමිටුවක් පත් කරයි
+121211.json | Doctors to strike island wide tomorrow | 121211.json | දිවයින පුරා වෛද්‍යවරුන් හෙට ලෙඩවෙයි
+121249.json | 2016 - Budget second reading passed with 107 majority | 121249.json | අයවැය දෙවන වර කියවීම වැඩි ඡන්දයෙන්  සම්මත වූ අයුරු
+123248.json | A fire burns a coir mill in Ambalangoda | 123248.json | අම්බලන්ගොඩ කොහු කර්මාන්ත ශාලාවක ගින්නක්
+125274.json | Fisheries ministers Amaraweera and Weda Arachchi not satisfied about each other  | 125274.json | දිලිප් වෙදආරච්චි ගැන විශ්වාසයක් නැහැ - මහින්ද අමරවීර කියයි
+127584.json | Over 1500 street children island-wide  | 127584.json | දරුවන් 1500කගේ කඳුලු කථාව- ඔබට දැනුනද?
+132213.json | Uttarakhand Forest Fire Spreads, 6 Districts Worst-Hit | 132213.json | ඉන්දියාවේ ලැව්ගිනි හේතුවෙන් හෙක්ටයාර 1900 ක් විනාශ වෙයි
+167434.json | Cabinet approval given for the issuing of Electronic Passports | 167434.json | විද්‍යුත් විදේශ ගමන් බලපත්‍රයකට කැබිනට් අනුමැතිය
+167436.json | Several areas to expect heavy showers today | 167436.json | අද පස්වරුවේ ප්‍රදේශ කිහිපයකට ගිගුරුම් සහිත වැසි
+167438.json | Former Navy Spokesman further remanded | 167438.json | නාවික හමුදා හිටපු මාධ්‍ය ප්‍රකාශක යළි රිමාන්ඩ්
+167441.json | Two suspects who attacked policemen in Kopai remanded | 167441.json | පොලිස් නිලධාරීන්ට පහරදුන් සැකකරුවන් රිමාන්ඩ්
+167450.json | Advanced Offshore Patrol Vessel ‘Sayurala’ commissioned | 167450.json | "ශ්‍රී ලංකා නාවික නෞකා සයුරළ" අධිකාරී ලබයි
+167456.json | Minister Ravi questioned for 5 hours at the Bond Commission; 8600 page report on Alosious’s mobile phone data | 167456.json | ඇමති රවී හෙළිකළ ඇත්ත මෙන්න
+167458.json | President and Prime Minister unaware of foreign ministry communiqué on North Korean Missile test | 167458.json | උතුරු කොරියානු මිසයිල හෙළා දුටු නිවේදනය ගැන ජනපති සහ අගමැති දැනුම්වත් නැහැ
+129965.json | G.L Pieris tells the CID, he has no information on Bombs | 129965.json | බෝම්බ ගැන නොදන්නා බව රහස් පොලිසියට ගිය ජී.එල් කියයි
+129967.json | Don’t blame government for scarcity of water – President makes a request from the farmers  | 129967.json | දොස් කියන්න එපා - පොලොන්නරුවේ ගොවීන්ට ජනපති කියයි
+132194.json | Increase On Value Added Tax Will Be Effective From Today | 132194.json | වැට් බදු සංශෝධන අද සිට
+132196.json | TNA seeks a Federal solution on May Day  | 132196.json | දෙමළ සන්ධානය මැයි දිනයේත් ෆෙඩරල්  විසඳුමක් ඉල්ලයි
+132197.json | Vital information regarding the triple murder in Thirippane unearthed | 132197.json | තිරප්පනේ ත්‍රිපුද්ගල ඝාතනයේ තොරතුරු රැසක් හෙළිවේ
+132198.json | Rallies in Galle and Kirulapone are jokes: JVP | 132198.json | ගාලූ සහ කිරුළපන රැළි නාඩගමක්ලු
+132199.json | 23 in hospital after wasp attack in Sigiriya  | 132199.json | සීගිරිය නැරඹීමට ගිය 23 ක් රෝහලේ
+132203.json | We will be summoned to courts- claims MR | 132203.json | මැයි රැළියට ගිය මහින්ද ඇතුලු පිරිසක් අධිකරණයට?
+132204.json | Rain showers and thundershowers expected today  | 132204.json | අද සවසත් වැසි
+132208.json | Freak accidents claim a life and leave six in hospitals   | 132208.json | ලයිට් කණුවක් කඩාවැටී ළමුන් දෙදෙනෙක් ඇතුළු පස්දෙනෙක් රෝහලේ
+132209.json | Eight Nigerians and Sri Lankan Couple Nabbed with Cocaine  | 132209.json | කොකේන් සමග නයිජීරියානුවන් 8 දෙනෙකු ඇතුලූ 10 ක් අත්අඩංගුවට
+132210.json | Three Drown to Death  | 132210.json | දියේ ගිලීම් වලින් තුන්දෙනෙකු මරුට
+132212.json | One Killed By Lightning | 132212.json | අකුණු සැර වැදී පුද්ගලයෙකු මරුට
+169963.json | Committee appointed on SAITM issue given 10 days | 169963.json | සයිටම් ගැටළුව විසදන කමිටුවට දින 10ක්
+169964.json | Hajj demonstrates unity - President | 169964.json | සමානාත්මතාව පිළිබිඹු කෙරෙන හජ් උත්සවය අදයි
+169969.json | South Africa's president visits Sri Lanka | 169969.json | දකුණු අප්‍රිකානු ජනපති ජේකොබ් සූමා ශ්‍රී ලංකාවට
+169970.json | Fire breaks out in Hatton tea factory | 169970.json | හැටන් තේ කර්මාන්ත ශාලාවක ගින්නක් මැඩ පවත්වයි (ඡායාරූප)
+169977.json | Four nabbed in Rideegama over treasure mining | 169977.json | නිධන් හැරූ සිව් දෙනෙකු රිදීගම දී අත්අඩංගුවට
+169980.json | A/L chemistry paper leak : student given life-ban | 169980.json | තාක්ෂණ මෙවලම් උපයෝගී කර ගනිමින් උසස් පෙළට පෙනී සිටි සිසුවාට ජීවිතාන්තය දක්වා විභාග තහනමක්
+169983.json | Man gone missing in Battaramulla  | 169983.json | අගෝස්තු 29 දා සිට පුද්ගලයෙකු අතුරුදන්
+169985.json | Opposition Leader seeks Indian intervention to expedite new constitution | 169985.json | නව ව්‍යවස්ථාව කඩිනම් කරන්න - සම්බන්ධන් ඉන්දියාවට කියයි
+169986.json | SLFP Gen. Sec. hopes JO would attend party convention | 169986.json | ඒකාබද්ධයේ යුතුකම ගැන බලාපොරොත්තුවෙන් - නිදහස් පක්ෂ මහලේකම්
+169990.json | Geetha Kumarasinghe hospitalized with burn injuries | 169990.json | හදිසි අනතුරකට ලක්වූ  ගීතා කුමාරසිංහ රෝහල් ගත කෙරේ
+169993.json | Heavy showers expected in several provinces - Met Department | 169993.json | පළාත් කිහිපයකට තද වැසි
+170000.json | Lightning kills farmer in Plonnaruwa | 170000.json | පොළොන්නරුවේදී අකුණුසැර වැදී පුද්ගලයෙකු මරුට
+170001.json | Japan thinking of strengthening security following N Korean missile threats | 170001.json | උතුරු කොරියානු අත්හදා බැලීමෙන් පසු ජපානය, ජාතික ආරක්ෂාව පිළිබදව යළි සලකා බලයි
+170004.json | Fatal accident kills one in Arayampathy | 170004.json | කාත්තන්කුඩි ප්‍රදේශයේ රිය අනතුරකින් පුද්ගලයෙකු ජීවිතක්ෂයට
+225418.json | LIQUOR FACTORY OPERATED IN A HOUSE IN MARAWILA UNKNOWN TO ANYONE IN THE VILLAGE | 225418.json | මාරවිල නිවසක ගමටම හොරෙන් පවත්වාගෙන ගිය මත්පැන් නිෂ්පාදනාගාරය
+225419.json | SUSPECT ARRESTED WITH 658 CONCH SHELLS | 225419.json | හක්බෙල්ලන් 658 ක් සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+225420.json | SANJAYA RAJARATNAM APPOINTED ACTING SOLICITOR GENERAL | 225420.json | දිල්රුක්ෂි වෙනුවට සංජය රාජරත්නම්වැ ඩබලන සොලිසිටර් ජෙනරාල් ධූරයට
+225422.json | GALLE FACE ROAD CLOSED FROM LOTUS ROUNDABOUT | 225422.json | විශ්‍රාම වැටුප් අහිමිවූවන් කොළඹ පාගමනක
+225427.json | PRESIDENT AND BASIL TO MEET AGAIN | 225427.json | ජනපති සහ බැසිල් අතර යලි හමුවක්
+225428.json | ANOTHER INDEPENDENT CANDIDATE PAYS THE DEPOSIT FOR THE PRESIDENTIAL ELECTION | 225428.json | ජනාධිපතිවරණය සඳහා තවත් ස්වාධීන අපේක්ෂකයෙක් ඇප තැන්පත් කරයි
+225436.json | THUNDER SHOWERS IN SEVERAL PLACES THIS EVENING | 225436.json | අද පස්වරුවේත් පළාත් රැසකට ගිගුරුම් සහිත වැසි
+225437.json | TREASURY GIVES A PROMISE TO THOSE WHO LOST THEIR PENSIONS | 225437.json | විශ්‍රාම වැටුප් අහිමිවූවන්ට මහා භාණ්ඩාගාරයෙන් පොරොන්දුවක්
+225441.json | THE BODY OF THE PERSON WHO DROWNED IN THE KESELGAMUWA OYA FOUND | 225441.json | කෙසෙල්ගමුව ඔයේ ගිලි අතුරුදන්වූ පුද්ගලයාගේ සිරුර සොයා ගැනේ
+225442.json | BUS TOPPLES IN KEKEIRAWA INJURING NINE PEOPLE | 225442.json | කැකිරාවේදී බස් රථයක් පෙරලී 09 දෙනෙකු රෝහලේ
+225443.json | KERALA CANNABIS RECOVERED FROM A PARCEL NEAR JAFFNA ROAD | 225443.json | යාපනයේ මාර්ගයක් අසල වැටී තිබූ පාර්සලයකින් කේරල ගංජා සොයා ගැනේ
+225445.json | BRITAIN COMMENDS SRI LANKA'S CO-RECONCILIATION PROGRAM | 225445.json | ශ්‍රී ලංකාවේ සහජීවන වැඩපිළිවෙල බ්‍රිතාන්‍යයේ පැසසුමට
+225446.json | FIVE-DAY TEACHERS' STRIKE TEMPORARILY HALTED | 225446.json | පස්දින ගුරු වර්ජනය තාවකාලිකව නවතී
+225447.json | RED LIGHT FOR RAILWAY EMPLOYEES ON STRIKE | 225447.json | වර්ජනයේ නිරත දුම්රිය සේවකයන් සේවය අතහැර ගියා සේ සැළකේ
+225448.json | PETITION AGAINST GOTABHAYA'S CITIZENSHIP POSTPONED TO TOMORROW | 225448.json | ගෝඨාභයගේ පුරවැසිභාවයට එරෙහි පෙත්සම සළකා බැලීම හෙට පස්වරුවට කල් තැබේ
+225449.json | Friday is not a public holiday. Government Information Department announces | 225449.json | සිකුරාදා රජයේ නිවාඩු දිනයක් නොවේ - රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවෙන් නිවේදනයක්
+225450.json | Former President signed off Gotabaya’s duel citizenship document under the executive powers; says Attorney General | 225450.json | ගෝඨාභයගේ ද්විත්ව පුරවැසිභාවය ගැන නීතිපතිගෙන් පැහැදිලි කිරීමක්
+121212.json | India's Chennai hit by fresh rain and deadly flooding | 121212.json | වර්ෂාව සහ ජල ගැලීම් චෙන්නායි ජන ජීවිතය අඩාල කරයි
+121216.json | 108 Lankans who got lost in Budda-gaya to reach Chennai tomorrow | 121216.json | බුද්ධගයාවේ අතරමංවූ  108 දෙනා හෙට චෙන්නායි නුවරට
+121217.json | UK MPs to decide whether to bomb IS targets | 121217.json | සිරියාව ගැන බ්‍රිතාන්‍යයේ ඡන්දයක්
+121220.json | JVP agrees to appoint a commission on the 88 – 89 incidents | 121220.json | 88 - 89 ගැන සොයන කමිටුවට JVP යේ කැමැත්ත
+121224.json | Legal action against 13,000 motorists over lane regulation violations | 121224.json | කොළඹදී මංතීරු නීති කැඩූ 13,000 කට නඩු
+121233.json | Al Qaeda militants take over two south Yemen towns, residents say | 121233.json | යේමනයේ ජාර් නගරයේ බලය ත්‍රස්තවාදින් අල්ලාගනී
+121238.json | Another daughter caged a mother pathetically - Images | 121238.json | තවත් දුවෙක් මවක් කූඩු කරලා  (ඡායාරූප)
+121247.json | Update: 2016 Budget Passed With 2/3 Majority | 121247.json | Update: අයවැය දෙවන වර කියවීම වැඩි ඡන්ද  107කින් සම්මතයි
+155843.json | Legal action to be taken by the joint opposition against bond issue allegation | 155843.json | හිටපු ජනපතිගෙන් රවීට නඩු නැහැ
+155848.json | Peradeniya university students accused of ragging further remanded | 155848.json | නවක වදය දුන් සිසුන් 15 යළි රිමාන්ඩ් (ඡායාරූප)
+155880.json | Police suspects Samayan murder an inside job; Details of suspects to be announced tomorrow | 155880.json | සමයංට වෙඩි තියන්න ඔත්තුව ලැබුණේ බන්ධනාගාරයෙන්මද ? ඝාතකයින්ගේ තොරතුරු හෙට ප්‍රසිද්ධ කෙරේ
+155881.json | SAITM sameera compliments the police  | 155881.json | පොලිසිය හොඳින් සැලකුවා - සයිටම් සමීරගෙන් වෙනස් කතාවක්
+155882.json | Presidential commission was informed Arjuna Mahendran was present at Public debt department during controversial bond issue | 155882.json | බැඳුම්කර ගණුදෙනුව අස්සේ අර්ජුන් මහේන්ද්‍රන් ණය දෙපාර්තමේන්තුවේ ගැවසුණු බව ජනපති කොමිසමේදීත් හෙලිවේ
+158294.json | Over 200 die in Putumayo floods  | 158294.json | කොළොම්බියාවේ නායයාමකින් 206 ක් මරුට - විශාල පිරිසක් අතුරුදන්
+158297.json | Dengue eradication funds and Overtime payments; Frontline Party raises questions | 158297.json | ඩෙංගු මර්දන අරමුදල් අතිකාල ගෙවීමට, පෙරටුගාමීන්ගෙන් චෝදනා
+158298.json | High Court Judge's revelation on Batticaloa lawyer Ramanathan Kannan | 158298.json | රාමනාදන් කන්නන් ඉවත් කිරීම සම්බන්ධයෙන් යෝජනා පහක් ඒකමතිකව සම්මත වේ
+158299.json | 6 Indians arrested along with 13.5 Kg’s of Heroin | 158299.json | මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 13.5 ක් සමග ඉන්දීය ජාතිකයන් හයක් අත්අඩංගුවට
+54425.json | More houses constructed under Api Wenuwen Api handed over to war heroes families  | 54425.json | ජනපති අතින් රණවිරුවන්ට නිවාස.
+54431.json | Police vigilant regarding big match violations    | 54431.json | පාසල් ක්‍රිකට් තරග ගැන පොලිසිය අවධානයෙන්.
+54432.json | Minister Basil speaks of a conspiracy against health and education | 54432.json | සෞඛ්‍යයට සහ අධ්‍යාපනයට එරෙහි කුමන්ත්‍රණයක්.
+54433.json | Opposition Leader reveals responsibility    | 54433.json | විපක්ෂ නායකවරයා යුතුකම පහදයි.
+54434.json | The Hindu reveals of India's plans to not vote against Sri Lanka during UNHRC | 54434.json | ශ්‍රී ලංකාවට එරෙහි ඡන්දයකට නොයෑමට ඉන්දියාවේ අදහසක්.
+54438.json | Mervyn hopes to come back | 54438.json | මර්වින් මඟ බලා හිඳී.
+56386.json | Pakistan Foreign Secretary to Sri lanka.  | 56386.json | පාකිස්තාන විදේශ ලේකම් ශ්‍රී ලංකාවට.
+56387.json | Heat will increase till April 15th       | 56387.json | අප්‍රේල් 15 වැනිදා තෙක් උණුසුම වැඩි වේ.
+56388.json | Tamil Nadu artists in a fast against Sri lanka today    | 56388.json | රැජිනි කාන්ත්, කමල් හසන්, විජේ අද සිට කුසගින්නේ.
+56389.json | Sri Lankan immigrants to Australia decrease       | 56389.json | හොරෙන් කැන්ගරු දේශයට යන ශ්‍රී ලාංකිකයන් අඩු වෙයි.
+56394.json | No reason for Sri Lankan's employed in South Korea to have any undue fear; FEB       | 56394.json | කොරියාව ගැන බිය වන්න එපා. - විදේශ සේවා නියුක්ති කාර්යාංශය.
+56395.json | Matara Passenger Transport Union says that it would not support the strike.       | 56395.json | අපි  ඕවට නෑ. - මාතර මගී ප්‍රවාහන සංගමය.
+189808.json | Late Dr. Peiris' honorary medal stolen | 189808.json | ප්‍රවීණ සිනමාවේදියාට රණ මයුර සම්මානය සමග හිමිවූ පදක්කම අතුරුදන්
+192118.json | IMF approves 4th installment of EFF | 192118.json | අයි.එම්.එෆ්. තවත් ණය වාරිකයක් අනුමතයි - විදුලියටත් මිල සූත්‍රයක් ඉල්ලයි
+192120.json | Postal employees to go on a strike | 192120.json | තැපැල් ස්ථානාධිපතිවරුන්, හෙට මැදියම් රැයේ සිට වර්ජනයක
+192121.json | 20th amendment sent to AG  | 192121.json | 20 වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධන පනත් කෙටුම්පත, නීතිපතිට
+192122.json | Govt.'s Presidential Candidate will be known by November, Minister Rajapakshe says | 192122.json | ජනපති අපේක්ෂකයා නොවැම්බරයේ - ඇමති විජේදාස
+192123.json | Secret ballot likely to elect Deputy Speaker | 192123.json | නියෝජ්‍ය කථානායක තෝරන්න, රහස් ඡන්දයක් එන ලකුණු
+192124.json | Heavy showers and strong winds predicted | 192124.json | දිවයිනේ බොහෝ ප්‍රදේශවලට අදත් වැසි
+223424.json | SCHOOL THIRD TERM BEGINS TODAY | 223424.json | තුන්වන පාසල් වාරය අද ඇරඹේ
+223425.json | A POLICY BASED ON SECURITY AND SOVEREIGNTY - GOTABHAYA | 223425.json | ආරක්ෂාව සහ ස්වෛරීත්වය මුල්කරගත් ප්‍රතිපත්තියක් - ගෝඨාභය
+223430.json | A PERSON ARRESTED WITH A FIREARM AND TWO SWORDS IN AMBALANGODA | 223430.json | අම්බලන්ගොඩදී ගිනි අවියක් සහ කඩු දෙකක් සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+223431.json | 2 Army personnel arrested for illegally possessing T- 56 rifles | 223431.json | ටී 56 ගිනි අවි සමඟ යුධ හමුදාවේ දෙදෙනෙකු කුරුණෑගලදී අත්අඩංගුවට
+223434.json | NAVY APPREHENDS 100 KILOS OF BEEDI LEAVES IN IRANATHIVU | 223434.json | ඉරණතිව්හිදී බීඩිකොළ කිලෝ 100 ක් නාවික හමුදා භාරයට
+223435.json | Youth drowns and goes missing during a sea bath in Wattala  | 223435.json | වත්තලදී මුහුදේ දිය නෑමට ගිය තරුණයෙකු දියේ ගිලී අතුරුදන්
+223436.json | Two killed after colliding with a train in Peradeniya | 223436.json | පේරාදෙණියේදි දුම්රියේ ගැටී දෙදෙනෙකු මරුට
+223437.json | 13 illegal immigrant boats to Australia within 18 months | 223437.json | මාස 18 ක් තුළ ශ්‍රී ලාංකිකයින් රැගත් අනවසර යාත්‍රා 13 ක් ඔස්ට්‍රේලියාවට
+223440.json | Development officers prepare for a strike | 223440.json | සංවර්ධන නිලධාරීන් වර්ජනයකට සැරසේ
+223441.json | UNP LEADERS REQUEST AN URGENT DISCUSSION | 223441.json | එජාපෙ නායකයින් හදිසි සාකච්ඡාවක් ඉල්ලයි
+223443.json | IF NEGOTIATIONS FAIL, WE WILL COMPETE ALONE | 223443.json | සාකච්ඡා අසාර්ථකවුවහොත් තනිව තරඟ කරනවා
+223450.json | THREE SUSPECTS ARRESTED FOR THE WALLAPATTA TRAFFICKING RACKET IN THE KNUCKLES RESERVE | 223450.json | නකල්ස් රක්ෂිතයේ වල්ලපට්ටා ජාවාරමේ නිරත වූ තුන්දෙනෙකු අත්අඩංගුවට
+223452.json | PROFESSOR CARLO FONSEKA AND VETERAN DANCE LECTURER PIYASARA SHILPADHIPATHI HAVE PASSED AWAY | 223452.json | මහාචාර්ය කාලෝ ෆොන්සේකා සහ නර්තන ආචාර්ය පියසාර ශිල්පාධිපති අභාවප්‍රාප්ත වෙයි
+223453.json | SHANIL NETHTHIKUMARA WITHDRAWS PERMISSION REQUESTED TO GO ABROAD | 223453.json | ශනිල් නෙත්තිකුමාරට විදේශගතවීමට ඉල්ලූ අවසරය ඉල්ලා අස්කරගනී
+213679.json | A Former accountant of Water Resources Board imprisoned | 213679.json | ජාතික ජල සම්පාදන මණ්ඩලයේ හිටපු ගණකාධිකාරීවරයෙකුට වසර 37ක සිර දඬුවම්
+213681.json | The Gazette issued notifying 25 thousand rupees penalty on 7 motor traffic offences | 213681.json | රථවාහන වැරදි 7 ක අවම දඩය 25,000 කිරීමේ ගැසට් පත්‍රය නිකුත් කෙරේ
+213683.json | Soththi Upali’s son arrested | 213683.json | සොත්ති උපාලිගේ පුතෙකු හෙරොයින් සමඟ අත්අඩංගුවට
+213687.json | 1st school Term ends on 5th April | 213687.json | පළමු පාසල් වාරය ලබන 05 වැනිදා අවසන්
+213691.json | CEB summoned to courts | 213691.json | විදුලිබල මණ්ඩලය අධිකරණයට කැඳවයි
+123234.json | Teachers Union to courts over Grade 1 admissions | 123234.json | පළමු ශ්‍රේණිය වෙනුවෙන් ගුරු සංගමයක්  උසාවියට
+123235.json | Another case for Ravi K and Chulananda Perera in front of FIB  | 123235.json | දුෂණ විරෝධී හඩෙන් නව වසරේ පැමිණිල්ලක්
+123236.json | Oil leak at Muthurajawela continues | 123236.json | මුතුරාජවෙල තෙල් කාන්දුව තවමත්
+123237.json | Government to reduce debts of farmer community | 123237.json | ගොවීන්ගේ ණය බර නැති කරන්න නව වසරේ සැලසුම්
+123238.json | One dies in Angammana road accident  | 123238.json | අංගම්මන දී රිය අනතුරකින් අයෙක් මරුට
+123239.json | Obama to take unilateral action on US gun violence   | 123239.json | නව වසරේ ගිනි අවි පාලනයට ඔබාමාගෙන් ප්‍රතිඥා
+123240.json | Abduction Case: AG's Dept. Considering What To Do | 123240.json | තරුණයා පැහැර ගැනීමට හිරුණිකාගේ ඇති සම්බන්ධය සෙවිමට නිතීපති උපදෙස්  අනුව තවදුරටත් විමර්ෂණ
+123245.json | Two die from road accidents in Welikada and Wariyapola | 123245.json | මහමග අනතුරු වලින් දෙදෙනෙකු මරුට
+50685.json | Government & UNP place confidence in parliament while JVP & TNA take up separate stance | 50685.json | ආණ්ඩුව සහ UNP පාර්ලිමේන්තුවේ. JVP සහ TNA  අධිකරණයේ.
+52574.json | Police protection provided to Kalpitiya hospital removed | 52574.json | කල්පිටිය රෝහලට යොදා තිබූ පොලිස් ආරක්ෂාව ඉවත් කෙරේ.
+52576.json | Law Entrance Examination to be compiled in all 3 migh pave way to conflicting issues | 52576.json | භාෂා තුනේ නීති විභාගයට ගැටළුවක්.
+52577.json | Sarath Fonseka hints about a Diabetes minister | 52577.json | දියවැඩියා ඇමතිවරයෙකු පිළිබද ෆොන්සේකාගෙන් ඉඟියක්.
+52578.json | LLRC report presented to British Foreign Secretary | 52578.json | උගත් පාඩම් වාර්තාව බ්‍රිතාන්‍ය විදේශ ලේකම්වරයා අතට.
+52579.json | Stay vigilant about children - says President  | 52579.json | දරුවන් පිළිබද අවදානයෙන් ඉන්න. - ජනපති.
+151110.json | Aim to reduce crime rates by 75% | 151110.json | පොලිසියේ ඉලක්කය පොලිස්පති පහදයි
+151113.json | Tolls at the expressway from 9.00pm to 5.00am reduced by Rs. 50  | 151113.json | ඊයේ අලුයම සිට අධිවේගී මාර්ග වල සිදුවූ සුවිශේෂ වෙනස මෙන්න
+151114.json | Jaliya Wickramasuriya re-remanded  | 151114.json | ජාලිය වික්‍රමසූරිය යළි රිමාන්ඩ්
+151117.json | Shoe hurled at Delhi chief minister Arvind Kejriwal in Haryana | 151117.json | රැළියක් අමතමින් සිටියදී ප්‍රධාන අමාත්‍යවරයෙකුට සපත්තු ප්‍රහාරයක් එල්ල වූ හැටි මෙන්න
+151119.json | Sarath Kumara Gunaratne remanded | 151119.json | හිටපු ධීවර නියෝජ්‍ය ඇමති සරත් කුමාර ගුණරත්න ලබන 9 වන දා දක්වා රිමාන්ඩ්
+151127.json | The Minister rejects de-limitation committee report as main political party members have not signed the document | 151127.json | සීමානිර්ණ කොමිසමේ වාර්තාව භාර ගැනීම විෂය භාර ඇමති ප්‍රතික්ෂේප කරයි
+151137.json | Pivithuru Hela Urumaya reveals 3 betrayals | 151137.json | මහා පාවාදීම් 3ක් ගැන, පිවිතුරු හෙළ උරුමය හෙළිදරව්වක
+194329.json | State bank broken into in Thalawa | 194329.json | තලාවේදී රාජ්‍ය බැංකුවක් බිද මුදල් හා ස්වර්ණාභරණ සොරාගනී
+194330.json | Divers close-in stranded Thai boys | 194330.json | තායිලන්තයේ ලෙනක සිරවූ පාපන්දු කණ්ඩායම සොයා තවදුරටත් මෙහෙයුම්
+194331.json | Vehicle used by Matara robbers found | 194331.json | මාතර කොල්ලයේ සැකකරුවන් පලාගිය මෝටර් රථය සොයා ගනී
+194343.json | Hand grenade attack in Kuliyapitiya | 194343.json | අත් බෝම්බ ප්‍රහාරයකින් කුලියාපිටියේ හතරකට තුවාල
+194344.json | Railway security officers to be deployed in civvies | 194344.json | සිවිල් ඇඳුමින් සැරසුණු ආරක්ෂකයින් අද සිට දුම්රියේ
+194345.json | Human-killing wild elephant captured (Photos) | 194345.json | කාන්තාවක් මැරූ ඇතා අල්ලයි (ඡායාරූප)
+194346.json | Minister Fonseka 'not sure' of his political future | 194346.json | දේශපාලන අනාගතය ගැන ඇමති ෆොන්සේකාගෙන් ප්‍රකාශයක්
+194348.json | Left-wing candidate wins presidential election in Mexico | 194348.json | මෙක්සිකෝවේ ජනපතිවරණයේ ජය ඇන්ඩ්‍රේස් මැනුවෙල්ට
+194350.json | CPC introduces Euro 4 | 194350.json | යූරෝ - 4 අද සිට වෙළඳපොළේ
+211529.json | Police investigations in to deaths of 2 Youths in Weligama | 211529.json | වැලිගම වැඩබිමක තරුණයන් දෙදෙනෙකු මියයාම ගැන පොලීසියෙන් විමර්ශන - විදුලි සැර වැදුණාදැයි සැකයක් - (ඡායාරූප)
+211530.json | Farmers Unions allege Sena compensation estimates unacceptable | 211530.json | සේනා වන්දි තක්සේරුව පිළිගත නොහැකි බවට ගොවි සමිතිවලින් චෝදනා
+211532.json | Meeting between Opposition Leader Mahinda and JVP Leader next week | 211532.json | විපක්ෂ නායක මහින්ද සහ ජ.වි.පෙ. අතර හමුව ලබන සතියේ
+211535.json | Bodu Bala Sena writes to Attorney General | 211535.json | බොදුබල සේනාව නීතිපතිට ලියයි
+211541.json | Student who saved girl friend, dies along with friend he tried to save | 211541.json | පෙම්වතියගේ දිවි ගැලවූ නාවලපිටියේ සිසුවෙකු මිතුරිය සමග දුම්රියට බිලි
+211542.json | Lal Kantha in remand for causing an accident while under the influence of alcohol | 211542.json | ලාල්කාන්ත රිමාන්ඩ්
+211545.json | Another accomplice of underworld criminal Kanjipani Imran arrested | 211545.json | කන්ජිපානි ඉම්රාන්ගේ ගෝලයෙකු කොටහේනේදී STF අත්අඩංගුවට
+211550.json | Police Officer and daughter killed in an accident | 211550.json | රිය අනතුරකින් පොලිස් නිලධාරියෙකු සහ ඔහුගේ දියණිය මරුට
+211557.json | Half burnt corpse of a female believed to have been killed, found from Chilaw | 211557.json | ඝාතනය කර අඩක් පිළිස්සු කාන්තා මළ සිරුරක් හමුවෙයි (ඡායාරූප)
+229395.json | Search and rescue operation for student buried due to an earth slip enters day 2 | 229395.json | පස් කන්දට යටවූ සිසුවා සෙවීමේ මෙහෙයුම් අද දෙවන දිනටත්
+229397.json | Main water line damaged - Water cut in Wattala | 229397.json | ප්‍රධාන ජල නළයක් පුපුරායාමෙන් වත්තල ප්‍රදේශ කිහිපයක ජල සැපයුම ඇණහිටී
+229398.json | Elephant carcass found from Thanamalwila | 229398.json | වන අලියෙකුගේ සිරුරක් තණමල්විලින් හමුවේ
+229399.json | Major Ajith Prsanna stages a sit in protest in front of Swiss Embassy | 229399.json | මේජර් අජිත් ප්‍රසන්න ස්විස් තානාපති කාර්යාලය ඉදිරිපිට උපවාසයක
+229401.json | Youth killed in motorbike accident | 229401.json | යතුරුපැදි අනතුරකින් තරුණයෙකු මරුට
+229402.json | President Gotabaya Rajapakshe directs officials to provide necessary relief affected by adverse weather | 229402.json | හදිසි ආපදා තත්ත්වය ගැන  ජනපතිගෙන් රාජ්‍ය නිලධාරීන්ට උපදෙස්
+229403.json | Seating arrangements for the new government completed | 229403.json | නව ආණ්ඩුවට ආසන පැනවීම අවසන්
+229404.json | A revelation by Apeksha hospital director over the influence made by former Health Minister Rajitha | 229404.json | හිටපු සෞඛ්‍ය ඇමති රාජිත කළ බලපෑම් ගැන අපේක්ෂා රෝහලේ අධ්‍යක්ෂවරයාගෙන් හෙලිදරව්වක්
+229405.json | Meeting between Pakistan Foreign Minister and Minister Dinesh Gunewardena    | 229405.json | පාකිස්ථාන විදේශ අමාත්‍යවරයා සහ අමාත්‍ය දිනේෂ් ගුණවර්ධන අතර හමුවක්
+229406.json | Reports called from state and private banks to consider relief mechanism to the people | 229406.json | ජනතාවට සහන දෙන්න රාජ්‍ය සහ පෞද්ගලික බැංකුවලින් වාර්තා කැඳවීමක්
+229407.json | No interruption to O/L ‘s because of the Disaster situation  | 229407.json | ආපදා තත්ත්වයෙන් සාමාන්‍ය පෙළට බාධාවක් නැහැ
+229408.json | Search operation to find missing child in Walapane disaster continues | 229408.json | ආපදා තත්ත්වයෙන් වලපනේ අතුරුදන්වූ දරුවා සොයා තවදුරටත් මෙහෙයුම්
+229415.json | Professor Winnie Vitharana passes away | 229415.json | මහාචාර්ය විනී විතාරණ අභාවප්‍රාප්ත වෙයි
+229416.json | Two youth arrested after presenting forged visas | 229416.json | ව්‍යාජ වීසා බලපත්‍ර ඉදිරිපත් කළ තරුණයන් දෙදෙනෙකු කටුනායකදී අත්අඩංගුවට
+229417.json | Sri Lanka wins first gold medal at SAG Games for Taekwondo  | 229417.json | සාග් ක්‍රීඩා උළෙලේදී ශ්‍රී ලංකාවට පළමු රන් පදක්කම ටයිකොන්ඩෝ ඉසව්වෙන්
+229420.json | Meeting between the President and the Canadian High Commissioner in Sri Lanka. | 229420.json | ශ්‍රී ලංකාවේ කැනඩා මහකොමසාරිස් සහ ජනපති අතර හමුවක්
+229421.json | UPDATE: Death toll in Ambalangoda accident rises to three | 229421.json | Update : අම්බලන්ගොඩ රිය අනතුරෙන් මවක සහ, දියණියන් දෙදෙනා මරුට
+184916.json |  JVP likely to lose 300 Local Government Authority seats | 184916.json | ජවිපෙට පළාත් පාලන පුටු 300 ක්  අහිමි වීමේ අවදානමක්
+184919.json | Tamed elephant to be given for religious activities | 184919.json | ආගමික කටයුතුවලට හීලෑ අලි ඇතුන් දෙන්න නව විෂය භාර ඇමති සැරසේ
+184920.json | Govt. surveyors to strike from next week | 184920.json | මිනින්දෝරුවන් 8 වනදා සිට අඛන්ඩ වැඩ වැරුමකට සූදානමින්
+184921.json | President vows to solve water issues in North Central Province | 184921.json | උතුරුමැද ජල ගැටලුව මේ වසරේදී නිමාවට
+184924.json | Poya day party ends in murder | 184924.json | සාදයක් අතරතුර ඇතිවූ ගැටුමකින් අයෙක් මරුට
+184926.json | Lalith Weeratunga allowed to travel abroad | 184926.json | ලලිත් වීරතුංගට රට යන්න අවසර
+184932.json | Colombo Municipal Commissioner removed! | 184932.json | කුණු කන්ද නිසා නාගරික කොමසාරිස් ඉවතට
+184938.json | Sergeant Major arrested for Kahagolla bus explosion | 184938.json | අත්බෝම්බය බස් රථයට ගෙන ආ, සෙබලා අත්අඩංගුවට
+184939.json | Another schoolgirl dies | 184939.json | තවත් පාසල් දැරියක් මරුට
+117646.json | Nine killed in college shooting in Oregon | 117646.json | ඇමෙරිකාවේ පාසලක වෙඩි තැබීමකින් දස දෙනෙකු මරුට
+117652.json | Student and the father of one referred to medical tests after release   | 117652.json | Update: නිදහස් වූ පාසල් සිසුවා සහ එක්දරු පියා වෛද්‍ය පරීක්ෂණයකට
+117653.json | Southern Expressway closed from Kokmaduwa- due to landslide risk | 117653.json | Update: නායයාමේ අවදානමක් නිසා, දක්ෂිණ අධිවේගී මාර්ගය කොක්මාදූවෙන් වැසේ
+117654.json | Speedy relief to the displaced – Premier    | 117654.json | ගංවතුරෙන් හා නායයාම්වලින් අවතැන්වූවන්ට කඩිනම් සහන සලසන්න - අගමැති
+117658.json | The missing 10k | 117658.json | රුපියල් දස දහස වැටුපට ලැබුණේ නැහැ
+117660.json | US plane crashes at Afghan airport | 117660.json | ඇෆ්ගනිස්ථානයේදී ඇමෙරිකානු ගුවන් යානයක් අනතුරට ලක්වී 11ක් මියයයි
+117664.json | New method to donate eyes, kidneys and livers | 117664.json | දෑස්, වකුගඩු, අක්මා දන්දෙන්න නව ක්‍රමවේදයක්
+117668.json | 4 Treasure hunters arrested   | 117668.json | බැකෝ යන්ත්‍රයකින් මින්නේරියේ නිධන් හෑරූ 4ක් මාට්ටු
+123251.json | 250 hospitalized from food poisoning  | 123251.json | ආහාර විෂවු  ඇගලුම් සේවකයින් ගණන 300 දක්වා ඉහළට
+123253.json | One dead and two missing in Mt. Lavinia | 123253.json | ගල්කිස්ස මුහුදු තීරයේදී අතුරුදන්වු දෙදෙනෙකු සොයා මෙහෙයුමක්
+123254.json | Two killed in motor accident in Dambulla | 123254.json | නව වසරේ පළමුවනදාම අවසන් ගමන් ගිය දඹුල්ලේ තරුණයන් දෙදෙනා
+123255.json | A clay phone left by aliens 800 years back found in Austria  | 123255.json | වසර 800 ක් පැරණි දුරකථනයක් - පිටසක්වල ජීවීන්ගේදැයි සැකයක්
+123256.json | Double tragedy at funeral  | 123256.json | අවමගුල්දා තවත් අවමගුලක්
+123257.json | 2763 deaths by road accidents in 2015 | 123257.json | 2015 රිය අනතුරුවලින් මරණ 2763 ක්
+123261.json | India build 43800 houses in North  | 123261.json | උතුරට නිවාස 43800 ක් ඉන්දියාවෙන්
+123264.json | parliament to be a constitutional committee on 9th  | 123264.json | ව්‍යවස්ථාදායක මණ්ඩලය ජනවාරි 9 වනදා සිට
+123265.json | Mother imprisoned for helping to rape daughter  | 123265.json | දියණිය දුෂණයට අනුබල දුන් මවක්
+123275.json | Advance level student jumps to his death from three-storey building | 123275.json | උසස් පෙළ සිසුවකු නිවසේ තුන්වන මහලින් පැන සියදිවි නසා ගනී
+231446.json | New Governor of Northern Province assumes duties | 231446.json | උතුරු පළාත් නව ආණ්ඩුකාරවරිය සිය ධුරයේ වැඩ භාර ගනී
+231448.json | DINESH NAMED LEADER OF THE HOUSE, JOHNSTON, GOVERNMENT CHIEF WHIP; GAYANTHA NAMED AS OPPOSITION CHIEF WHIP | 231448.json | සභානායක සහ ආණ්ඩුවේ ප්‍රධාන සංවිධායක තනතුරු නම් කෙරේ
+231449.json | Person arrested with detonators | 231449.json | ඩෙටනේටර් සමඟ පුද්ගලයෙකු අත්අඩංගුවට
+231451.json | Gayantha Karunathilaka appointed as Chief Opposition Whip | 231451.json | විපක්ෂයේ ප්‍රධාන සංවිධායක ලෙස මන්ත්‍රී ගයන්ත කරුණාතිලක නම් කෙරේ
+231454.json | PRIME MINISTER INSTRUCTS TO RELEASE 2 BILLION TO IMPORT FERTILIZER | 231454.json | පොහොර සඳහා බිලියන 2ක් මුදා හරින්නැයි අගමැතිගෙන් උපදෙස්
+231455.json | PROJECT DIRECTOR ASSURES MORAGAHAKANDA LEAK WOULD DO NO HARM | 231455.json | මොරගහකන්දේ කාන්දුව ගැන ව්‍යාපෘති අධ්‍යක්ෂවරයාගෙන් සහතිකයක්
+231458.json | DINESH NAMED LEADER OF THE HOUSE, JOHNSTON, GOVERNMENT CHIEF WHIP; GAYANTHA NAMED AS OPPOSITION CHIEF WHIP | 231458.json | සභානායක දිනේෂ් - ආණ්ඩුවේ ප්‍රධාන සංවිධායක ජොන්ස්ටන් - විපක්ෂයේ සංවිධායක ගයන්ත
+231473.json | Nushad Perera appointed as Chairman of Lanka Sathosa | 231473.json | සතොස සභාපති ලෙස නුෂාඩ් පෙරේරා පත්කෙරේ
+233527.json | Death toll from Wuhan Coronavirus rises to 304, Total number of those infected 14,300; Sri Lankans who arrived from Wuhan in good health | 233527.json | කොරෝනා වෛරසයෙන් මියගිය ගණන 300 ඉක්මවයි - චීනයේ ආසාදිතයන් 14,300ක්
+233532.json | 2 Billion allocated for Sri Lanka through India’s budget | 233532.json | ඉන්දීය අයවැයෙන් ශ්‍රී ලංකාවට කෝටි 200ක්
+132214.json | Minister Ravi Karunanayake Reveals Namal Rajapakse's Fate | 132214.json | "නාමල්ට අත්වන ඉරණම" රවී හෙළි කරයි
+132216.json | Mahinda Rajapaksha's Military Security Withdrawn  | 132216.json | මහින්දගේ යුධ හමුදා ආරක්ෂාව අද සිට ඉවත් කරයි
+132217.json | LG Polls To Be Held In Early 2017, says Minister Faizer Mustapha | 132217.json | ලේකම්වරුන්ට අවශ්‍ය පරිදි ඡන්දය තියන්නේ නැහැ
+132222.json | Vehicle Prices Up From Today | 132222.json | වාහන මිල ඉහළයයි
+132224.json | An emergency meeting of the SLFP central working committee to be convened | 132224.json | කිරුළපන ගිය පිරිස ගැන විශේෂ තීරණයක්
+132225.json | University Student Killed after Being Run Over by May Day Rally Bus | 132225.json | මැයි දිනයට පැමිණි බස් රථයකට යටවී සරසවි සිසුවෙකු මරුට
+132229.json | Due To Territorial Losses, ISIS 'Boosting Attacks' | 132229.json | අයි.එස්. ප්‍රහාර ඉහළට
+132232.json | Most Venerable Seruwila Saranakiththi Thera Passes Away | 132232.json | සේරුවිල නාහිමියන් අපවත් වෙයි
+132233.json | 70,000 vehicles used the Southern Expressway on May Day | 132233.json | මැයි දිනයේදී දක්ෂිණ අධිවේගී මාර්ගයේ වාහන 70 000 ක් ගමන් කරයි
+132235.json | Kidney Racket: Seven Suspects Re-remanded until 16th  | 132235.json | වකුගඩු ජාවාරමට අත්අඩංගුවට ගත් ඉන්දියානුවන් හත්දෙනා යළි රිමාන්ඞ්
+132236.json | Retired policeman commits suicide  | 132236.json | විශ්‍රාමික පොලිස් නිලධාරියෙකු සියදිවි හානි කරගනී
+132240.json | Mahinda Rajapaksha's Withdrawn Army Security Replaced with Police STF  | 132240.json | හිටපු ජනපති මහින්ද රාජපක්ෂගේ නව ආරක්ෂකයින් මෙන්න
+132242.json | Former LTTE Senior Leader Arrested | 132242.json | තවත් හිටපු LTTE නායකයකු අත්අඩංගුවට
+132243.json | US Cruise Ship Travels To Cuba For First Time In Decades | 132243.json | වසර 50ක් නොගිය තැනකට නැවක් යයි
+132244.json | Full List Of Vat Exempted Goods And Services | 132244.json | වැට් බද්දෙන් නිදහස් වන භාණ්ඩ හා සේවා මෙන්න
+132245.json | Police Media Unit Suspended | 132245.json | පොලිස් මාධ්‍ය අංශයේ කටයුතු අත්හිටුවයි
+132249.json | Eastern Province Schools To Close Early Due To Heat | 132249.json | උණුසුම නිසා පාසල් කලින් වැසෙයි
+196629.json | Office of Mullaitivu Assistant Fisheries Inspector attacked (Photos) | 196629.json | මුලතිව් සහකාර ධීවර පරික්ෂක කාර්යාලයට ප්‍රහාරයක් (ඡායාරූප)
+196633.json | 130 kilos of KG found in Mannar | 196633.json | කේරළ ගංජා කිලෝ 130 ක් සමඟ පුද්ගලයෙකු මන්නාරමේදී අත්අඩංගුවට
+196634.json | Laos extends on arrival visa facility to Sri Lankans | 196634.json | වීසා නොමැතිව ලාඕසයට යාමට ශ්‍රී ලාංකිකයන්ට වරම්
+196638.json | 11 arrested over incidents in Jaffna | 196638.json | යාපනයේ කළහකාරි ලෙස හැසිරුණු 11 ක් අත්අඩංගුවට
+196641.json | Traffic congestion in Town Hall area | 196641.json | කොළඹ පුරහල අවට රථ වාහන තදබදයක් (ඡායාරූප)
+196642.json | Aloysius & Palisena remanded | 196642.json | අර්ජුන් ඇලෝසියස් සහ කසුන් පලිසේන යළි රිමාන්ඩ්
+196646.json | Speaker seeks UPFA Gen. Sec. oppinion on Speaker | 196646.json | විපක්ෂ නායක ධුරය ගැන කතානායක, සන්ධාන මහලේකම්ගේ මතය විමසයි
+196653.json | Finance Minister explains reasons to increase vehicle taxes | 196653.json | වාහන මිල වැඩි කිරීමට හේතුව මුදල් ඇමති පැහැදිලි කරයි
+196659.json | Mismatch in a complaint on North East housing project | 196659.json | උතුරු නැගෙනහිර නිවාස ව්‍යාපෘතියක් ගැන සිදුකළ පැමිණිල්ලක පරස්පරතාවක්
+198949.json | SLFP celebrates 67th anniversary today | 198949.json | ශ්‍රී ලංකා නිදහස් පක්ෂ 67 වන සංවත්සරය අදයි
+198952.json | Bakery owners to convene tomorrow to decide on bread price | 198952.json | පාන් මිල ගැන තීන්දුවකට බේකරි හිමියන් හෙට රැස්වේ
+198953.json | Three fishermen missing in Pothuvil | 198953.json | පොතුවිල් ධීවර වරායෙන් මුහුදු ගිය ධීවරයින් 3 ක් තවමත් අතුරුදන්
+198954.json | BPG Pioneer commences oil exploration | 198954.json | අද සිට ‘‘බී.ජී.පී. පයනියර්’’ තෙල් ගවේෂණය අරඹයි
+198956.json | US cuts $ 300mn military aid to Pakistan | 198956.json | ඇමරිකාව, පාකිස්ථානයට ඩොලර් මිලියන 300 ක ආධාර කපා හරී
+221349.json | PARLIAMENT SELECT COMMITTEE WILL MEET AGAIN ON TUESDAY. | 221349.json | පාර්ලිමේන්තු තේරීම්කාරක සභාව යළි අගහරුවාදා රැස්වෙයි
+221357.json | A PERSON KILLED BY WILD ELEPHANT ATTACK IN ANAMADUWA | 221357.json | ආනමඩුවේදී වන අලි ප්‍රහාරයකින් පුද්ගලයෙකු මරුට
+221361.json | A SRI LANKAN FATHER HAS SHOT HIS DAUGHTER IN ITALY  | 221361.json | ඉතාලියේදී ශ්‍රී ලාංකික පියෙකු දියණියට වෙඩි තබා, දිවි නසා ගැනීමට උත්සාහ දැරූ බවට තොරතුරු
+221364.json | Warrants issued on Nissanka and Palitha Fernando | 221364.json | නිශ්ශංක සේනාධිපතිට සහ පාලිත ප්‍රනාන්දුට වරෙන්තු
+221365.json | Hambanthota Mayor Eraj Fernando and Premasiri Paranamana sentenced to 5 years rigorous imprisonment | 221365.json | හම්බන්තොට නගරාධිපති එරාජ් රවීන්ද්‍ර සහ ප්‍රේමසිරි පරණමානට වසර 5 ක සිරදඩුවම්
+221366.json | NEW PASSPORT FOR GOTABHAYA | 221366.json | ගෝඨාභයට නව විදෙස් ගමන් බලපත්‍රයක්
+221367.json | SARATH AMUNUGAMA BEFORE THE PRESIDENTIAL COMMISSION  | 221367.json | සරත් අමුණුගම ජනපති කොමිසමට
+221368.json | EIGHT SUSPECTS INCLUDING ALI ROSHAN GIVEN BAIL | 221368.json | අලි රොෂාන් ඇතුළු 8 දෙනාට ඇප
+221369.json | MUSLIM CONGRESS IN A DECISIVE MEETING | 221369.json | මුස්ලිම් කොංග්‍රසය තීරණාත්මක හමුවක
+221370.json | THE SHOOTING IN MARADANA – A FINANCIAL DISPUTE?  | 221370.json | මරදානේ වෙඩි තැබීම මුදල් ආරවුලක් ද ?
+221371.json | ANOTHER ACCUSATION BY VEN. RATHANA THERO  | 221371.json | රතන හිමියන්ගෙන් තවත් චෝදනාවක්
+221375.json | DIG KURUNEGALA TRANSFER APPROVED BY POLICE COMMISSION | 221375.json | කුරුණෑගල නියෝජ්‍ය පොලිස්පතිවරයාගේ ස්ථාන මාරුවට පොලිස් කොමිසමේ අනුමැතිය
+221376.json | 21 YEARS OF HIRU; 21 MILLIONAIRES IN 21 DAYS”  - HIRU VISITS THE HOME OF THE 17TH MILLIONAIRE WITH THE GIFT | 221376.json | "හිරුට 21යි දවස් 21න් දස ලක්ෂපතියන් 21 යි!" - දාහත්වන දස ලක්ෂපතියාගේ නිවසට තෑග්ගත් අරන් හිරු ගිය ගමන
+221377.json | TRAFFIC RESTRICTED ON SEVERAL ROUTES IN MODERA | 221377.json | මෝදර ප්‍රදේශයේ මාර්ග කිහිපයක රථ වාහන ගමනාගමනයට සීමා
+209539.json | Virus to combat Fall Army Worm from next Yala Season | 209539.json | සේනා මර්දන වෛරසය, යල කන්නයේදී
+209546.json | Meeting between President and Vice President of Seychelles | 209546.json | ජනපති සහ ෂී සෙල්ස් උප ජනපති අතර හමුවක්
+209547.json | Customs continues work to rule; Income decreases by 65 percent | 209547.json | රේගුව, තවදුරටත් අකුරට වැඩ - ආදායම සියයට 65 කින් පහළට
+209548.json | Digambaram to take a decision on the 5th | 209548.json | දිගම්බරන් 5 වන දා තීරණයක් ගැනීමට සූදානමින්
+209552.json | Westminister court revokes arrest warrant on Brigadier Priyanka | 209552.json | බ්‍රිගේඩියර් ප්‍රියංකගේ වරෙන්තුව, වෙස්ට්මිනිස්ටර් අධිකරණය ඉවත දමයි
+160424.json | Joint Opposition accused by Port Authority, yet again | 160424.json | වරාය අධිකාරියෙන් ඒකාබද්ධයට යළිත් චෝදනාවක්
+160426.json | Two women hacked to death in Hambantota | 160426.json | හුංගම කාන්තාවන් දෙදෙනෙකු ඝාතනය කෙරේ (ඡායාරූප)
+160427.json | Two persons who became ill during May Rallies still hospitalized | 160427.json | මැයි රැළියේදී උණුසුම නිසා රෝගී වූ දෙදෙනෙක් තවමත් රෝහලේ
+160428.json | Warm weather prevailed till the end of month | 160428.json | දැඩි උණුසුම මේ මස අවසන් වන තුරු
+160430.json | Cockroaches spread asthma - Consultants opine | 160430.json | කැරපොත්තන්ගෙන් ඇදුම පැතිරීම වැඩිවේ - විශේෂඥ වෛද්‍ය මතයක්
+160432.json | Kandy , Gohagoda garbage mount prone to danger | 160432.json | ගොහාගොඩ කුණු කන්ද අවදානම්
+160434.json | Policeman who shot at UNP headquarters remanded | 160434.json | Update - සිරිකොතට වෙඩි තැබූ පොලිස් නිලධාරියා රිමාන්ඩ්
+160439.json | Several trade unions on strike on May 5th  | 160439.json | සෞඛ්‍ය, ගුරු, ප්‍රවාහන ඇතුළු වෘත්තීය සමිති රැසක් 5 වන දා දීප ව්‍යාප්ත වර්ජනයක
+160440.json | 2 motorcyclists wearing full face helmets rob 3.1 million rupees | 160440.json | හොරණදී රුපියල් ලක්ෂ 31 ක මුදලක් කොල්ලකයි
+160441.json | Dondra Head Light House re-opened for public viewing from 4th  | 160441.json | දෙවිනුවර ප්‍රදීපාගාරය අනිද්දා සිට යළි මහජනතාවට විවෘතයි
+160442.json | One person dead while way back home from UNP May Rally | 160442.json | එජාප මැයි රැළියට සහභාගී වු අයෙකුත් මරුට (ඡායාරූප)
+160445.json | Dead body of the youth who went missing in Kothmale Oya found (Photos) | 160445.json | කොත්මලේ ඔයේ අතුරුදන්වු තරුණයාගේ සිරුර හමුවෙයි (ඡායාරූප)
+179910.json | Heavy traffic on exit points of Katunayake Expressway | 179910.json | කොළඹ - කටුනායක අධිවේගී මාර්ගයේ රථ වාහන තදබදයක්
+179914.json | Grenade thrown at North Western Assistant Excise Commissioner's home | 179914.json | සුරාබදු සහකාර කොමසාරිස්වරයෙකුගේ නිවසට අත්බෝම්බ ප්‍රහාරයක්
+179923.json | Rs. 14.5 million robbed in Nuwara Eliya (Photos) | 179923.json | සීතල නුවරඑළිය රත්කළ මංකොල්ලය (ඡායාරූප)
+179926.json | JVP seeks Presidential Commission reports | 179926.json | ජවිපෙ, ජනපති ලේකම් කාර්යාලයට
+179928.json | Fire at Meetotamulla garbage mound believed to be a chemical reaction | 179928.json | මීතොටමුල්ල කුණු කන්දේ ගින්නට හේතුව
+179933.json | Fair weather to prevail | 179933.json | වියළි කාලගුණය ඉදිරියටත්
+179936.json | Body of a foreigner found in Maligawatte | 179936.json | විදේශිකයෙකුගේ අභිරහස් මරණයක්
+179938.json | Piyasena Gamage assumes duties | 179938.json | පියසේන ගමගේ වැඩ භාර ගනී
+179943.json | India seeks Interpol assistance to arrest sandalwood racketeers | 179943.json | රත් හඳුන් ජාවාරම්කරුවන් ගැන තොරතුරු ජාත්‍යන්තර පොලීසියට
+227480.json | Student killed by a firecracker | 227480.json | මල්වෙඩිල්ලක් පාසල් සිසුවෙකුට මරු කැඳවයි
+227483.json | Many including Monks oppose the mudslinging poster campaign against Hiru | 227483.json | හිරුට එරෙහි මඩ පෝස්ටර් ව්‍යාපාරයට මහා සංඝරත්නය ප්‍රමුඛව දස දෙසින් විරෝධය
+227484.json | A new vehicle tax system now in effect | 227484.json | අලූත් වාහන බද්දක් දැන් ක්‍රියාත්මකයි
+227485.json | Complaint lodged with Police against Hakeem | 227485.json | හකීම්ට එරෙහිව පොලීසියට පැමිණිල්ලක්
+227492.json | 3 Sri Lankans killed after a vehicle topples in to a river in Madagascar | 227492.json | මැඩගස්කරයේදී මෝටර් රථයක් ගංඟාවකට පෙරලී ශ්‍රී ලාංකිකයන් තුන් දෙනෙකු මරුට
+229379.json | Pakistani Foreign Minister arrives in the Island | 229379.json | පාකිස්ථාන විදේශ අමාත්‍යවරයා දිවයිනට
+229380.json | GCE O/L Examination commences today | 229380.json | සාමාන්‍ය පෙළ විභාගය අදින් ඇරඹේ
+229381.json | Attack on church kills at least 14 | 229381.json | බර්කිනා පාසෝ හි දේවස්ථානයකට එල්ලවූ ප්‍රහාරයකින් 14 ක් මරුට
+229385.json | Former Ministers have not handed over their official quarters and vehicles | 229385.json | හිටපු ඇමතිවරු නිල නිවාස සහ වාහන භාරදී නැහැ
+229386.json | Heavy rains expected in the North- East | 229386.json | උතුර - නැගෙනහිරට අදත් තද වැසි
+229387.json | Information regarding the officer is contradictory - Government provides proof before the Swiss ambassador | 229387.json | ස්විස් තානාපති කාර්යාලයේ නිලධාරිනිය පිළිබඳ සිද්ධියේ තොරතුරු පරස්පරයි - ස්විස් තානාපතිට රජය සාක්ෂි සහිතව පෙන්වයි
+229392.json | A person arrested for illegally flying a drone camera | 229392.json | නීතිවිරෝධීව ඩ්‍රෝන කැමරාවක් ගුවන් ගත කළ පුද්ගලයෙකු අත්අඩංගුවට
+106757.json | Court lifts full-face ban again | 106757.json | නැවතත් පොලිසිය ගෙනා හෙල්මට් නිතිය පස්සට
+106758.json | 4 arrested at Katunayake for attempting to smuggle foreign currency and unpolished gold | 106758.json | හතර දෙනෙක් කරපු හොර වැඩේ මෙන්න
+106772.json | Basil Rajapakse to return on April 20th | 106772.json | බැසිල් 20 එනවා
+106773.json | A commission for a new electoral system | 106773.json | නව ඡන්ද ක්‍රමයක් සඳහා කොමිසමක්
+106774.json | Parliament debate on 19th amendment on April 9th and 10th | 106774.json | 19 ගැන පාර්ලිමේන්තු විවාදය 09 සහ 10 දිනවල
+108681.json | Update : US State Secretary John Kerry states that Sri Lanka is heading towards its goals  | 108681.json | Update : ශ්‍රී ලංකාව, ඉලක්ක වෙත - ඇමරිකානු රාජ්‍ය ලේකම්
+108682.json | Special raids on alcohol this week | 108682.json | විශේෂ මත්පැන් වැටලීම් සතියක් ඇරඹේ
+153463.json | Update: Delay of train on Kelani Valley Railway Line continues | 153463.json | Update : කැළණිවැලි මාර්ගයේ දුම්රිය ප්‍රමාදය තවදුරටත්
+153467.json | Corruption and fraud committed by the current government will be dealt with- President  | 153467.json | වත්මන් රජයේ වංචා දූෂණ සම්බන්ධයෙන්ද තීන්දු තීරණ ගන්නා බව ජනපති කියයි
+153468.json | GMOA meet today to take a decision on SAITM verdict | 153468.json | සයිටම් තීන්දුව ගැන තීරණයක් ගන්න රජයේ වෛද්‍යවරුන් අද රැස්වේ
+153470.json | Investigation into Senkadagala Menike leaving behind train compartments  | 153470.json | සෙංකඩගල මැණිකේ මැදිරි මගදමා යාම පිළිබඳ පරීක්ෂණයක්
+153471.json | Organizing secretary post of Frontline Party for Kumar Gunaratnam | 153471.json | පෙරටුගාමී පක්ෂයේ සංවිධායක ලේකම් ධුරය කුමාර් ගුණරත්නම්ට
+153472.json | Government should be more democratic- former president  | 153472.json | රජය ප්‍රජාතන්ත්‍රවාදි විය යුතුයි - හිටපු ජනපති කියයි
+153473.json | Circular for NICs of O/L candidates posted to schools  | 153473.json | 2017 අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ සිසුන් වෙත විශේෂ නිවේදනයක්
+153477.json | Young woman arrested on heroin charges in Modara  | 153477.json | මෝදරදී හෙරොයින් සමඟ තරුණියක් අත්අඩංගුවට
+153478.json | White House Puts Iran ‘On Notice’ for Missile Test | 153478.json | ඇමරිකාවේ ජාතික ආරක්ෂක උපදේශකගෙන් ඉරානයට අනතුරු ඇඟවීමක්
+153479.json | Heavy traffic in Colombo Fort area | 153479.json | කොළඹ කොටුව අවට රථවාහන තදබදයක්
+153481.json | Man beats wife, commits suicide in Buttala  | 153481.json | බිරිඳට පහරදුන් සැමියා ගෙළ වැළලාගනී
+153482.json | 69TH INDEPENDENCE DAY CELEBRATIONS REHEARSALS | 153482.json | 69 වන නිදහස් සමරු උළෙලේ පෙර පුහුණුවීම් සිදුවන අයුරු මෙන්න
+153484.json | Two arrested with an illegal load of teakwood  | 153484.json | නීතිවිරෝධී දැව තොගයක් සමඟ දෙදෙනෙකු වනාතවිල්ලුවේදී අත්අඩංගුවට
+177403.json | Weather havoc: Death toll risen to 13 | 177403.json | ආපදා මරණ 13 දක්වා ඉහළට - තවමත් 05 දෙනෙකු අතුරුදන්
+177408.json | Calls for protection of Wijayaba tusker | 177408.json | ‘විජයබා’ රැක ගන්නැයි අලි ඇතුන්ගේ සංගමයක් ඉල්ලයි
+177410.json | Weather havoc: Damaged houses to be compensated | 177410.json | ආපදා නිවාස හානිවූවන්ට වන්දියෙන් කොටසක් අද
+177411.json | Weather havoc: Cyclonic effect receding | 177411.json | ‘ඔකී’ සුළි කුණාටුව දිවයිනෙන් ඉවතට - අද සිට වැසි අඩු වේ - නිල්වලා, කළු, ගිං තවමත් පිටාර ගලයි
+177423.json | Another low pressure zone being developed | 177423.json | දෙසැම්බර් 05 වන දා සිට ශ්‍රී ලංකාවට තවත් අඩු පීඩන කලාපයක බලපෑම ඇති වන ලකුණු
+177431.json | Police dogs to control protests | 177431.json | උද්ඝෝෂණ පාලනයට නිළ සුනඛ සහාය
+177432.json | Weather havoc: Risk of communicable diseases increasing | 177432.json | වැස්සත් සමඟ බෝවන රෝග පැතිර යාමේ අවදානමක්
+177438.json | Weather havoc: Death toll risen to 15 | 177438.json | ආපදා මරණ 15 දක්වා ඉහළට - ඔකී දුරස්වද්දී, තවත් අඩු පීඩන කලාපයක් ශ්‍රී ලංකාව දෙසට
+177449.json | Van topples into precipice, 6 injured (Photos) | 177449.json | පනාගොඩ දස දෙනා බදුල්ලේදී ප්‍රපාතයක නවතී (ඡායාරූප)
+64266.json | 59 injured still hospitalized -8 undergoing intensive care | 64266.json | තුවාල ලැබූ 59 ක් තවමත් රෝහල්වල - 08 දෙනෙක් දැඩි සත්කාරයේ.
+64267.json | The Weliweriya incident was instigated by an outside group of armed individuals - states the Army | 64267.json | වැලිවේරියේ උණුසුම් කළේ පිටතින් පැමිණි පිරිසක් - හමුදාව කියයි.
+64290.json | Daladagama accident kills 3 from the same family. | 64290.json | දළදාගම අනතුරකින් එකම පවුලේ තුන්දෙනෙකු මරුට.
+64291.json | President invites the Pope | 64291.json | ජනපතිගෙන් පාප් වහන්සේට ඇරයුම්.
+64292.json | Min. Mervin accuses politicians in Gampaha; This is a political thirst; Min Dallas | 64292.json | ගම්පහ දේශපාලනඥයන්ට ඇමති මර්වින්ගෙන් චෝදනා.
+64293.json | Youth in Weliweriya died due to gun shot wound; Investigations handed over to CCD; 56 still receiving treatment in hospital | 64293.json | වැලිවේරියේ තරුණයා මිය ගියේ වෙඩි වැදීමෙන්. - මරණ පරීක්ෂක
+108685.json | 1,000 EU citizens still unaccounted for after Nepal quake | 108685.json | නේපාල භූ කම්පනයෙන් යුරෝපයේ දහසක් අතුරුදන්
+108690.json | Update: Hiru Shakya Sinha Vesak Ceremony attracts Unprecedented Crowd at Kataragama  | 108690.json | Update: හිරු ශාක්‍යසිංහ මංගල්‍යය වෙනුවෙන් වාර්තාගත බැතිමතුන් පිරිසක් කතරගමට
+108704.json | SLAF’s another relief plane to Nepal | 108704.json | සහනාධාර රැගෙන ගුවන් හමුදාව යළි නේපාලයට
+108709.json | Parliament to prioritize youth - PM | 108709.json | තරුණ පෙළට මුල්තැන දෙන පාර්ලිමේන්තුවක්
+108714.json | Nepal rules out finding survivors as quake toll rises | 108714.json | දහස් සංඛ්‍යාත නේපාල වැසියන් පිළිබද වාර්තා නැහැ
+108716.json | Foreign currency seized at BIA | 108716.json | Update: කෝටි 10ක්  රාජසන්තකයි
+108721.json | Royal baby: Kate Middleton gives birth to a girl | 108721.json | විලියම් සහ කේට් යුවලට දූ  කුමරියක්
+182693.json | India sets aside more funds to negate region’s Chinese influence | 182693.json | චීනය නිසා ශ්‍රී ලංකාවට ඉන්දීය ආධාර වැඩිවේ
+184943.json | 2400 tanks to be renovated | 184943.json | වැව් 2400 ක් ප්‍රතිසංස්කරණය කිරීම ජනපති ප්‍රධානත්වයෙන් ඇරඹෙයි
+187439.json | Present political culture needs to be changed says Kumar Gunaratnam | 187439.json | ජනතා ගැටළුවට විසඳුම් නැත්තේ පවතින දේශපාලන ක්‍රමයේ ගැටළු නිසා - කුමාර් ගුණරත්නම්
+187479.json | SriLankan gets a new board | 187479.json | ශ්‍රී ලන්කන් ගුවන් සමාගමට නව අධ්‍යක්ෂ මණ්ඩලයක් පත්කෙරේ
+189752.json | Trade unions including GMOA oppose Singapore FTA | 189752.json | වෛද්‍යවරුන් ඇතුළු සමිති රැසක් වෘත්තීය ක්‍රියාමාර්ගවලට සැරසේ
+192163.json | Abducted 8-month-old infant found  | 192163.json | වව්නියාවේ දී පැහැරගත් මාස 8 බිළිඳා හමුවෙයි
+194325.json | Cocaine worth Rs. 35mn retrieved from Brazilians | 194325.json | බ්‍රසීල ජාතිකයින් දෙදෙනාගෙන් පිටතට ගත් කොකේන්වල වටිනාකම කෝටි තුන ඉක්මවයි
+201210.json | Fishermen warned to refrain from going out to sea until early tomorrow morning | 201210.json | ප්‍රදේශ කිහිපයක මුහුදේ සුළං වේගය ඉහළට - ධීවරයින්ටත් උපදෙසක්
+203450.json | STF protection for Attorney Generals department | 203450.json | නීතිපති දෙපාර්තමේන්තුවට STF ආරක්ෂාව
+205323.json | New revelations about pre historic homo sapiens in Jaffna | 205323.json | යාපනයෙන් ප්‍රාග් ඓතිහාසික මානවයින් ගැන අලූත් හෙළිදරව්වක්
+213710.json | USD 7500 Fine imposed on Dimuth Karunarathne  | 213710.json | බීමතින් රිය පදවා අනතුරක් සිදුකළ දිමුත්ට ඩොලර් 7500ක් දඩයක්
+217553.json | Farmers advised not to fear the new caterpillar variant | 217553.json | අලුත් දළඹුවා ගැන බිය නොවන්නැයි ගොවීන්ට උපදෙස්
+114212.json | 4 organisers including the leader of the Kegalle district representing Fonseka’s party and 4 candidates join the UNP | 114212.json | ෆොන්සේකාගේ පක්ෂයේ 4ක් එජාපයට පනී #GenElecSL
+114214.json | Gun shots fired at the house of a Police inspector attached to the Bribery Commission | 114214.json | අල්ලස් කොමිසමේ පරීක්ෂකවරයෙකුගේ නිවසට වෙඩි
+114217.json | Update : Provincial council Minister Pramitha Bandara released on bail | 114217.json | Update : අත්අඩංගුවට පත් පළාත් ඇමති ප්‍රමිත බණ්ඩාර ඇප මත මුදා හැරේ
+114218.json | Legal action against former President Mahinda Rajapakse for not paying the fees of buses obtained from the SLTB | 114218.json | බස්වලට මුදල් නොගෙව්වාට මහින්දට නඩු
+114220.json | Dilan Perera must be summoned to the CID for questioning; says Min Amarathunga | 114220.json | හිටපු ඇමති ඩිලාන් රහස් පොලීසියට කැදවා ප්‍රශ්න කළ යුතුයි #GenElecSL
+139618.json | Veteran Sound Engineer Mervyn Baines no more | 139618.json | මර්වින් බේන්ස් නිහඩ වේ
+139619.json | India Already Had Some Of The World's Strictest Gun Laws. Now It's Tightened Them | 139619.json | ඉන්දියාව අවි පාලන නීති දැඩි කරයි
+139621.json | Man arrested with heroin and foreign notes- [photos] | 139621.json | බිරිඳ සහ සැමියා කළ හෙරොයින් ජාවාරම (ඡායාරූප)
+139622.json | Two Dead, 100 Rescued After Flooding Causes 'Tremendous Devastation' In Maryland | 139622.json | මහා ගංවතුරේ ගිය තරුණිය බේරන්න දිවි පරදුවට තබා තැනූ මිනිස් දම්වැල
+139632.json | President Says Economy Should Be Handled Without Burdening The Public | 139632.json | ජනතාවට බරක් නොවන ලෙස ආර්ථිකය හැසිර විය යුතු බව ජනපති කියයි
+139633.json | Jobs Of Sri Lankan Nationals In Saudi Arabia At Risk | 139633.json | සෞදියේ ශ්‍රී ලාංකිකයන්ගේ රැකියා අවදානමේ
+139635.json | One Hour Delay In Distributing Advance Level Papers At Gampaha, Heanegama Vidyalaya | 139635.json | ගම්පහ - හේනේගම විදුහලේ උසස් පෙළ ප්‍රශ්න පත්‍ර පැයක් ප්‍රමාදයි
+139637.json | Court Issue Notice On Attorney General | 139637.json | අධිකරණයෙන් නීතිපතිවරයාට නොතීසි
+139638.json | No Compensation For Port City Project Delay - Says China | 139638.json | වරාය නගර ව්‍යාපෘතිය නතර කළ නිසා පාඩු නොඉල්ලන බව චීනය කියයි
+139639.json | Former TNA MP P.H. Piyasena Further Remanded | 139639.json | දෙමළ සන්ධානයේ හිටපු මන්ත්‍රී පී.එච්. පියසේන යළි රක්ෂිත බන්ධනාගාරයට
+139640.json | Father Films His Two Young Boys Stumbling Around 'Drunk | 139640.json | මත්පැන් පානය කළ කුඩා දරුවන් කළ දේ
+139642.json | Fisheries Minister Amaraweera Commends TN CM's Move To Ban Bottom Trawling | 139642.json | ජයලලිතාට ලක් රජයේ ප්‍රසාදය
+139643.json | Minister Weerakkody Slams JO For Unethical Use Of Child In Protest March | 139643.json | අපහාස කරන්න දරුවන් යොදාගෙන
+139644.json | Two Persons Remanded Over Attack On Ambulance During JO March | 139644.json | ගිලන් රථයකට පහර දුන් සැකකරුවන් දෙදෙනා රක්ෂිත බන්ධනාගාරයට
+139645.json | Last Woolly Mammoths 'Died Of Thirst' | 139645.json | මැමත් දැවැන්තයන් මිහිතලයෙන් අතුරුදන්වීම ගැන නව මතයක්
+139647.json | Right To Information Bill Signed By The Speaker | 139647.json | තොරතුරු පනතට කතානායකවරයා අත්සන් තබයි
+139649.json | SAITM Petition Fixed For October Trial | 139649.json | සයිටම් නඩුවක් සැප්තැම්බර් 14 ට කල් යයි
+139650.json | MH370 Pilot Deliberately Crashed Malaysia Airlines Plane Into Sea, Says Air Crash Expert | 139650.json | එම් එච් 370 අතුරුදන්වීම ගැන කිසිවකු නොසිතු හේතුවක්
+205334.json | Diamond worth 7 Billion believed to have been smuggled out of the country; Matara Malli arrested over the robbery | 205334.json | පන්නිපිටියේ කෝටි හත්සීයේ දියමන්තිය රටින් පිටකර ඇති බවට සැක - කොල්ලය මෙහෙය වූ ‘මාතර මල්ලී’ අත්අඩංගුවට
+205335.json | Minister Bandula speaks of a conspiracy to destabilize the economy | 205335.json | ආර්ථිකය වියවුල් කිරීමේ කුමන්ත්‍රණයක් - ඇමති බන්දුල හෙලි කරයි
+205336.json | Raids carried out islandwide to nab errant traders  | 205336.json | උත්සව සමයේ කූඨ වෙළඳුන් සොයා දිවයින පුරා වැටලීම් ඇරඹේ
+205344.json | Wasantha Senanayake takes part in the initiation of Rathana Thera’s Maha Sabha | 205344.json | රතන හිමිගේ මහ සභාවේ ආරම්භයට, වසන්ත සේනානායකත් එක්වෙයි
+205350.json | A general election is the only way to stabilize the country, A special statement from the Prime Minister | 205350.json | රට ස්ථාවර කිරීමේ එකම මඟ මහමැතිවරණයයි - අගමැතිගෙන් විශේෂ ප්‍රකාශයක්
+68423.json | PC cannot go beyond the constitution - a statement from Govt. | 68423.json | පළාත් සභාවට ව්‍යවස්ථාවට පිටින් යන්න බැහැ. - ආණ්ඩුව.
+68424.json | Local government new boundary Demarcation report next month. | 68424.json | පළාත් පාලන නව සීමා නිර්ණ වාර්තාව ලබන මසදී.
+68425.json | NW and Central CM s take oaths tomorrow - Decision about North today. | 68425.json | වයඹ සහ මධ්‍යම මහඇමතිවරු හෙට දිවුරුම් දෙයි.
+68428.json | Video : Israel PM calls Iran leader  - wolf in sheep s clothing  | 68428.json | වීඩියෝ : ඉරාන ජනපතිට ඊශ්‍රායල අගමැති දෙහි කපයි.
+68430.json | Best countries for older people - SL aranked 36 | 68430.json | දකුණු ආසියාවේ වැඩිහිටියන්ට හොඳම රට ශ්‍රී ලංකාව.
+68448.json | Liquor shops closed tomorrow | 68448.json | හෙට සුරාසැල් වැසේ.
+68449.json | 3 women convertors in Athurugiriya handed over to police. | 68449.json | අන්‍යාගම්කරණයේ යෙදුණු කාන්තාවන් තිදෙනෙක් දෑත් බැඳ පොලිසියට.
+68450.json | Palitha Kohona elected to a top UN post. | 68450.json | පාලිත කොහොනට ජගත් සංවිධානයේ උසස් තනතුරක්.
+68451.json | Video : A-level paper marking at risk if teacher allowance is not paid within next few hours. | 68451.json | වීඩියෝ:උසස් පෙළ ඇගයීම් අනතුරේ.
+68452.json | TNA leaders to meet today. | 68452.json | දෙමළ සන්ධානය විශේෂ සාකච්ඡාවක.
+68476.json | Video :70% candidates  passed the year-5 scholarship examination this year | 68476.json | වීඩියෝ:මෙවර ශිෂ්‍යත්ව විභාගයෙන් සියයට 70 ක් සමත්.
+68477.json | Video : US shutdown halts Barack Obama s Malaysia trip | 68477.json | වීඩියෝ : ඔබාමා විදේශ සංචාරත් අත්හිටුවයි.
+68482.json | A daughter who passed the year-5 scholarship examination corrects father s habits    | 68482.json | ශිෂ්‍යත්වය සමත් දියණියකට පියෙකුගෙන් ආදර්ශමත් තෑග්ගක්.
+68483.json | 25 Ancient Buddhist statues and 3 caskets stolen from a temple in Mawanella    | 68483.json | මාවනැල්ලේ විහාරයක බුදු පිළිම 25 ක් කරඩු 3 ක් පැහැරගැනේ.
+68484.json | Supreme Court grants 2 weeks for TNA to give written submissions    | 68484.json | දෙමළ සන්ධානයට ශ්‍රේෂ්ඨාධිකරණයෙන් සති 2ක කාලයක්.
+68485.json | Final decision on naming the NW and CP Chief Ministers at 7 this evening.    | 68485.json | දයාසිරි, සරත් හෙට දිවුරුම් දෙයි ? අද රාත්‍රියේ සාකච්ඡාවක්.
+227434.json | Millions of masks distributed to students in 'gas chamber' Delhi | 227434.json | දිල්ලියේ මුහුණු ආවරණ මිලියන 5ක් බෙදයි
+227451.json | 3 arrested for taking photographs of their postal vote ballot paper- Two teachers among the arrested | 227451.json | තැපැල් ඡන්දය ලකුණු කර, ඡායාරූප ගත් 3 දෙනෙකු අත්අඩංගුවට - ගුරුවරුන් දෙදෙනෙකුත් ඒ අතර
+227456.json | IMF approves another disbursement- Warns against budget deficit | 227456.json | අයි.එම්.එෆ්. තවත් ණය වාරිකයක් අනුමතයි - අයවැය පරතරය ගැනත් අනතුරු ඇඟවීමක්
+227457.json |  Nugegoda Flyover bridge  temporarily closed | 227457.json | නුගේගොඩ ගුවන් පාලම තාවකාලිකව වැසේ
+227458.json | Mihintale premises of the Rajarata university closed due to a viral flu | 227458.json | වෛරස් උණක් නිසා රජරට සරසවියේ, මිහින්තලේ පරිශ්‍රය තාවකාලිකව වැසේ
+227460.json | Signs of Chandrika’s SLFP membership getting suspended | 227460.json | චන්ද්‍රිකාගේ නිදහස් පක්ෂ සාමාජිකත්වය, අහෝසි කෙරෙන ලකුණු
+102491.json | 4 army soldiers nabbed over demanding ransom | 102491.json | හමුදා සෙබළුන් හතරක් දැලේ
+102492.json | Debate over Mohan Peiris begins today | 102492.json | මොහාන් පිරිස් ගැන විවාදය අද මැතිසබයට
+102493.json | A land dispute for former CJ Sarath N Silva | 102493.json | සරත් එන්.සිල්වා ඉඩම් හබයක
+102494.json | Interim Budget is a Saradiyal style budget - PM Ranil | 102494.json | මෙවර ඉදිරිපත් කළේ සරදියෙල් අයවැයක්
+102496.json | Nisha Biswal arrives today | 102496.json | ඇමරිකානු රාජ්‍ය ලේකම් දිවයිනට
+102498.json | Seven dead, 20 wounded in Damascus blast | 102498.json | සිරියාවේ බෝම්බෙකින් 7ක් මරුට
+102510.json |  Priceless artifacts found in minneriya | 102510.json | මින්නේරියේ නිවසකින් තවත් සොයාගැනීමක්
+102512.json | Police Inspector nabbed for trafficking marijuana | 102512.json | ගංජා ඇද්ද පොලිස් පරීක්ෂකවරයෙකු ඇඹිලිපිටියේදී අත්අඩංගුවට
+102513.json | Former deputy Minister Sarana Gunawardana banned from going abroad | 102513.json | හිටපු නියෝජ්‍ය ඇමති සරණ රට ගිහින් හමාරයි
+102517.json | JVP to Bribery against Mahindananda | 102517.json | මහින්දානන්දට සහ ක්‍රිකට් ආයතනයටත් එරෙහිව ජවිපෙ අල්ලස් කොමිසමට යයි
+102518.json | Pension to Private sector - MP Harsha | 102518.json | පෞද්ගලික අංශයටත් විශ්‍රාම වැටුපක් ලැබෙන ලකුණු
+102520.json | US-SL ties to boost; Mangala to meet State Secretary  | 102520.json | ශ්‍රී ලංකාව සහ ඇමරිකාව අතර සබඳතා නව තලයකට
+102523.json | UN pushes for credible process | 102523.json | මානව හිමිකම් සැසිය මාර්තු 2 සිට 27 දක්වා.
+102524.json | Update : Thissa Aththanayaka arrested and remanded | 102524.json | Update: මන්ත්‍රී තිස්ස පෙබරවාරි 11 දා දක්වා රිමාන්ඞ්.
+102525.json | Go Rights Lawyers' Collective lodges a complaint at the CID | 102525.json | වැලිකඩ බන්ධනාගාරයෙන් රහස් පොලීසියට පැමිණිල්ලක්.
+102545.json | Visiting US State Secretary meets PM Ranil | 102545.json | ඇමරිකානු සහකාර රාජ්‍ය ලේකම්වරිය සහ අගමැති අතරත් හමුවක්
+102546.json | A no confidence against MP John | 102546.json | ඇමති ජෝන් අමරතුංගට එරෙහිව විපක්ෂයෙන් විශ්වාසභංගයක්
+102547.json | JVP asks a Presidential commission to probe Mohan Peris: Opposition MP's wear black arm bands in Parliament | 102547.json | මොහාන් පීරිස් ගැන සොයන්න ජනපති කොමිසමක් පත් කරන්නැයි ජවිපෙ ඉල්ලයි
+129913.json | Obama says nuclear terrorist attack would 'change our world' | 129913.json | න්‍යෂ්ටික ප්‍රහාරයක්
+129914.json | JO would support national security- MR  | 129914.json | ඒකාබද්ධ විපක්ෂය ජාතික ආරක්ෂාවට සහය දෙන හැටි
+129917.json | Work together to avoid a war- Prez  | 129917.json | යළි යුද්ධයකට ඉඩක් නෑ
+129918.json | Pakistan and Afghanistan collaborated drug racket busted  | 129918.json | හෙරොයින් කිලෝ 101ක් සමග විදේශිකයන් 14 දෙනෙකු අත්අඩංගුවට (ඡායාරුප)
+129919.json | Freak accident at ‘Yowun Puraya’ Sigiriya leaves teen injured | 129919.json | ඩිජිටල් බැනරයක් කඩා වැටී සීගිරියේ තරුණියක් රෝහලේ
+129921.json | Boy dies by electrocution  | 129921.json | නාවලපිටියේ දී විදුලිසැර වැදී කුඩා දරුවෙකු මිය යයි
+129923.json | Did not join the government for personal gain- Min. Amaraweera  | 129923.json | ආණ්ඩුවට එක්වුණේ තනි කැමැත්තට නොවේ
+129927.json | Two nabbed with firearms  | 129927.json | මීගමුවේදී ගිනි අවි සමඟ සැකකරුවන් 2ක් අත්අඩංගුවට
+129928.json | Patient Hangs Himself With Bandage | 129928.json | රෝගියෙකු වෙලුම් පටියකින් ගෙළ වැළලා ගනී
+129931.json | Bus strike continues | 129931.json | බස් වර්ජනයට තවත් මාර්ග රැසක් එක්වෙයි
+129932.json | G.L. Peiris Summoned To CID  | 129932.json | Update : ජී.එල්.පීරිස්ගෙන් CIDය ප්‍රකාශයක් සටහන් කරගනි
+129933.json | Five arrested over illegal gem mining | 129933.json | අනවසරයෙන් මැණික් ගැරූ 5ක් දැලේ
+129937.json | 16 injured in Bibile bus crash (Photos) | 129937.json | බිබිලේ අනතුරකින් 16කට තුවාල (ඡායාරුප)
+129939.json | 10 million rupees worth Abin seized in Mannar | 129939.json | කෝටියක අබිං අත්අඩංගුවට
+129940.json | Watch out for those bottled water  | 129940.json | බෝතල් කළ ජලය පානය කරන්නේ බලාගෙනයි
+129941.json | Government teaches Mahinda a lesson on loans | 129941.json | මහින්දට අලුත් පාඩමක් උගන්වයි
+129942.json |  Police investigates into havoc at Immigration and Emigration Department | 129942.json | පොලීසිය එනතුරු පෙරටුගාමීන් සුදානමින්
+129945.json | Developed countries do not use pesticides – Prez | 129945.json | අලූත් සහල් මංගල්‍යය පොළොන්නරුවේදී
+129946.json | Fresh allegations by the JVP  | 129946.json | ලාල්කාන්තගෙන් හෙළිදරව්වක්
+129949.json | Grama Niladari’s to work as JP’s from 07th this month  | 129949.json | ග්‍රාම නිලධාරීන් සාම විනිසුරුවරුන් වෙයි
+129950.json | New scheme to appoint teachers  | 129950.json | වයඹ ගුරු සේවයට බදවා ගැනීම් අලූත් ක්‍රමයකට
+104604.json | UNHRC's 28th regular session begins today | 104604.json | මානව හිමිකම් සැසිය අද ඇරඹේ
+104605.json | Individual self-immolates inside leasing company | 104605.json | Update: සිරුරට ගිනි තබා ගත් පුද්ගලයා තවමත් දැඩි සත්කාර ඒකකයේ
+104607.json | 6 Eastern PC members switch to opposition | 104607.json | සන්ධානයේ මන්ත්‍රීවරු 6 ක් විපක්ෂයට
+104608.json | Bus strike in Petta; LPBOA denies  | 104608.json | කොහෙවත් බස් රථ වර්ජන නැහැ
+104615.json | Full face helmets prohibited with effect from 21st of March | 104615.json | Update: ෆුල්ෆේස් හෙල්මට් 21 වැනිදා සිට තහනම්
+104632.json | No crisis over the existence of Eastern Provincial council; a statement from SLMC | 104632.json | නැ.ප.සභාවේ පැවැත්මට අර්බුදයක් නැහැ. - මු.කො
+104633.json | An Opportunity for a real change has dawned; says US secretary of state in Geneva | 104633.json | ශ්‍රී ලංකාවේ සැබෑ වෙනසකට අවස්ථාවක් උදා වෙලා. - ජෝන් කෙරී
+172359.json | Suraksha insurance scheme for schoolchildren launched | 172359.json | සුරක්ෂා සිසු රක්ෂණ ක්‍රමය ඇරඹේ
+172363.json | Coloured coconuts for a reduced price | 172363.json | රුපියල් 65 ට කොළ සහ රෝස පොල් වෙළඳපොලේ
+172369.json | Dasun found to have practised Blue Whale video game! | 172369.json | රටක් හඬවමින් අවසන් ගමන් ගිය දසුන් මියයන්න කලින් මාරාන්තික බ්ලූ වේල් හදාරලා ?
+172371.json | Protest in Padaviya seeking solutions for wild elephant issue | 172371.json | වන අලි ගැටළුවට විසඳුම් ඉල්ලා පදවියේ විරෝධතාවක්
+172375.json | CID commences probe on bond issuances | 172375.json | හිටපු මහබැංකු අධිපතිවරයාගේ කාලසීමාවේ බැඳුම්කර නිකුතු සම්බන්ධයෙන් සී.අයි.ඩී. පරීක්ෂණයක්
+172377.json | Update: Akmeemana Dayarathana Thera remanded | 172377.json | Update  : රොහින්ග්‍යා සිද්ධියට අක්මීමන දයාරතන හිමියන් රක්ෂිත බන්ධනාගාරයට
+172378.json | Beragala accident: heroic bus driver saves lives of passengers | 172378.json | ප්‍රපාතය පෙනී පෙනී  තිරිංග ක්‍රියා විරහිත වූ බස් රථයේ සිටි මගීන්ගේ ජීවිත බේරා අවසන් ගමන් ගිය බස් රථ රියදුරා
+172386.json | Civil Defence Force member dies in Mullaitivu road accident | 172386.json | ප්‍රාදේශීය සභා කැබ් රථයේ ගැටී තරුණයෙකු මරුට (ඡායාරූප)
+172388.json | SL slips down in Global Competitiveness Index | 172388.json | ලෝක තරඟකාරිත්ව දර්ශකයේ ශ්‍රී ලංකාව 85 වන තැනට
+172390.json | New Director General of Sri Lanka Customs assumes duties | 172390.json | නව රේගු අධ්‍යක්ෂ ජනරාල්වරිය වැඩ අරඹයි
+172399.json | Police find 3 T-56 weapons in a car in Gampaha | 172399.json | ගම්පහ නගරයේ මෝටර් රථයක් තුළ ටී 56 ගිවි අවි
+172400.json | Prof. Colvin Gunaratne new SLMC Chairman | 172400.json | මහාචාර්ය කොල්වින් ගුණරත්න වෛද්‍ය සභාවේ සභාපති ධුරයට
+172401.json | Travel ban imposed on PTL owner, CEO and 2 others | 172401.json | අර්ජුන් ඇලෝසියස් හට විදේශගතවීම තහනම්
+175044.json | Trump to abolish "Green Card Lottery" programme | 175044.json | ඇමෙරිකානු ග්‍රීන් කාඩ් ලොතරැයි වැඩසටහන අහෝසි කෙරේ
+175045.json | Australia PM arrives | 175045.json | ඕස්ට්‍රේලියානු අගමැති දිවයිනට
+175055.json | SC decision on Geetha’s parliamentary seat to be announced today | 175055.json | ගීතාගේ මන්ත්‍රී ධුරය ගැන තීන්දුව අද
+139586.json | Two arrested for attacking an ambulance during the protest march | 139586.json | පාද යාත්‍රාවේදී ගිලන් රථයකට පහරදීමේ සිද්ධියේ දෙදෙනෙකු අත්අඩංගුවට
+139588.json | Next protest march to regain power; MR | 139588.json | ඊළඟ පාද යාත්‍රාව ආණ්ඩුව ලබා ගැනීමටයි - හිටපු ජනපති මහින්ද
+139590.json | PM to address the World Islamic Economic Conference today in Indonesia | 139590.json | අග්‍රාමාත්‍යවරයා ඉන්දුනීසියාවට ළඟා වේ -  අද ලෝක ඉස්ලාමීය ආර්ථික සමුළුව අමතයි
+139591.json | GCE A/L examination begins today | 139591.json | උසස් පෙළ විභාගය අද ඇරඹේ
+139592.json | No money if Provincial Council’s failed to adhere by the national policy- Edu Min.  | 139592.json | ජාතික නිර්ණායක ක්‍රියාත්මක කර නැත්නම් පළාත් සභාවට මුදල් නෑ - ඇමති අකිල
+139593.json | Hong Kong shut down as Typhoon Nida is downgraded | 139593.json | ‘නීඩා’ චණ්ඩ මාරුතය හොංකොං දිවයිනට කඩා වදී
+139596.json | Traditional Kap Situweema of the Kandy Esala Festival takes place  | 139596.json | මහනුවර ඇසල පෙරහර මංගල්‍යයේ කප් කැපීම ඇරඹේ
+139597.json | US Launches Air Strikes On IS In Libya | 139597.json | ඇමරිකාවෙන් ලිබියාවේ අයි.එස්. ඉලක්ක වෙත ගුවන් ප්‍රහාර
+139598.json | Mother who videotaped sexual intercourse with son jailed  | 139598.json | කාන්තාවක් 14 හැවිරිදි තම පුතු සමඟ අසභ්‍ය දර්ශන රුගත කර වැඩ වැරදුන හැටි
+139600.json | Obama’s Daughter Twerks And Grinds With Friends While Letting Loose At Lollapalooza | 139600.json | ඔබාමාගේ දියණිය දෙනෝදාහක් මැද වේදිකාවේ අශෝභන ලෙස ඇඳිවත ඔසවයි
+139604.json | Police Seize 7.5 Tonnes Of Cocaine - [Photos] | 139604.json | කොකේන් ටොන් 7ක් ලොරි රථවලින් සොයා ගැනේ
+139613.json | Man Suffers Severe Burns After iPhone Explodes - [Photos] | 139613.json | ස්මාර්ට් ජංගම දුරකථනයක් පුපුරයි (ඡායාරූප)
+139614.json | Avant-Garde Captain Further Remanded | 139614.json | ඇවන්ගාඩ් කපිතාන් යළි රක්ෂිත බන්ධනාගාරගත  කෙරේ
+139616.json | Student Bashes Another Man In Vicious 'Love Triangle Attack In NSW University | 139616.json | සිසුන් 2ක් එක සිසුවියකට ප්‍රේම කර එක් අයෙක් ලං වූ තරහට අමානුෂිකව පහරදුන් හැටි
+162671.json | A Change in police high ranks   | 162671.json | පොලිසියේ ඉහළ පුටුවල වෙනසක්
+162674.json | Death toll due to adverse weather further increased | 162674.json | ආපදාවෙන් මියගිය ගණන 208 දක්වා ඉහළට
+162675.json | A leak in the Crude oil pipe line to Kolonnawa | 162675.json | කොළොන්නාවට තෙල් රැගෙන යන නලය පිපිරී බොරතෙල් මුහුදට
+162677.json | GOLD FM Cares in collaboration with HIRU FM and HIRU TV launches medical camps initiative; 6th relief consignment heads to Mathara | 162677.json | රට වෙනුවෙන් හිරු, සෞඛ්‍ය ක්‍රියාන්විතය රට පුරා - රට වෙනුවෙන් හිරු, සහන යාත්‍රා ක්‍රියාන්විතයේ 6 වන ආධාර තොගය මාතරට
+162678.json | Interviews for registration of Ayurvedic doctors cancelled | 162678.json | ආයුර්වේද වෛද්‍යවරුන් ලෙස ලියාපදිංචි කිරීමේ සම්මුඛ පරීක්ෂණ අවලංගු කෙරේ
+162679.json | Patali voices the reasons for causing floods | 162679.json | ගංවතුරට හේතු පාඨලී කියයි
+162686.json | Schools in Sabaragamuwa to be re-opened on Monday | 162686.json | ලබන සඳුදා (05) විවෘත වන සහ නොවන පාසල්
+162687.json | Several provinces to expect showers from time to time - Met Department | 162687.json | බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම සහ වයඹ පළාත්වලට විටින් විට වැසි
+162690.json | Landslide warning further extended | 162690.json | Update -  දිස්ත්‍රික්ක හයකට හෙට මිලිමීටර් 100 ඉක්මවූ වැසි
+162694.json | Borella Traffic OIC remanded | 162694.json | බොරැල්ලේ රථ වාහන OIC රිමාන්ඩ්
+162701.json |  Disaster death toll rises to 208 - 92 still missing – Risk of earth slips still remains | 162701.json | ආපදා මරණ 208ක් - 92ක් තවමත් අතුරුදන් - නාය යාමේ අවදානමත් පහව ගොස් නැහැ
+162702.json | Gold FM Cares Initiative together with HIRU TV and HIRU FM to Matara; its Medical camps will be in place tomorrow as well  (Photos) | 162702.json | "රට වෙනුවෙන් හිරු", 6 වන ආධාර තොගය මාතරට - විපතට පත් ජනතාව වෙනුවෙන් සෞඛ්‍ය ක්‍රියාන්විතය හෙටත් (ඡායාරූප)
+164876.json | fire broke out in a super market in Rajagiriya | 164876.json | update : රාජගිරියේ සුපිරි වෙළඳසැලේ ගින්න නිවා දමයි
+164878.json | Blame game over the reasons that led to the start of Uma Oya project | 164878.json | උමා ඔය ව්‍යාපෘතියේ නිධාන කථාව ගැන මත ගැටුම්
+217559.json | Individual posing as an Army Intelligence Officer arrested from Soysapura | 217559.json | යුද හමුදා මේජර්වරයෙකු ලෙස පෙනී සිටි පුද්ගලයෙකු සොයිසාපුරදි අත්අඩංගුවට
+217564.json | Gnanasara Thera visits Rathana Thera who is engaged in a fast; Raththota shops closed in support of the fast | 217564.json | ඥාණසාර හිමි, රතන හිමියන්ගේ උපවාස භූමියට - සහය පළ කරමින් රත්තොට කඩසාප්පු වැසේ
+217566.json | Dehiwala – Mount Lavinia beach turns black | 217566.json | දෙහිවල - ගල්කිස්ස වෙරළ කළු වෙයි
+217580.json | Communications engineer who assisted Saharan arrested in Dehiwala | 217580.json | සහරාන්ට සහය දුන්, සන්නිවේදන ඉංජිනේරුවෙක් දෙහිවලදී අල්ලයි
+123281.json | A team of specialists to Seegiriya | 123281.json | සීගිරියට යළි විශේෂඥ කණ්ඩායමක්
+123282.json | State has not changed; a statement from Rajitha Senarathna | 123282.json | රාජ්‍ය වෙනස් වී නැතැයි රාජිත කියයි
+123283.json | New party of the Joint Opposition delayed | 123283.json | ඒකාබද්ධ විපක්ෂයේ අලූත් පක්ෂය කල් යයි
+123285.json | 300 Employees of a garment factory in Balangoda admitted to hospital due to food poisoning | 123285.json | බලංගොඩ ඇඟළුම් කම්හලේ 6 ක් තවමත් රෝහලේ
+123286.json | Vigeshwaran’s Tamil People’s Council to meet again today  | 123286.json | දෙමළ ජනතා සභාවේ කමිටුව යාපනය පුස්තකාලයට
+125258.json | A woman dies in motor-traffic accident | 125258.json | යතුරුපැදියක් මගී කාන්තාවකට මරු කැඳවයි
+125259.json | Embilipitiya incident: Writ of Mandamus filed  | 125259.json | ඇඹිලිපිටිය  අධිකරණ නියෝගයට දින 6 යි - පොලිසිය?
+125260.json | Expressway Busses on Strike | 125260.json | දක්ෂිණ අධිවේගයේ වර්ජනයක්
+125261.json | All set for the Independence Day | 125261.json | නිදහස් උළෙලට සියල්ල සූදානම්
+125262.json | Zika Virus, a Public Health Emergency: WHO | 125262.json | ගෝලීය හදිසි තත්ත්වයක් ප්‍රකාශයට පත් කෙරේ
+125265.json | Woman dies in flames | 125265.json | සිත් තැවුලෙන් වැසිකිළියේ දී කර ගත්  දේ
+125267.json | Google Loons to float in this Month | 125267.json | ශ්‍රී ලංකාවේ සෑම දිස්ත්‍රික්කයකටම ගූගල් බැලූන්
+125273.json | Yoshitha was arrested due to pressure from  henchmen; Says Ex. Pres. Rajapakse | 125273.json | යෝෂිත අත්අඩංගුවට ගත්තේ කේවට්ටයන් පිරිසකගේ බලපෑමෙන්
+148799.json | Ban Ki-moon sorry for UN role in Haiti cholera epidemic | 148799.json | ජගත් මහලේකම් බෑන්කී මූන් හයිටියෙන් සමාව ඉල්ලයි
+148801.json | Three wheeler unions arrive at the Presidential Secretariat  | 148801.json | ත්‍රිරෝද රථ වෘත්තීකයින්ගේ පෙළපාලිය ජනාධිපති ලේකම් කාර්යාලය අසලට
+148802.json | Four major cities move to ban diesel vehicles by 2025 | 148802.json | ඩීසල් වාහන තහනම් කිරීමට ලොව ප්‍රධාන නගර 4 ක් සැරසේ
+148809.json | Dinesh , Wasu , DEW and Thissa Vitharana to the Presidents house | 148809.json | ජනපති මැදුරේ කැස්ත්‍රෝ සැමරුමක්
+148815.json | Bus and lorry drivers join protest in Negombo; Police go to courts.    | 148815.json | බස් සහ ලොරිත් එක්වී පාර වැසූ මීගමුවේ විරෝධය රත් වෙයි - පොලිසියෙන් කඳුළු ගෑස්
+148816.json | Private bus associations decide to continue the strike; 26 SLTB buses attacked   | 148816.json | වර්ජනය අඛණ්ඩව ක්‍රියාත්මක කරන්න, පෞද්ගලික බස් සංගම් තීරණය කරයි - ලංගම බස් 26කට ප්‍රහාර
+151068.json | Rice set apart as animal food on sale in Pettah after two years-Namal Karunaratne | 151068.json | වසර 2කට පෙර සත්ව ආහාර සඳහා විකුණූ සහල් තොගයක් පිටකොටුවේ විකිණීමට තිබෙනවා  - නාමල් කරුණාරත්න
+151071.json | The special New Year’s gift offered to a village in Wariyapola- [video]  | 151071.json | වාරියපොළ-නෙල්ලිය ප්‍රදේශයට ලැබුණු අවුරුදු තෑග්ග
+151072.json | Russian diplomats expelled by Obama over hacking leave US | 151072.json | රුසියානු රාජතාන්ත්‍රිකයින් ඇමරිකාවෙන් පිටව යයි
+151074.json | Pakistani national arrested at BIA with 2 kg of heroin | 151074.json | පාකිස්තාන ජාතිකයෙකු කටුනායක ගුවන් තොටුපළේදී  අත්අඩංගුවට
+151075.json | Sampanthan and Sumandiran should leave the constitutional assembly, says Suresh Premachandra | 151075.json | සම්බන්ධන් සහ සුමන්දිරන් ව්‍යවස්ථාදායක සභාවෙන් ඉවත් විය යුතුයි - සුරේෂ් ප්‍රේමචන්ද්‍රන්
+151076.json | National Government ensures Peace- PM  | 151076.json | ජාතික ආණ්ඩුවේ ප්‍රධාන අරමුණ ජාතික සමගියයි - අගමැති
+151077.json | Two Indonesian airline executives resign after footage shows pilot staggering to plane | 151077.json | අධික බීමතින් වැනි වැනි ගුවන් තොටුපොළට පැමිණි ගුවන් නියමුවාට සිදුවූ දේ
+151089.json | Portugal's Antonio Guterres Assumes Functions of UN Chief | 151089.json | ඇන්ටෝනියෝ  ගුටේරිස් ජගත් මහ ලේකම් ලෙස වැඩ භාරගනී
+151090.json | Fire at air-conditioner manufacturing factory  | 151090.json | පානදුර වායු සමීකරණ කර්මාන්තශාලාවක ගින්නක්
+151091.json | Unidentified body found in Maskeliya- [photos]  | 151091.json | මාවුස්සාකැලේ ජලාශයේ පාවෙමින් තිබූ මළ සිරුරක් සොයා ගනී  (ඡායාරූප)
+151092.json | Police arrests 159 with outstanding warrants in Anuradhapura | 151092.json | අධිකරණය මගහරිමින් සිටි වරෙන්තුකරුවන් 159 දෙනෙකු අත්අඩංගුවට
+151094.json | Inmates escape in ‘armed attack’ on Bahrain jail | 151094.json | බහරේන් බන්ධනාගාරයකට ප්‍රහාරයක්
+151095.json | Former Deputy Minister of Fisheries Sarath Kumara arrested  | 151095.json | Update :- හිටපු නියෝජ්‍ය අමාත්‍ය සරත් කුමාර ගුණරත්න අධිකරණයට
+151096.json | More than 50 injured in Morocco-Spain border clash | 151096.json | මොරෝ්ක්කෝ-ස්පාඤ්ඤ දේශසීමාවේ සිදුවූ දේ
+151098.json | 60 generators to be purchased to cope with urgent power requirements   | 151098.json | හදිසි විදුලි අවශ්‍යතාවට ජනන යන්ත්‍ර 60 ක් මිලදී ගනී
+151101.json | Delimitation report to be submitted to subject minister today; UPFA and UNP representatives have not signed the report | 151101.json | සීමානිර්ණ කමිටු වාර්තාව අද විෂයභාර අමාත්‍යවරයාට
+151103.json | Case against Kumara Welgama postponed  | 151103.json | පාර්ලිමේන්තු මන්ත්‍රී කුමාර වෙල්ගමට එරෙහි නඩුව කල් යයි
+151105.json | Man dies after being hit by stolen van in Badulla  | 151105.json | පැහැරගෙන ගිය වෑන් රථයේ ගැටී පුද්ගලයෙකු මරුට
+62216.json | Bodhu Bala Sena hands over epistle addressed to Indian Premier | 62216.json | බොදුබල සේනාවෙන් ඉන්දීය අගමැතිට සංදේශයක්.
+62217.json | Human skull and bone fragments discovered during dengue prevention campaign | 62217.json | ඩෙංගු සෝදිසිය අතරතුර හිස් කබලක් සහ මිනිස් ඇටසැකිලි.
+62218.json | Investigations commence into cricketers unruly behaviour on airline | 62218.json | ක්‍රිකට් ක්‍රීඩකයාගේ ගුවන් වික්‍රමය ගැන පරීක්ෂණ.
+62219.json | Bus fare hike postponed    | 62219.json | බස් ගාස්තු ඉහළ යාම තවත් කල් යයි.
+62220.json | Sub standard LPG imported to Sri Lanka; Gas Company replies to UNP accusations | 62220.json | බාල ගෑස් ශ්‍රී ලංකාවට.     එ.ජා.ප. චෝදනාවට සමාගමෙන් පිළිතුරු.
+62226.json | Colombo Fort Magistrate issues summons on Sanjeeva Bandara | 62226.json | අන්තරේ කැඳවුම්කරුට නොතීසි.
+62229.json | Snowden asylum requests sent to 21 countries | 62229.json | ස්නෝඩන්ගේ ඉල්ලීම ඉන්දියාව ප්‍රතික්ෂේප කරයි.
+64236.json | A railway engine catches fire       | 64236.json | තලාවේදී දුම්රිය එන්ජිමක් ගිනි ගනී.
+64237.json | Opposition leader points out the need for independent police commission. | 64237.json | රනිල් පොලිස් කොමිසම ඉල්ලයි.
+64238.json | Youth killed in the protest; 44 admitted to hospital; 6 security officers among them.    | 64238.json | වැලිවේරියේ විරෝධතාවයේදී තරුණයෙකු මරුට.
+64240.json | US invites Pakistan Prime Minister for Obama talks | 64240.json | නවාස් ෂරීෆ්ට ඇමරිකාවේ හොඳ හිත.
+64245.json | Showers to continue | 64245.json | අදත් වැසි.
+64246.json | BALAYA; Economy and Development | 64246.json | 21 බලා ගමු.  - ලක්ෂමන් යාපා.
+64247.json | No completion from the opposition; Sarath Ekanayaka | 64247.json | අපි දත් 32 ක වගේ. - සරත් ඒකනායක.
+64256.json |   Newly appointed Deraniyagala OIC transferred | 64256.json | දැරණියගල පොලිස් ස්ථානාධිපතිට ස්ථාන මාරුවක්.
+64258.json | Another 39 illegal migrants bound to Australia arrested.    | 64258.json | හොරෙන්  ඕස්ට්‍රේලියාවට යාමට සැරසුණු 39 කට වරදී.
+64263.json | Police OIC appointed after the Noori Estate murder also transferred | 64263.json | නූරිවත්ත ඝාතනයෙන් පසු පැමිණි පොලිස් ස්ථානාධිපතිටත් මාරුවක්.
+64264.json | Opposition leader requests an independent inquiry | 64264.json | විපක්ෂ නායකවරයා ස්වාධීන පරීක්ෂණයක් ඉල්ලයි.
+198974.json | Colombo’s garbage to Aruwakkalu from November | 198974.json | කොළඹ කුණු නොවැම්බරයේ සිට අරුවක්කාලූවට
+198975.json | Residents protest demanding Galaha Hospital to be opened | 198975.json | ගළහ රෝහල ඉල්ලා ප්‍රදේශවාසීන් මහමගට
+198976.json | Wildlife Officers to be given Rifles and camouflage uniforms | 198976.json | වනජීවී නිලධාරීන්ට රයිෆල් තුවක්කු සමඟ කැලෑ ඇඳුමක්
+198978.json |    Choota of Ninja gang arrested in Dematagoda | 198978.json | ‘නින්ජා’ කල්ලියේ ‘‘චූටා’’ දෙමටගොඩදී පොලිස් දැලේ
+144283.json | President, Prime Minister to visit India  | 144283.json | ජනපති, අගමැති ඉන්දියාවට
+144284.json | Prime Minister addresses SL- NZ Business Council | 144284.json | අගමැති නවසීලන්ත ව්‍යාපාරික සහ ශ්‍රී ලංකා ප්‍රජාව හමුවේ
+144285.json | Wasu speaks about Vigneshwaran  | 144285.json | විග්නේෂ්වරන් ගැන වාසු කතා කරයි
+144286.json | Court order issued against plantation workers’ protest  | 144286.json | වතු කම්කරු විරෝධතාවට එරෙහිව අධිකරණ නියෝගයක් (ඡායාරූප)
+144287.json | Shortage of cigarettes experienced  | 144287.json | දුම්වැටි හිඟ වේ
+144290.json | Police shoot at a wanted suspect who attempted to hurl a grenade | 144290.json | අත්බෝම්බයකින් ගැසූ වරෙන්තුකරුවෙකුට පොලීසියෙන් වෙඩි
+201213.json | Namal Kumara says he does not have any mental issues | 201213.json | මට පිස්සු නැහැ - නාමල් කුමාරගෙන් ප්‍රකාශයක්
+203410.json | Gotabaya and Ranil meet at Temple Trees | 203410.json | හිටපු අගමැති රනිල්ගේ ඉල්ලීම මත, ගෝඨාභය රාජපක්ෂ අරලියගහ මන්දිරයේදී හමුවෙයි
+62168.json | A message from Manmohan Singhe to President.  | 62168.json | මන්මෝහන් සිංගෙන් ජනපතිට පණිවුඩයක්.
+62170.json | Showers today as well.    | 62170.json | මුහුද රළුවෙයි.
+62176.json | President returns after a successful visit to Tanzania and Seychelles.       | 62176.json | ජනපති යළි දිවයිනට.
+62191.json | Protest against principal in Horana.    | 62191.json | හොරණ - මොරගහහේන මාර්ගය අවහිර කරමින් විරෝධතාවක්.
+62196.json | ICU of Karapitiya hospital threatened with cessation       | 62196.json | කරාපිටියේ දැඩි සත්කාර ඒකකය වසා දැමීමේ අවධානමක.
+62197.json | Arial stunt of Sri Lankan cricketer exposed  | 62197.json | ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩකයෙකුගේ ගුවන් රංගනයක් කරළියට.
+62198.json | Commonwealth Local Government Forum to assist Sri Lanka | 62198.json | පොදුරඳ මඩුළු පළාත් පාලන සංසදයේ සහාය ශ්‍රී ලංකාවට.
+170008.json | A/L students warned not to misbehave after exams | 170008.json | උසස් පෙළ අවසන් කරන සිසුන්ට අනතුරු ඇගවීම්
+170013.json | Deniswaran takes legal action against Vigneswaran | 170013.json | විග්නේෂ්වරන්ට එරෙහිව ඩෙනීස්වරන් නඩු දමයි
+170018.json | Field Marshal Fonseka’s comment on former Army Commander draws different views | 170018.json | ෆීල්ඩ් මාර්ෂල් ෆොන්සේකාගේ ප්‍රකාශයට නිදහස් පක්ෂයෙන් ප්‍රතිචාරයක්
+170019.json | Minister Navin's message to SLFP Ministers | 170019.json | නිදහස් පක්ෂ මැති ඇමතිවරුන්ට ඇමති නවීන්ගෙන් පණිවුඩයක්
+170020.json | Manikkamadu land dispute creates tension | 170020.json | අම්පාරේ ඉදි කිරීමක් නිසා උණුසුම් තත්වයක්
+170021.json | Polythene ban should be equal to all - canteen owners | 170021.json | පොලිතින් තහනම සැමට සමාන විය යුතු බව ආපන ශාලා හිමියන් කියයි
+172331.json | Parents of SAITM students and medical college students sign MOU | 172331.json | මාළඹේ වෛද්‍ය විද්‍යාලීය දෙමාපිය සංසදය හා රජයේ වෛද්‍ය පීඨ ශිෂ්‍ය දෙමාපිය සංගමය අතර අවබෝධතා ගිවිසුමක්
+172332.json | Shooting in Katubedda: one dead | 172332.json | කටුබැද්ද ප්‍රදේශයේ වෙඩි තැබීමකින් පුද්ගලයෙකු මරුට
+172333.json | JO goes to Supreme Court against Provincial Council amendment | 172333.json | පළාත් සභා සංශෝධනයට ඒකාබද්ධයෙන් පෙත්සම් 7ක්
+172334.json | Sathosa to sell coconuts | 172334.json | අද සිට සතොසෙන් අඩු මිලට පොල්
+172338.json | Education Ministry urged to release report on grade 5 examination before results are issued | 172338.json | අධ්‍යාපන ඇමතිගේ වාර්තාව ගැන ගුරු සංගම් ප්‍රශ්න කරයි
+172339.json | Special checkup in Parliament | 172339.json | පාර්ලිමේන්තුවේ අද විශේෂ පරික්ෂාවක්
+172342.json | 16-hour water cut in Negombo | 172342.json | මීගමුව අවට ප්‍රදේශවලට අද පැය 16 ක ජල කප්පාදුවක්
+172352.json | Arjuna Mahendran at PCoI | 172352.json | අර්ජුන මහේන්ද්‍රන් අදත් බැඳුම්කර කොමිසමට
+172353.json | Akmeemana Dayarathana Thera at CCD | 172353.json | පූජ්‍ය අක්මීමන දයාරතන හිමියන් කොළඹ අපරාධ කොට්ඨාශයට පැමිණෙයි
+172354.json | Collapsed Trinity rugby player dies  | 172354.json | රග්බි පුහුණුවක් අතරදී පාසල් සිසුවෙක් මරුට
+58196.json | Asath Sally arrested | 58196.json | අසාද් සාලි අත්අඩංගුවට.
+58197.json | Final decision on electricity tariff concession to be announced today; Opposition asks further relief. | 58197.json | විදුලියට දුන් සහනය ගැන අවසන් එකඟතාවය අද. සහන මදි. විපක්ෂය.
+58200.json | A mother and a child staging a protest near Naththandiya, Dhammissara College | 58200.json | නාත්තන්ඩිය ධම්මිස්සර විදුහල ඉදිරිපිට මවක සහ දරුවෙකු උපවාසයක.
+58201.json | Female lance corporal on training found dead | 58201.json | පුහුණුවකට ගිය ලාන්ස් කෝප්‍රල්වරියක් හදිසියේ මිය යයි.
+58205.json | The Australian Minister for Immigration and Citizenship arrives in the Island | 58205.json | ඕස්ට්‍රේලියානු පුරවැසිභාවය පිළිබඳ ඇමති දිවයිනට.
+58208.json | Awareness drive on Influenza-AH1N1 | 58208.json | ඉන්ෆ්ලූවෙන්සා රෝගය ගැන උපදෙස් මාලාවක්.
+58209.json | Two reasons for Azath Salli's arrest - Suggestions of religious conflict among them | 58209.json | අසාත් සාලි අත්අඩංගුවට ගැනීමට හේතු දෙකක්.
+58210.json | Technology assistance from Japan to develop Energy resources | 58210.json | මෙරට බලශක්ති සංවර්ධනයට ජපානය.
+58211.json | Revised electricity tariffs cut by 25 percent from 61 units to 180 units - No price hike upto 60 unit users | 58211.json | විදුලි ගාස්තු සහනය ප්‍රකාශයට පත් කෙරේ.
+58214.json | Pakistan Afghanistan border closed due to Pakistan General Elections    | 58214.json | පාකිස්තාන - ඇෆ්ගනිස්ථාන දේශ සීමාව වසා දැමේ.
+58215.json | Possibility of current Information in NIC to be printed in Tamil | 58215.json | භාෂා දෙකෙන් හැඳුනුම්පත ලබාදීම ගැන සොයා බලනවා - නීතිපති.
+60113.json | Today marks the 26th Year since the Aranthalawa Massacre | 60113.json | අරන්තලාව භික්ෂු ඝාතනයට අදට වසර 26 යි.
+56410.json | Red carpet for Gambling - UNP accuses government    | 56410.json | සූදුවට රතු පලස. - එජාපයෙන් ආණ්ඩුවට චෝදනා.
+56411.json | Price of furnace oil provided for Electricity generation also increased    | 56411.json | විදුලියට ලබාදෙන දැවි තෙල් මිලත් වැඩි කෙරේ.
+56412.json | Times of India reminds Jayalalitha of history    | 56412.json | ජයලලිතාට ඉතිහාස පාඩමක්.
+56413.json | Sri Lankans safe in India - says Indian High Commissioner       | 56413.json | ඉන්දියාව ශ්‍රී ලාංකිකයන්ට ආරක්ෂිතයි. - ඉන්දීය මහකොමසාරිස්.
+56432.json | Punish the culprits behind Mass Grave in Matale; UNP | 56432.json | මාතලේ සමූහ මිනීවල ගැන වැරදිකරුවන්ට දඩුවම් දෙන්න. UNP
+56433.json | Substitute employees of Colombo National Hospital in strife | 56433.json | ජාතික රෝහලේ වැඩ වර්ජනය නවතා දමන්නැයි අධිකරණ නියෝගයක්.
+56434.json | Respiratory diseases and dermatological conditions due to excessive heat | 56434.json | අධික උෂ්ණත්වයෙන් ස්වසන රෝග සහ සමෙහි ආසාදන.
+56435.json | Indo - Sri Lanka relations are secure; India | 56435.json | ඉන්දු - ශ්‍රී ලංකා සබඳතා සුරක්ෂිතයි. ඉන්දියාව.
+56439.json | Pepiliyana incident settled | 56439.json | පැපිලියානේ සිද්ධිය සමථයකට පත්වෙයි.
+58164.json | Canada's ruse continues. | 58164.json | කැනඩාවේ කෙණහිලිකම් තවදුරටත්.
+58166.json | Japanese deputy prime minister to the island. | 58166.json | විදුලි බිල වැඩිවීමට හේතුව විපක්ෂ නායකවරයා පහදයි.
+58167.json | An electricity tariff relief on May Day | 58167.json | මැයි දිනයේදී විදුලි බිලට සහනයක්.
+58170.json | Three charged with Boston bombing cover-up | 58170.json | බොස්ටන් ප්‍රහාරයේ තවත් සැකකරුවන් තුන්දෙනෙකු අත්අඩංගුවට.
+158322.json | Let us love the challenge of safeguarding national resources; a statement from the Joint Opposition | 158322.json | අභියෝගයට ආදරය කරමු - ඒකාබද්ධ විපක්ෂයෙන් ප්‍රකාශයක්
+158331.json | Police officers suspended for assaulting a motorcyclist | 158331.json | යතුරුපැදිකරුට පහර දුන් පොලිසියේ දෙදෙනාගේ වැඩ තහනම්
+158338.json | Arrests after 20 people killed at Sargodha shrine | 158338.json | පකිස්ථානයේ සිද්ධස්ථානයක් තුල විසිදෙනෙක් අමානුෂික ලෙස ඝාතනය කරයි  (ඡායාරූප)
+158340.json | Minister Rajitha ready to accept any ministry | 158340.json | ඕනෑම අමාත්‍යාංශයක් භාර ගැනීමට ඇමති රාජිත සූදානම්
+158341.json | Wimal has fever: Request by the prison denied | 158341.json | විමල්ට උණ - බන්ධනාගාර ඉල්ලීමත් ඉවතට
+158342.json | The leadership was not obtained to place crowns on the family: Says President | 158342.json | නායකත්වය භාර ගත්තේ පවුලට ඔටුනු පළදන්න නොවේ - ජනපති
+160451.json | Police search for double murder suspects of Hungama | 160451.json | හුංගමදී මව සමඟ ඝාතනයට ලක්වූ දියණිය පස් මස් ගැබිණියක්
+162639.json | Heavy rainfall exceeding 100 mili meters predicted for today in disaster hit areas | 162639.json | ප්‍රදේශ කිහිපයකට මිලිමීටර් 100 ඉක්මවු තද වැසි
+162640.json | Trump pulls US out of 2015 accord | 162640.json | ඇමරිකාව ලෝක කාලගුණ සම්මුතියෙන් ඉවත් වෙයි
+162641.json | 850 areas at risk of landslides have been identified | 162641.json | ආපදා මරණ 206 ක් දක්වා ඉහළට - නායයෑමේ අවදානම් සහිත ස්ථාන 850 කුත් නිරීක්ෂණය කරයි
+162642.json | The 6th consignment of relief goods under GOLD FM Cares programme heads to Mathara -  Medical camps for victims of disaster hit areas, launches today | 162642.json | update: රට වෙනුවෙන් හිරු 06 වන ආධාර තොගය මාතරට - රට වෙනුවෙන් හිරු, සෞඛ්‍ය ක්‍රියාන්විතය ඇරඹේ
+162645.json | Medical council petition against SAITM verdict goes before a 3 judge bench | 162645.json | සයිටම් තීන්දුවට එරෙහි වෛද්‍ය සභාවේ පෙත්සම ත්‍රිපුද්ගල විනිසුරු මඩුල්ලක් හමුවට
+162646.json | 146 schools damaged by flooding and landslides | 162646.json | ගංවතුර සහ නායයෑම් නිසා පාසල් 146 කට හානි - වසා දැමුණු පාසල් යළි විවෘත කිරීමේ තීරණය අද
+162649.json | 10 relief ships from Australia for the relief operations in Sri Lanka | 162649.json | සහන මෙහෙයුම් සදහා ඕස්ට්‍රේලියාවෙන් යාත්‍රා 10 ක්
+162652.json | Resorts World Manila: At least 34 bodies found at casino complex | 162652.json | පිලිපීනයේ මැනිලා  නුවර වෙඩි තැබීමකින් 34 ක් මරුට
+162654.json | 350 boats and 100 life jackets allocated for relief operations by the ministry of Fisheries | 162654.json | සහන මෙහෙයුම් සදහා ධීවර අමාත්‍යාංශයෙන් බෝට්ටු 350 ක් සහ ජීවිතාරක්ෂක කබා 100 ක්
+162661.json | Anura Senanayaka granted bail after one year | 162661.json | අනුර සේනානායකට ඇප
+209564.json | Debate on forming a National Government on the 7th; Joint Opposition and JVP says they weren’t informed | 209564.json | ජාතික ආණ්ඩු විවාදය 7 වනදා - කලින් නොකියූ බවට ඒකාබද්ධ විපක්ෂයෙන් හා ජවිපෙන් චෝදනා
+209566.json | Importers warn of a shortage of food items due to the Customs strike | 209566.json | රේගු වර්ජනය නිසා ආහාර හිඟයක් ගැන, ආනයනකරුවන්ගෙන් අනතුරු ඇගවීමක්
+209567.json | Operation in Wilpaththu in search of missing Saliyawewa girl | 209567.json | සාලියවැව දැරිය සොයා විල්පත්තුවේ මෙහෙයුමක්
+209568.json | An explanation on the constitution and the national government from Opposition Leader Mahinda | 209568.json | ව්‍යවස්ථාව සහ ජාතික ආණ්ඩුව ගැන විපක්ෂ නායක මහින්දගෙන් පැහැදිලි කිරීමක්
+209590.json | Prisoners like Duminda Silva who were imprisoned over political reasons should be released - Ajith Prasanna | 209590.json | දේශපාලන හේතූන් මත සිරගත කළ දුමින්ද සිල්වා වැනි සිරකරුවන්ට නිදහස ලබාදිය යුතුයි - අජිත් ප්‍රසන්න
+209591.json | Customs takes stricter trade union action | 209591.json | රේගුව වෘත්තීය ක්‍රියාමාර්ගය දැඩි කරයි
+209594.json | 150 police officers deployed in search of the missing girl in Puttalam | 209594.json | පුත්තලමේ දැරිය සොයා පොලීසියේ 150 ක් මෙහෙයුමක
+211511.json | Water cut to be imposed on several areas in Colombo | 211511.json | කොළඹ ප්‍රදේශ කිහිපයකට අද වතුර නැහැ
+211513.json |  Symbol and name of new alliance between SLFP and SLPP to be announced after formulation of constitution. | 211513.json | නිදහස් පක්ෂ සහ පොදුජන පෙරමුණු නව සන්ධානයේ  ලකුණ සහ නම, ව්‍යවස්ථාවෙන් පසු
+211514.json | Lal Kantha to be produced before court today | 211514.json | ලාල්කාන්ත අද අධිකරණයට
+211515.json |  3 hospitalized following a clash between 2 groups in Kalpitiya | 211515.json | කල්පිටියේ දෙපිරිසක් අතර ගැටුමකින් 3ක් රෝහලේ - යතුරුපැදි 4කුත් ගිනි තබයි
+215592.json | TNA request army protection;National Thawheet Jamath Colombo district Organizer remanded | 215592.json | උතුරට යළි හමුදා ආරක්ෂාව අවශ්‍යයි - මාවෙයි සේනාධිරාජා
+215594.json | Government analyst report on the Eater Sunday attacks to the court next week | 215594.json | ප්‍රහාරයේ රස පරීක්ෂක වාර්තාව ලබන සතියේ අධිකරණයට
+215601.json | August school vacation likely to shorten | 215601.json | අගෝස්තු පාසල් නිවාඩුව කෙටිවන ලකුණු
+215609.json | Deportation Order on drug kingpin Madush postponed again | 215609.json | මධූෂ් පිටුවහල් කිරීම පිලිබඳ තීන්දුව කල් යයි
+215615.json | The Cardinal requests not to open Catholic schools next week as well, notice issued not to hold Sunday Mass as well | 215615.json | සියලූම කතෝලික පාසල් ලබන සතියේත් වසා දමන්නැයි කාදිනල් හිමිපාණන් ඉල්ලයි
+215616.json | The bodies of 15 killed in Saindamarudu explosion buried amid stiff security | 215616.json | සයින්දමරුදු පිපිරීමෙන් මියගිය පුද්ගලයන්ගේ සිරුරු මිහිදන් කෙරේ
+215621.json | The security report prepared by former tri-forces commanders to be handed over to the President | 215621.json | හිටපු හමුදා ප්‍රධානීන් විපක්ෂ නායකට ලබාදුන් ආරක්ෂක වාර්තාවක් ජනපතිට
+215633.json | Three staff members of a powerful UNP minister apprehended with 600 letters derogatory to the President and causing disharmony among races. | 215633.json | ජාතීන් අතර අසමගිය ඇති කරන ලිපි 600ක් සමග රජයේ ප්‍රබල ඇමතිවරයෙකුගේ නිලධාරීන් 3ක් අත්අඩංගුවට
+217546.json | Rathana Thera continues his fast for the 3rd day | 217546.json | රතන හිමියන් තුන්වන දිනටත් අඛණ්ඩව උපවාසයේ
+217549.json | Suspect wanted over the murder of a Police Officer killed in a shootout  | 217549.json | අකුරැස්සේදී පොලිස් නිලධාරියෙකු ඝාතනය කළ සැකකරු වෙඩි හුවමාරුවකින් මරුට
+217550.json | Digambaram calls for an investigation against Bathiutheen | 217550.json | බදියුදීන් ගැන පරීක්ෂණයක් අවශ්‍ය බව දිගම්බරම් කියයි
+217552.json | Nevil Fernando hospital also in the Top 20 Complaints | 217552.json | ටොප් ටුවෙන්ටි පැමිණිලි මාලාවට නෙවිල් ප්‍රනාන්දු රෝහලත්
+217587.json | A meeting between Prime Minister and the Opposition Leader tomorrow | 217587.json | අගමැති - විපක්ෂ නායක හමුවක් හෙට
+217589.json | Katuwapitya devotees visit Kandy to look in to the wellbeing of Venerable Athuraliye Rathana Thera People protest against Duminda Dissanayaka | 217589.json | උපවාසයේ නිරත රතන හිමියන්ගේ සුවදුක් විමසීමට කටුවාපිටියේ ජනතාවත් මහනුවරට - දුමින්ද දිසානායකයට විරෝධයක්
+217593.json | JVP charge that the Eastern Jetty of the Colombo port was sold 5 days ago | 217593.json | දින 5කට පෙර කොළඹ වරායේ නැගෙනහිර ජැටිය විකුණා ඇතැයි, ජවිපෙන් චෝදනා
+219484.json | No intention to establish military base in Sri Lanka - says US Ambassador | 219484.json | ශ්‍රී ලංකාවේ කදවුරක් පිහිටුවීමේ කිසිදු සැලසුමක් නැහැ - ඇමරිකාව
+219485.json | A CID motion about Saafi; Opposition asks for a presidential commission | 219485.json | සාෆි ගැන සී.අයි.ඩීයෙන් මෝසමක් - විපක්ෂය ජනපති කොමිසමක් ඉල්ලයි
+148758.json | Protesting against new rules shows that they want to violate them- Finance Minister  | 148758.json | සුළුතර අවශ්‍යතාවයක් වෙනුවෙන් ජීවිතවලින් වන්දි ගෙවීමට ඉඩ නොතබන බව මුදල් ඇමති කියයි
+148759.json | Kumar Gunaratnam granted temporary visa | 148759.json | කුමාර් ගුණරත්නම්ට තාවකාලික වීසා
+148760.json | US Vice president-elect engages in a telephone conversation with President Maithripala Sirisena | 148760.json | ඇමරිකානු උප ජනපතිගෙන්, ජනපති මෛත්‍රීට ඇමතුමක්
+148762.json | Thai Crown Prince Maha Vajiralongkorn proclaimed king | 148762.json | තායිලන්තයේ නව රජු කිරුළු පළදී
+148763.json | School children left stranded and daily lives affected as private buses desert roads | 148763.json | බස් රථ වර්ජනයෙන් රට පුරා මගීන් දැඩි අපහසුතාවයේ (ඡායාරූප)
+148764.json | Sub-station master in Ahangama assaulted  | 148764.json | කතළුව දුම්රිය ස්ථානයේ උප ස්ථානාධිපතිවරයාට පහරදීමක්
+148765.json | Labor officers call off strike  | 148765.json | කම්කරු නිලධාරින්ගේ වර්ජනය අවසන්
+148773.json | Body of a man found in a Nittambuwa hotel  | 148773.json | නිට්ටඹුව - පස්යාලේ හෝටල් කාමරයක පුද්ගල මළ සිරුරක්
+148774.json | Trump names Gen James 'Mad Dog' Mattis as defence secretary | 148774.json | ඩොනල්ඩ් ට්‍රම්ප් ආරක්ෂක ලේකම්වරයා නම් කරයි
+148775.json | Man arrested over the abduction and sexual abuse of a teen  | 148775.json | පාසල් දැරියක් ගැබිණියක් කළ අයෙකු අත්අඩංගුවට
+148778.json | President calls for explanation regarding IGP’s phone call  | 148778.json | පොලිස්පතිට පැමිණි දුරකථන ඇමතුම පාර්ලිමේන්තුවටත් යයි
+148781.json | Twelve SLTB attacked in several areas  | 148781.json | වර්ජනය මැද ධාවනය වූ ලංගම බස් රථවලට ප්‍රදේශ කිහිපයකදී ප්‍රහාර - පොලිස් ආරක්ෂාව ලබා ගැනේ
+148783.json |  Ten fishermen missing in Northern Province sea- [photos]  | 148783.json | උතුරේ ධීවරයන් 10 ක් අතුරුදන් වෙයි (ඡායාරූප)
+148785.json | Three-wheeler drivers protest across the island- [photos] | 148785.json | ත්‍රී රෝද රථ හිමියන් විරෝධතාවක (ඡායාරූප)
+148788.json | Kumar Gunaratnam released   | 148788.json | Update : අරගලය, මිස ආණ්ඩුව විශ්වාස නැහැ - නිදහස ලැබූ කුමාර් ගුණරත්නම් කියයි
+148789.json | Private bus strike continues island wide; Commuters left stranded    | 148789.json | පෞද්ගලික බස් වර්ජනයෙන් දිවයින පුරා මගීන් දුෂ්කරතාවට - ලංගම බස් රථවලටත් පහර දෙයි
+148790.json | Minister Akila Viraj accuses the Provincial Councils  | 148790.json | අධ්‍යාපනයේ අර්බුද ගැන ඇමති අකිල විරාජ්ගෙන් පළාත් සභාවලට චෝදනා
+148795.json | Jaliya Wickramasuriya remanded  | 148795.json | ඇමරිකාවේ හිටපු ශ්‍රී ලංකා තානාපති ජාලිය වික්‍රමසූරිය යලි රිමාන්ඩ්
+148796.json | New rule in 2020- JVP  | 148796.json | 2020 දී අලූත් පාලනයක් - ජවිපෙ
+148797.json | Massive loss to the state in 2014 rice imports- JVP  | 148797.json | 2014 සහල් ආනයනයෙන් කෝටි 236 ක පාඩුවක්
+134640.json | Former Colombo Additional Magistrate Thilina Gamage To Court | 134640.json | අධිකරණයට භාරවු හිටපු ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේට ඇප
+134642.json | Eastern Province Chief Minister Attends A Feast At Naval Base In Trincomalee | 134642.json | නැගෙනහිර මහඇමති නාවික කඳවුරේ දවල් කෑම කයි
+134643.json | Gov. Implemented Tax Reforms To Escape Foreign Currency Crisis: Anura Kumara | 134643.json | ආණ්ඩුව වාහන බදු වැඩි කළේ ඩොලර් එකෙන් බේරෙන්න - අනුර කුමාර
+134644.json | Wimal Weerawansa Reveals The Reason Why Anura Accuses FCID | 134644.json | අනුර එෆ්.සී.අයි.ඩී.යට බනින හේතුව විමල් කියයි
+134645.json | UK Troops Use Bollywood Music As New Weapon Against ISIS | 134645.json | අයි.එස්. සංවිධානයට එරෙහිව බොලිවුඩ් සංගීතය
+134647.json | "Unauthorized Constructions Prohibited" - President | 134647.json | කිසිවකුට අනවසර ඉදිකිරීම් කල නොහැකි බව ජනපති අවධාරණය කරයි
+134648.json | Talks With President 'A Failure' – Says Pavidi Handa | 134648.json | ජනපති සමග පැවති සාකච්ඡා අසාර්ථක බව පැවිදි හඩ කියයි
+134649.json | Politicians and Civil Society representatives backlash over the failure to arrest former IGP | 134649.json | තාජුඩීන් ඝාතනයට හිටපු පොලිස්පති අත්අඩංගුවට ගත යුතු බව දේශපාලනඥයන් සහ සිවිල් සංවිධාන නියෝජිතයන් කියයි
+134651.json | Min. Harsha Reveals About The Former First Lady Shiranthi Rajapakse's Misuse Of the Public Money | 134651.json | ඇමති හර්ෂගෙන් හිටපු ජනපති ආර්යාවගේ වියදම් ගැන හෙළිදරව්වක්
+136988.json | ISIS attack in Dhaka; two Sri Lankans among the hostages | 136988.json | බංගලාදේශයේ ඩකා අගනුවර සන්නද්ධ ප්‍රහාරයක් - ප්‍රාණ ඇපකරුවන් අතර ශ්‍රී ලාංකිකයන් දෙදෙනෙක් ?
+136992.json | The new force of the joint opposition to emerge from Badulla | 136992.json | ඒකාබද්ධ විපක්ෂයේ නව බලවේගය අද බදුල්ලෙන් ඇරඹේ
+136999.json | Update: Sri Lankan couple held hostage by the ISIS rescued  | 136999.json | Update : ප්‍රාණ ඇපයට ගෙන සිටි ශ්‍රී ලාංකිකයන් දෙදෙනා මුදාගනී
+137001.json | Bangladesh forces storm Dhaka hostage cafe | 137001.json | කමාන්ඩෝ භටයන් එක්වරම කඩාවැදී ප්‍රාණ ඇපකරුවන් කිහිප දෙනෙකු මුදාගනී
+137002.json | The ship that was taken into custody in Galle is from Singapore | 137002.json | ගාල්ලේදී  අත්අඩංගුවට ගත් නෞකාව සිංගප්පූරු රජය යටතේ ලියාපදිංචි කර ඇති බව හෙළිවේ
+137003.json | A primary school student dies in motor traffic accident | 137003.json | ලොරි රථයක ගැටී පෙර පාසල් දරුවෙකු මිය යයි
+137005.json | Dr. Indrajith Coomaraswamy to Head CBSL from Monday | 137005.json | නව මහබැංකු අධිපතිවරයා නම් කෙරේ
+137007.json | Forces clear Dhaka café and rescue hostages  | 137007.json | බංග්ලාදේශ අවන්හලේ ප්‍රාණ ඇපකරුවන් මුදා ගැනීමේ මෙහෙයුම නිමයි
+137008.json | Model and Animal Lover Nicole Williams Skins Herself in Support of PETA [Video] | 137008.json | සත්ව හිංසනයට විරුද්ධව සුරූපිනියක් සිරුර කපාගත් හැටි
+137009.json | Two women kidnapped and gang-raped by 12 in Agra, India  | 137009.json | නටන්න පැමිණි ශිල්පිනියන් දෙදෙනා 12ක් අමානුෂික ලෙස දුෂණය කරයි
+137010.json | The Central Expressway will be ready within three years  | 137010.json | අවුරුදු 3කින් මධ්‍යම අධිවේගී මාර්ගයේ වැඩ අවසන්
+137011.json | Red light warning from SLFP General Secretary to those seeking a new force | 137011.json | නව බලවේගයක් හැදුවොත් බලාගමු - නිදහස් පක්ෂ මහලේකම්
+137013.json | Amendments to VAT on Monday- President | 137013.json | කීකරු වන්නේ ජනතා හඬට පමණයි - ජනපති
+137019.json | Prez meets Dr. Coomaraswamy  | 137019.json | නව මහබැංකු අධිපති ජනපති හමුවෙයි
+137020.json | Australian election polls closes | 137020.json | ඕස්ට්‍රේලියාවේ මහමැතිවරණ ඇරඹේ
+104571.json | ISIS frees 19 of 220 abducted Christians | 104571.json | කිතුණුවන් 19ක් නිදහස්
+104575.json | Returning pilgrims nabbed with Sat. Equipment by Customs | 104575.json | නඬේ ගුරාගේ මල්ලේ චන්ද්‍රිකා උපකරණ තිබිලා
+104576.json |  “The reason for the delay in arresting rogues” – PM | 104576.json | හොරු ඇල්ලීම ප්‍රමාද වීමට හේතුව අගමැති පහදයි
+104578.json | Bus Strike in Panadura | 104578.json | සනීපාරක්ෂාව ඉල්ලා බස් සේවකයන් වර්ජනයක
+104581.json | Missing businessman returns home | 104581.json | අතුරුදන්වූ ව්‍යාපාරිකයා ගෙදර එයි
+104582.json | Mangala to meet Prince Zeid Ra'ad | 104582.json | ඇමති මංගල සෙයිඞ් අල් හුසේන් හමුවේ
+104590.json | Eggs hurled at Police | 104590.json | පොලිසියට කුණු බිත්තරවලින් ගහලා
+104594.json | Update: Shasheendra Rajapakse goes to Supreme Court over the UVA Chief Ministerial post | 104594.json | Update: ශෂීන්ද්‍ර රාජපක්ෂ ශ්‍රේෂ්ඨාධිකරණයට
+104597.json | Deadly Bacteria Released from US High-Security Lab | 104597.json | මාරාන්තික බැක්ටීරියාවක් ඇමරිකානු පරීක්ෂණාගාරයකින් අතුරුදන්
+175059.json | Beruwala UNP organizer rejects Rajitha’s statement | 175059.json | රාජිතගේ ප්‍රකාශයට බේරුවල එජාප සංවිධායකගෙන් පිළිතුරු
+175063.json | Australian PM meets President and PM | 175063.json | ඕස්ට්‍රේලියානු අගමැති ජනාධිපති සහ අගමැති හමුවේ (ඡායාරූප)
+175071.json | Geetha loses Parliamentary seat | 175071.json | ගීතා කුමාරසිංහගේ පාර්ලිමේන්තු මන්ත්‍රීධුරය අහිමිවෙයි
+175072.json | FMM seeks PCoI to probe crimes against journalists | 175072.json | තවත් ජනපති කොමිසමක් ඉල්ලයි
+175076.json | Bond Commission to invite PM | 175076.json | සාක්ෂි ලබාදීමට පැමිණෙන්නැයි අගමැතිගෙන් ඉල්ලීමට බැඳුම්කර කොමිසමෙන් තීරණයක්
+175077.json | Joint Opposition's SLFP MP's write a letter to SLFP | 175077.json | ඒකාබද්ධ විපක්ෂයේ ශ්‍රීලනිප මන්ත්‍රීන්, නිදහස් පක්ෂයට විශේෂ ලිපියක් ලියයි
+175083.json | Two CWC Central Provincial Councillors arrested (Photo) | 175083.json | ලංකා කම්කරු කොංග්‍රසයේ මධ්‍යම පළාත්සභාවේ මන්ත්‍රීවරු දෙදෙනෙකු අත්අඩංගුවට (ඡායාරූප)
+175090.json | Fmr. Deputy Minister Premaratne jailed over bribery | 175090.json | හිටපු නියෝජ්‍ය අමාත්‍ය ශාන්ත ප්‍රේමරත්නට වසර 4ක සිර දඬුවම්
+175092.json | Gazette constituting number of members of LG bodies with Govt. Printer | 175092.json | ජනවාරියේ ඡන්දය තියෙන ගැසට් පත්‍රය මුද්‍රණයට
+175094.json | A three-pronged operation to annihilate underworld    | 175094.json | පාතාලය මර්දනයට තුන් කොන් මෙහෙයුමක්
+175096.json | Mervyn Silva launches new political party    | 175096.json | මර්වින් සිල්වාගේ නව පක්ෂය එළි දකී
+175101.json | Shooting in Thalawathugoda | 175101.json | තලවතුගොඩ වෙඩි තැබීමක්
+175102.json | 5-year-old boy dies after falling into an unprotected well (Photo) | 175102.json | වගා ළිදකට වැටී අවුරුදු 5 ක කුඩා දරුවෙකු මියයයි (ඡායාරූප)
+175106.json | Supreme Court dismisses PTL petition | 175106.json | පර්පචුවෙල් ටෙ‍්‍රෂරීස් සමාගමේ පෙත්සමක් ශ්‍රේෂ්ඨාධිකරණය ප්‍රතික්ෂේප කරයි
+175107.json | Woman dies in wild elephant attack | 175107.json | වන අලි ප්‍රහාරයකින් කාන්තාවක් මරුට - දුම්රියේ ගැටී වන අලියෙකුත් මියයයි (ඡායාරූප)
+175115.json | Sathosa reduces prices of essential goods | 175115.json | අත්‍යවශ්‍ය භාණ්ඩ සතොසෙන් අඩු මිලට
+175122.json | PTL's FR petition dismissed, PM requested to appear before Bond Commission | 175122.json | පර්පචුවෙල් සමාගම අයිතිවාසිකම් ඉල්ලූ පෙත්සමක් නිෂ්ප්‍රභයි
+175123.json | Parliament Sec. Gen. clarifies next step to fill seat vacated through dismissal of Geetha | 175123.json | ගීතාට අහිමි වූ මන්ත්‍රී ධුරය පියසේනට හිමිවීම ඡන්ද කොමිසමේ නිවේදනයෙන් පසු
+139617.json | Mistress Spanked And Beaten In Street For Stealing Woman's Husband | 139617.json | සැමියාගේ අනියම් පෙම්වතියට මහමඟදී පහරදුන් හැටි
+142075.json | The entire gang of suspects behind the murder of the businessman in Bambapalitiya arrested - The best employee believed to be the mastermind | 142075.json | Update : කෝටිපති ව්‍යාපාරිකයාගේ ඝාතන කල්ලියම කොටුවෙයි - සැලසුම හොඳම සේවකයාගේ
+146614.json | Budget 2017: Proposals with regard to the vehicle industry  | 146614.json | මෙවර අයවැය සඳහා වාහන ක්ෂේත්‍රයෙන් ඉදිරිපත්වන යෝජනා ?
+146650.json | Two arrested over the death of a woman in Wennappuwa  | 146650.json | Update: වෙන්නප්පුවෙන් හමුවු කාන්තාවගේ මරණයට හේතුව හෙළිවෙයි
+148798.json | Man dies after tree crashes on him in Chavakachcheri  | 148798.json | චාවකච්චේරියේ ගසක් කඩා වැටී පුද්ගලයෙකු ජීවිතක්ෂයට
+151107.json | Let’s build the country without placing focus on power; President says    | 151107.json | බලය ගැන නොසිතා රට ගොඩනගමු ‘‘තිරසර යුගයක් - සංවර්ධන දැක්ම’’එළි දක්වමින් ජනපති කියයි
+153488.json | THE JAFFNA GANG WHO TERRORIZED THE ENTIRE COUNTRY CAUGHT WITH WEAPONS | 153488.json | රටම බය කළ යාපනයේ කල්ලිය අමුතු ආයුධ සමඟ අත්අඩංගුවට ගත් හැටි මෙන්න
+153521.json | ILLEGAL ANIMAL SELLING RACKET RAIDED | 153521.json | නීතිවිරෝධී ලෙස සතුන් අලෙවි කිරීමේ ජාවාරමක් වටලයි
+155842.json | Former Minister Priyankara attends SLFP central committee meeting | 155842.json | හිටපු ඇමති පියංකර නිදහස් පක්ෂ මධ්‍යම කාරක සභාවට එයි
+158303.json | Showers in few areas after 2 PM | 158303.json | පළාත් කිහිපයකට අද පස්වරු 02 න් පසු වැසි
+164883.json | Canada’s huge crowds celebrate nation's 150th anniversary | 164883.json | කැනඩාවට 150 යි
+167468.json | Trump approves new Russia sanctions | 167468.json | රුසියාවට සම්බාධක පනවන නව කෙටුම්පතකට අමරිකා ජනපති අත්සන් තබයි
+172356.json | Dancing teacher’s unexpected fate | 172356.json | ළමා දිනයට පුහුණුවක යෙදුන ගුරුවරිය නටද්දී ඇද වැටී මියයයි
+175056.json | Bond Commission's special session today | 175056.json | බැඳුම්කර කොමිසමේ විශේෂ සැසිවාරයක් අද
+177450.json | LG polls February 10? | 177450.json | පුංචි ඡන්දය පෙබරවාරි 10 ?
+177451.json | Dead body found in Mannar jungle (Photos) | 177451.json | මන්නාරමේ කැලෑවකින් පුද්ගල මළ සිරුරක් (ඡායාරූප)
+177452.json | Weather havoc: Rain expected to hammer many parts of island | 177452.json | අයහපත් කාලගුණයෙන් දිස්ත්‍රික්ක 16 ක එක්ලක්ෂ 6000 කට පීඩා - අද රාත්‍රියේත් තද වැසි
+177454.json | Electricity generation trials begin at Moragahakanda | 177454.json | මොරගහකන්දේ විදුලි උත්පාදන පෙරහුරුව ඇරඹේ
+177458.json | Suspect dies in Police custody | 177458.json | පොලීසිය ගැන පොලීසියෙන්ම පරීක්ෂණයක්
+177459.json | Hiru provincial correspondent comes under attack | 177459.json | හිරු ප්‍රාදේශීය මාධ්‍යවේදියාට ප්‍රහාරයක්
+177467.json | Two gramaseva officers arrested with ivory pendants (Photos) | 177467.json | දළ පුට්ටුවා ඝාතකයින් කට අරී - "ඇත් දළ පෙන්ඩන්ට් ග්‍රාම නිලධාරීන් දෙදෙනා"ට වැඩ වරදී (ඡායාරූප)
+179898.json | Another commission report to be presented to President | 179898.json | බැඳුම්කර කොමිසමේ නිර්දේශ හෙට ප්‍රකාශයට - බරපතල වංචා සොයන කොමිෂන් වාර්තාවත් අද
+179899.json | Ban on use of candidates' image for election propaganda | 179899.json | ඡන්ද ප්‍රචාරණයට පැනවෙන තහනම
+179900.json | 'Flower bud' candidates called to Colombo | 179900.json | කොළඹට කැඳවන පොහොට්ටුවේ අපේක්ෂකයින්
+179906.json | Two teenagers drown at mosque pond | 179906.json | පොකුණක සැඟව ගිය තරුණයින් දෙදෙනා
+179952.json | Triplets born at Dambulla | 179952.json | දඹුල්ල මූලික රෝහලේ  තුන් නිවුන් දරු උපතක්
+179953.json | A father of four murdered | 179953.json | සිව් දරු පියෙකු ඝාතනය කරයි
+179954.json | Six including former Navy Spokesperson remanded again | 179954.json | D.K.P දසනායක ඇතුලු 6 දෙනා යළි රිමාන්ඩ්
+179957.json | Leopard attack sends 5 to hospital (Photos) | 179957.json | දිවියෙකු පහරදී 5 ක් රෝහලේ (ඡායාරූප)
+179959.json | Petition seeking suspension of CMC election filed | 179959.json | කොළඹ මහ නගර සභාවේ ඡන්දය වළක්වන ලෙස ඉල්ලා පෙත්සමක්
+179962.json | Shooting in Nagalam Street, 4 injured | 179962.json | වෙඩි තැබීමකින් 4 කට තුවාල
+179964.json |  President gets another Commission report | 179964.json | බරපතල වංචා විමර්ශණ කොමිසමේ වාර්තාව ජනපතිට
+179972.json | Police expand probe on Nuwara Eliya robbery | 179972.json | නුවරඑළියේ මුදල් කොල්ලය ගැන පොලීසියේ සැකය වෙනස් මගකට
+153489.json | SLTB’s Shashi Welgama re-remanded  | 153489.json | ශෂී වෙල්ගම යළි රිමාන්ඩ්
+153491.json | Kumar Gunaratnam given Sri Lankan citizenship  | 153491.json | කුමාර් ගුණරත්නම්ට ශ්‍රී ලංකා පුරවැසිභාවය
+153492.json | Uni students to march against SAITM  | 153492.json | සයිටම් විරෝධී සරසවි සිසු පා ගමනට අධිකරණයෙන් "නියත ආඥාවක්"
+153495.json | Individual arrested for threatening Balapitiya Divisional secretary | 153495.json | බලපිටිය ප්‍රා.ලේ. මරණ තර්ජන - පුද්ගලයෙකු අත්අඩංගුවට
+153496.json | A BUS DRIVER ATTACKED BY A GROUP OF PEOPLE (VIDEO) | 153496.json | බස් රියදුරුට එක්වරම පිරිසක් වටකරගෙන පහරදුන් හැටි මෙන්න
+153497.json | ANURA SENANAYAKA RE-REMANDED | 153497.json | අනුර සේනානායක යළි රිමාන්ඩ්
+153499.json | A group of disabled policemen stage a protest in Fort   | 153499.json | ආබාධිත පොලිස් නිලධාරීන් පිරිසක් නිසා දැඩි රථවාහන තදබදයක්
+153501.json | No Sri Lankan stranded in the US | 153501.json | ශ්‍රී ලාංකිකයන්ට ගැටළුවක් නැහැ - විදේශ අමාත්‍යාංශය
+153503.json | Consumer yet to benefit from rice price reductions- Finance Min.  | 153503.json | තොග නිදහස් කරන්න - මුදල් ඇමති
+153507.json | Woman dies after setting herself on fire  | 153507.json | හෝකන්දර නිවසක් තුළ කාන්තාවක් ගිනිතබාගෙන සියදිවි හානිකර ගනී (ඡායාරූප)
+153508.json | Five Indian fishermen arrested  | 153508.json | ඩෙල්ෆ් මුහුදේදී ඉන්දීය ධීවරයින් 5 දෙනෙකු අත්අඩංගුවට
+153512.json | Cry for water: Wells in Badalgama dries up due to factory tube well  | 153512.json | බඩල්ගම ප්‍රදේශයේ ළිං එකවර සිඳෙයි
+153515.json | MORE NEWS ON THAJUDEEN MURDER REVEALED | 153515.json | තාජුඩීන්ගේ ඝාතනය ගැන තවත් තොරතුරු රැසක්
+153516.json | REQUEST TO DISPLAY NATIONAL FLAG FOR ONE WEEK | 153516.json | සතියක් ජාතික කොඩිය ප්‍රදර්ශණය කරන්නැයි ඉල්ලීමක්
+153518.json | TEAR GAS AND WATER CANNONS FIRED AT MEDICAL STUDENTS  | 153518.json | Update : වෛද්‍ය පීඨ සිසුන්ට ජල සහ කඳුලු ගෑස් ප්‍රහාරයක්
+219487.json | A drunken motorcyclist attempting to knock down a police officer shot at in Buttala | 219487.json | බීමතින් පොලිස් නිලධාරියෙකු, යට කිරීමට උත්සාහ කළ යතුරුපැදිකරුවෙකුට, බුත්තල දී වෙඩි
+219504.json | 5 judge bench to consider the petition against the death penalty for drug convicts | 219504.json | මරණ දඬුවමට එරෙහි පෙත්සම විභාගයට අභියාචනාධිකරණයෙන් පංච පුද්ගල විනිසුරු මඩුල්ලක්
+219506.json | IGP Pujith and former Defence secretary Hemasiri hospitalised as they are called before CID today | 219506.json | සී.අයි.ඩී.යට කැදවූ, පොලිස්පති පූජිත් සහ හිටපු ආරක්ෂක ලේකම් හේමසිරි, රෝහල් ගත වෙයි
+219509.json | Cabinet argues regarding the Baticalo private university | 219509.json | මඩකලපු පෞද්ගලික විශ්වවිද්‍යාලය ගැන, කැබිනට්ටුවේ වාද විවාද
+219511.json | Joint Opposition inquires US embassy about SOFA | 219511.json | සෝෆා ගැන ඒකාබද්ධය, ඇමරිකානු තානාපති කාර්යාලයෙන් කරුණු විමසයි
+134561.json | Expectations of the North not yet fulfilled; Min. Vignesvaran | 134561.json | උතුරේ බලාපොරොත්තු තවමත් ඉටුවී නැහැලු
+134562.json | Discussions in the cabinet for not arresting Shiranthi Rajapaksa; a revelation from JVP leader    | 134562.json | ශිරන්ති අත්අඩංගුවට නොගැනීමට කැබිනට් මණ්ඩලයේ සාකච්ඡා
+134563.json | Relief for persons who fled the country seeking refuge | 134563.json | රැකවරණ පතා විදේශගතවූ පුද්ගලයින්ට සහනයක්
+134568.json | A constitution to suit the country  | 134568.json | රටට ගැළපෙන ව්‍යවස්ථාවක්
+134569.json | Elections will not be postponed- Election Commissioner  | 134569.json | ඡන්දෙ කල් දාන්නේ නැහැ - මැතිවරණ කොමිසම
+134570.json | 6.5 magnitude earthquake felt in Indonesia | 134570.json | ඉන්දුනීසියාවේ භූ කම්පනයක්
+134574.json | Hospitalized Horowpathana OIC’s wife passes away | 134574.json | රෝහල් ගතව සිටි හොරොව්පතාන OICගේ බිරිඳත් මියයයි
+134578.json | It will rain in several districts- Met Department   | 134578.json | අදත් පළාත් කිහිපයකට වැසි
+134579.json | At least 15 dead in Somali Capital bombing | 134579.json | සෝමාලියාවේ බෝම්බ පිපිරීමකින් 10 දෙනෙකු මරුට
+134593.json | This Vehicle Will Replace Three-Wheelers - [Photos] | 134593.json | ත්‍රී රෝද රථය වෙනුවට අලුතින් එන වාහනය මෙන්න
+134594.json | Stock of Illicit Liquor and Marijuana Seized in Sisilagama-Kegalle | 134594.json | කෑගල්ල - සිසිලගමින් නීතිවිරෝධී මත්පැන් සහ ගංජා සොයාගැනේ
+134596.json | Cement Prices Up | 134596.json | වෙළඳ නාම 5ක සිමෙන්ති මිල ඉහළට
+134600.json | Bail for former Embilipitiya ASP | 134600.json | මාස හතරකට පසු ඇඹිලිපිටිය හිටපු ASPට  ඇප
+134603.json | IGP Flies To USA To Participate In The UN Chiefs Of Police Summit | 134603.json | පොලිස්පති පූජිත් ජයසුන්දර ඇමරිකාවට
+134604.json | P B Jayasundara Seeks Alternative Date From The PRECIFAC | 134604.json | PB  ජයසුන්දර ජනපති කොමිසමෙන් වෙනත් දිනයක් ඉල්ලයි
+134607.json | Uni. Students Should Properly Utilize Facilities Provided Under Free Education; President | 134607.json | සරසවි සිසුන්ට ජනපතිගෙන් උපදෙසක්
+134609.json | Economy Plummets, Says Wimal Weerawansa | 134609.json | රටේ ආර්ථිකය ඉවරයිලු
+134610.json | PM to Introduce a Modernized Curriculum to Schools | 134610.json | වසර දෙකක් තුළ නවීන අධ්‍යාපන ක්‍රමවේදයක්
+134612.json | Self Employment Federation Goes to HRC against Ravi K. | 134612.json | මුදල් ඇමතිට එරෙහිව මානව හිමිකම් කොමිසමට පැමිණිල්ලක්
+134617.json | Vehicle Burns To Ashes In Borella | 134617.json | කනත්ත වටරවුම අසලදී මෝටර් රථයක් හදිසියේ ගිනි ගනී
+134618.json | Thailand Tiger Temple To Face Charges Over Dead Cubs | 134618.json | කොටි පැටවුන්ගේ මරණ ගැන  තායි විහාරස්ථානයට නඩු
+134626.json | Aranayaka Samasara Kanda Search Operations Conclude; 100 Still Missing - [Photos] | 134626.json | අරණායක මෙහෙයුම් අවසන් (ඡායාරූප)
+134627.json | Want PM Narendra Modi's Trip To Be Successful: US | 134627.json | නරේන්ද්‍ර මෝදි ලබන සතියේ ඇමරිකාවට
+134629.json | Student Injured from Bike-Lorry Crash | 134629.json | පාසැල් සිසුවා පැදවු යතුරුපැදිය ලොරියක ගැටෙයි (ඡායාරූප)
+134633.json | 2500 Tons Of Garbage Disposed Off Colombo | 134633.json | ගංවතුරෙන් කොළඹ එක්රැස්වූ කුණු ටොන් 2500 ක් ඉවත් කෙරේ
+134634.json | Gujarat Riots: India Court Convicts 24 Over Gulbarg Massacre | 134634.json | ගුජරාට් මුස්ලිම් සංහාරය පිළිබදව 24 දෙනෙකු වැරදිකරුවන් වෙයි
+134635.json | Japanese Boy, 5, Can Fight Just Like Bruce Lee | 134635.json | බෲස්ලී චරිතයක් ජපානයෙන් බිහිවෙයි
+134636.json | Matara Provincial Assessor Caught Red Handed While On The Act | 134636.json | අල්ලසක් ගනිද්දී මාතර ප්‍රාදේශීය ආදායම් තක්සේරුකරු අත්අඩංගුවට
+184947.json | Rajanganaya Farmers' Org. President remanded | 184947.json | රාජාංගන ගොවි සංවිධාන සභාපති 5 තෙක් රිමාන්ඩ්
+184962.json | MR says India was not initially interested in Sri Lanka projects | 184962.json | ඉන්දියාව උනන්දු නොවූ දෙයක් ගැන හිටපු ජනපති කියයි
+184978.json | PM returns from Singapore | 184978.json | සිංගප්පුරු සංචාරය නිමවා අගමැති දිවයිනට
+187432.json | Brawl during party sends 3 persons to hospital | 187432.json | සාදයක් ගැටුමක් වී තිදෙනෙකු රෝහලේ
+187434.json | Hiru TV’s CIA exposes foreign liquor racket | 187434.json | ආගමන විගමන නිලධාරීන්ගේ විවේකාගාර තුළ සිදුවූ විදෙස් මත්පැන් ජාවාරමක් ගැන හිරු සී.අයි.ඒ. හෙළිකරගනී (ඡායාරූප)
+117675.json | Specialist Doctors continue strike | 117675.json | කරාපිටිය ශික්ෂණ රෝහලේ විශේෂඥ වෛද්‍යවරුන්ගේ වර්ජනය තවදුරටත්
+117678.json | Ex-President re-summoned by Commission of Inquiry into Serious Fraud. | 117678.json | මහින්ද නැවතත් බරපතල වංචා සෙවීමේ කොමිසමට
+117680.json | Special device for kids to contact parents and police in emergency | 117680.json | මව්පියන්ට දරුවන්, දරුවන්ට මව්පියන් හොයාගන්න පුළුවන් දුරකතනයක්
+117690.json | Malaysia to accept 3,000 Syrian refugees | 117690.json | සිරියානු සරණාගතයන් 3000 ක් භාර ගැනීමට මලයාසියාව සුදානම්
+117696.json | Train accident kills Year 3 student of Richmond College | 117696.json | ගාල්ල රිච්මන්ඞ් විදුහලේ 3 ශ්‍රේණියේ සිසුවෙකු දුම්රියක ගැටී මිය යයි
+117702.json | President returns after participating in the 70th UN General Assembly in New York | 117702.json | Update: ජනපති යළි දිවයිනට. - ගුවන් තොටුපළේ විශේෂ පිළි ගැනීමේ උත්සවයක්
+117704.json | Closed part of Southern Expressway re-opened | 117704.json | Update: අධිවේගය යළි ඇරේ
+117705.json | Another tragedy from Kahawatta | 117705.json | කහවත්තේ නැවතත් ඛේදවාචකයක්
+117706.json | The beggars wound has been healed by removing Sri Lanka from the Geneva agenda; Says PM | 117706.json | ශ්‍රී ලංකාව ජිනිවා න්‍යාය පත්‍රයෙන් ඉවත් කර හිඟන්නාගේ තුවාලය සුව කළා. - අගමැති රනිල්
+117708.json | Vehicle leasing loan facility increased from 70% to 90% | 117708.json | 70% කළ වාහන ලීසිං පහසුකම 90% දක්වා ඉහළට
+142088.json | Sambandan and Vigneshwaran meet UN Chief separately | 142088.json | එකම තැන දෙපැත්තක, විග්නේෂ්වරන් සහ සම්බන්ධන් ජගත් මහලේකම් හමුවෙයි (ඡායාරූප)
+142091.json | Protest continues against Mahinda Rajapakse in Malaysia | 142091.json | ප්‍රජාතන්ත්‍රවාදය ශක්තිමත් කිරීමට දේශපාලන පක්ෂවල කැපවීම වැදගත්වනවා
+142092.json | President says not to undermine reconciliation | 142092.json | සංහිඳියාව අවතක්සේරු කරන්න එපා - ජනපති
+144262.json | Water board requests the public to utilize water economically, due to the scarcity of drinking water  | 144262.json | පානීය ජලය හිඟයි -  පිරිමැස්මෙන් භාවිතා කරන්න
+144263.json | JVP reveals the history of the debt trap  | 144263.json | ණය උගුලේ ඉතිහාසය ගැන ජවිපෙන් හෙළිදරව්වක්
+144264.json | Anti- corruption to be included in the school curriculum  | 144264.json | දුෂණය පිටුදැකීම පාසල් විෂය මාලාවට
+144266.json | Welgama reveals of a change in politics in January  | 144266.json | ජනවාරියේ දේශපාලන වෙනසක්, වෙල්ගම හෙළි කරයි
+144267.json | India tax evasion amnesty uncovers hidden billions  | 144267.json | ඉන්දියානුවන්ගේ් කෝටි 65 000 ක කළු සල්ලි එළියට
+139653.json | Dutch Man Waits 10 Days In Chinese Airport For Online Girlfriend | 139653.json | ඔන්ලයින් හමුවු පෙම්වතිය දකින්න දින 10 ක් ගුවන්තොටුපලේ ඉඳලා වෙච්ච දේ (ඡායාරූප)
+139657.json | Two Teenagers Who Self-Immolated In Badulla Die | 139657.json | බදුල්ලේ සිසුවියන් දෙදෙනෙකු සිරුරට ගිනි තබාගෙන දිවි නසාගනී
+142033.json | UN General Secretary visits Jaffna today | 142033.json | ජගත් සංවිධාන මහලේකම්වරයා අද යාපනයට
+142034.json | Let’s solve Indian Ocean Zone problems through discussion and consensus- PM | 142034.json | ඉන්දීය සාගර කලාපයේ ගැටලූ සාකච්ඡාවෙන්, සම්මුතියෙන් විසදා ගනිමු - අග්‍රාමාත්‍යවරයා සිංගප්පූරු සමුළුවේදී කියයි
+142035.json | Current Government also has no interest in erecting missing persons’ monument- Vasudeva Nanayakkara   | 142035.json | ගෝඨාභයගේ අණින් සමතලා කළ අතුරුදන් වූවන් සදහා වූ ස්මාරකය ඉදිකරන්න වත්මන් රජයටත් වුවමනාවක් නැහැ - වාසුගෙන් ප්‍රකාශයක්
+142036.json | 4 killed and 6 injured in a bus-van collision in Galewela  | 142036.json | දඹුල්ලේ - ගලේවෙල බස්, වෑන් රථ ගැටුමකින් 3 ක් මරුට - 7 කට තුවාල (ඡායාරූප)
+142037.json | Tropical Storm Hermine has strengthened into a hurricane | 142037.json | ඇමරිකාවට චන්ඩ මාරුතයක්
+142040.json | A man in the hiding in Bandaragama arrested | 142040.json | බණ්ඩාරගමදී වරෙන්තු ලැබු සැකකරුවකු ප්‍රදේශවාසීන්ගේ අත්අඩංගුවට
+142041.json | SpaceX Falcon 9 rocket, satellite destroyed in explosion | 142041.json | ඇමරිකානු ස්පේස් - එක්ස් රොකට්ටුව පුපුරයි - ෆේස්බුක් චන්ද්‍රිකාවත් විනාශයි
+142043.json | Acts were introduced to protect war heroes- Deputy Min. Abeysinghe  | 142043.json | රණවිරුවන්ට එල්ල කරන චෝදනාවලට අතුරුදන්වූවන් පිළිබද සෙවීමේ කාර්යාලය පිළිබද හොඳ  පිළිතුරක් - අශෝක්
+142045.json | Man killed in Delgoda  | 142045.json | Update : දෙල්ගොඩ ඝාතනය පාතාල කල්ලි දෙකක් අතර ගැටුමක්
+142046.json | South African President Jacob Zuma lands in Sri Lanka  | 142046.json | දකුණු අප්‍රිකානු ජනපති ශ්‍රී ලංකාවට
+142055.json | Ignored by her 11 children, 80-year-old mother awaits happy times- [photos]  | 142055.json | දරුවන් 15 දෙනෙකු බිහිකළත්, කිසිවකුගෙන් පිහිටක් නොලබන මවක් (ඡායාරූප)
+142057.json | Man drowns in Malayadiya Wewa | 142057.json | අම්පාර - මලයාඩිය වැවේ ගිලූණු පුද්ගලයෙකු ජීවිතක්ෂයට
+142058.json | President’s web page hackers released on bail  | 142058.json | ජනපතිගේ නිල වෙබ් අඩවියට අනවසරයෙන් ඇතුළු වූ පාසල් ශිෂ්‍යයාට සහ තරුණයාට ඇප
+142059.json | Bambalapitiya businessman murder; five more suspects arrested  | 142059.json | UPDATE :බම්බලපිටියේ කෝටිපති ව්‍යාපාරිකයා පැහැර ගැනිමට යොදා ගත් මෝටර් රථය සොයා ගැනේ
+142061.json | UN Secretary General Ban Ki-moon says Sri Lanka is moving towards reconciliation and good governance | 142061.json | සංහිදියාව සහ යහපාලනය වෙනුවෙන් ශ්‍රී ලංකාව ඉදිරි ගමනක
+142063.json | Joint Opposition cuts birthday cake on SLFP anniversary day   | 142063.json | නිදහස් පක්ෂ උපන් දිනයට ඒකාබද්ධ විපක්ෂය කේක් කපයි
+142064.json | S.B. says that he aids SLFP Secretary  | 142064.json | ඇමති දුමින්ද දිසානායකට එස්.බී. ගේ සහය
+142065.json | Zika found in mosquitoes in Miami Beach | 142065.json | ලෝක ජනගහනයෙන් තුනෙන් එකකට සීකා අවදානමක්
+142066.json | Indian Ocean will be a major theatre of competition- PM | 142066.json | ලෝක බලකේන්ද්‍රයේ මීළඟ වේදිකාව ඉන්දියන් සාගරයයි - අගමැති රනිල්
+142068.json | UN Chief satisfied with progress made by the Gvt.- Prez | 142068.json | පක්ෂ ගැටලු සාකච්ඡා මාර්ගයෙන් විසඳ ගත හැකියි - ජනපති
+142069.json | State should take decisions about the Edu System  | 142069.json | අධ්‍යාපන ප්‍රතිපත්ති පිළිබඳ තීන්දු ගන්නේ ආණ්ඩුවයි
+142070.json | Body of a woman found in a house in Kilinochchi  | 142070.json | තිදරු මවක් අභිරහස් ලෙස මියයයි (ඡායාරූප)
+233535.json | UNF leaders and Opposition Leader Sajith to meet today | 233535.json | එජාපෙ නායකයන් අද විපක්ෂ නායක සජිත් හමුවෙයි
+233544.json | 1st Coronovirus death outside China reported from Philippines | 233544.json | චීනයෙන් පිටත ප්‍රථම කොරා්නා වෛරස් මරණය පිලිපීනයෙන්
+233546.json | Second case of coronavirus confirmed in Kerala | 233546.json | ඉන්දියාවේ දෙවන කොරෝනා වෛරස ආසාදිතයා කේරළ ප්‍රාන්තයෙන්
+233547.json | 2 accomplices arrested by STF reveal that Angoda Lokka is in Dubai  | 233547.json | අංගොඩ ලොක්කාගේ ගෝලයින් දෙදෙනෙකු හෙරොයින් සමඟ අත්අඩංගුවට
+233548.json | Philippines records 1st Coronavirus death outside China – India records 2nd case | 233548.json | චීනයෙන් පිටත ප්‍රථම කොරෝනා වෛරස් මරණය පිලිපීනයෙන් - ඉන්දියාවේ දෙවන අසාදිතයාත් හමුවේ
+233551.json | 50 foot National Flag for the Independence Day | 233551.json | නිදහස් දින සැමරුමට අඩි 1500ක් ඉහළින් අඩි 50ක ජාතික ධජයක්
+233554.json | 141 more Sri Lankans in China to the island; 33 who arrived constantly monitored | 233554.json | චීනයේ සිට තවත් ශ්‍රී ලාංකිකයන් 141 දෙනෙකු දිවයිනට - වූහාන් සිට පැමිණි 33 දෙනා දිනකට දෙවරක් පරීක්ෂාවට
+233555.json | President calls for an investigation into the Sri Lankan Airlines deal with Airbus  | 233555.json | ශ්‍රී ලන්කන් - එයාර් බස් ගණුදෙනු ගැන, පූර්ණ විමර්ශනයක් සිදුකරන්නැයි ජනපතිගෙන් නියෝග
+146652.json | Doctors protest at the Kegalle General Hospital | 146652.json | කෑගල්ල දිස්ත්‍රික්කයේ වෛද්‍යවරුන් විරෝධතාවක
+146653.json | Civil security officials to be deployed at unprotected railway crossings | 146653.json | වර්ජනයේ යෙදී සිටින අනාරක්ෂිත දුම්රිය ගේට්ටුකරුවන් වෙනුවට සිවිල් ආරක්ෂක භටයින්
+146658.json | Brigadier M.D.U.V. Gunatilake new Director of Military Intelligence | 146658.json | හමුදා බුද්ධි අංශයට නව අධ්‍යක්‍ෂවරයෙක්
+146660.json | Ex-DIG Senanayake and ex-OIC Perera re-remanded  | 146660.json | අනුර සේනානායක යළි රිමාන්ඩ්
+146665.json | Ceylon Today and Maubima Owner Tiran Alles remanded  | 146665.json | මව්බිම හිමිකරු ටිරාන් රිමාන්ඩ්
+146673.json | MP Udaya challenges Minister Patali for debate  | 146673.json | චම්පිකට ගම්මන්පිලගෙන් අභියෝගයක්
+146674.json | The formation of Aava group disclosed in Cabinet briefing  | 146674.json | "ආවා"ආවේ කොහොමද? කැබිනට් මාධ්‍ය හමුවේ දී අනාවරණයක්
+148756.json | Private bus strike commences; Additional 6500 SLTB buses deployed  | 148756.json | පෞද්ගලික බස් වර්ජනය ඇරඹේ  -  ධාවනය කරන බස් රථවලට විශේෂ ආරක්ෂාවක්
+115839.json | “What Karuna says is false” - Field Marshal Sarath Fonseka  | 115839.json | කරුණා කියන්නේ බොරු - ෆොන්සේකා
+115840.json | Opposition leader position to TNA; request Purawasi Bala as well | 115840.json | විපක්ෂ නායක වෙල්ගමටද ? සම්බන්ධන්ටද ?
+115842.json | Sharp Inflation in US Murder Rate | 115842.json | ඇමරිකාව තුළ ඝාතන ඉහළ යයි
+115845.json |  Dearth of employees for follow up- Watch Video | 115845.json | පානීය ජල පහසුකම් ලබාදෙන අඹතලේ ජල පවිත්‍රාගාරයේ ප්‍රශ්නය
+115846.json | New Cabinet ministers to be sworn in on the 4th | 115846.json | නව රජයේ අමාත්‍යවරුන් දිවුරුම් දීම අනිද්දා පෙරවරු 11ට
+115848.json | Complaints on Internet based child abuse | 115848.json | ළමයින්ට අන්තර්ජාල හරහා සිදුවන හිරිහැර ගැන පැමිණිලි
+115850.json | Fire at forest reserve under control  | 115850.json | කරුවලගස්වැව - ඉපලෝගම රක්ෂිතයේ ගින්න පාලනය කරයි
+115862.json | Paddy being stored at Mattala Air Port amidst special police protection | 115862.json | මත්තලට වී අරන් ලොරි එයි - ඒ ලොරි මිනිස්සු නවත්තයි
+115867.json | Prime Minister’s Tour to India Due This Month | 115867.json | මේ මාසේ අගමැති ඉන්දියාවට
+115870.json | President hold talks with former Afghanistan President  | 115870.json | ජනපති සහ ඇෆ්ගනීස්ථානයේ හිටපු ජනපති අතර සාකච්ඡාවක්
+115873.json | Update: An acid attack on a divorced couple | 115873.json | කාන්තාව පැහැරගත් බවට පැමිණිල්ලෙන් පස්සේ දෙන්නට ඇසිඩ් ප්‍රහාරයක්
+115879.json | Journey is slow but never take a step back - President | 115879.json | "මගේ ගමන සෙමින් - ආපසු හැරෙන්නේ නැහැ" - ජනපති
+115885.json | Premier pays surprise visit to Bribery Commission | 115885.json | අගමැති රනිල්  අල්ලස් කොමිසමට
+164920.json | 29 arrested with heroin following a raid at a party in Badulla  | 164920.json | බදුල්ලේ එක්දින සමාජශාලාවක් වටලා, හෙරොයින් සමඟ 29ක් අත්අඩංගුවට
+164923.json | Joint Opposition to boycott the constitution | 164923.json | ඒකාබද්ධ විපක්ෂය ව්‍යවස්ථා වර්ජනයක
+164925.json | Implementing the gazette notification pertaining to local governments postponed by three months | 164925.json | පළාත් පාලන ගැසට් නිවේදනය ක්‍රියාත්මක වීම, මාස 3කින් කල් යයි
+167379.json | Advance Level tuition classes banned from midnight tonight | 167379.json | උසස් පෙළ විභාග අපේක්ෂකයන්ට අද මධ්‍යම රාත්‍රියේ සිට තහනම්වන දේ
+167383.json | Electricity bills and frequency of power cuts will not be increased ,an assurance from subject Minister | 167383.json | විදුලි බිල වැඩි කිරීමක් හෝ කප්පාදුවක් නැහැ - විෂය භාර ඇමතිගෙන් සහතිකයක්
+167384.json | President appoints a sub-committee to determine what has happened to  narcotics taken into custody from raids   | 167384.json | වැටලූ මත්ද්‍රව්‍ය වලට සිදුවූයේ කුමක් දැයි සොයන්න, ජනපති අනු කමිටුවක් පත් කරයි
+167385.json | Update:- Former Finance Minister Ravi arrives before the bond commission | 167385.json | Update :- ඇමති රවී බැඳුම්කර කොමිසමට පැමිණෙයි
+167388.json | Herat mosque blast kills dozens in Afghanistan | 167388.json | ඇෆ්ගනිස්ථානයේ දේවස්ථානයක පිපිරීමකින් 30 දෙනෙකු මරුට
+167404.json | Passenger suddenly dies at the BIA | 167404.json | රට ඉඳන් කටුනායකට ඇවිත් බිරිඳ දකින්න සුළු මොහොතකට පෙර සැමියාට අත්වූ අවාසනාවන්ත ඉරණම
+167405.json | police constable nabbed over attempting to take bribe | 167405.json | අල්ලස් ලබා ගැනීමට තැත් කළ පොලිස් කොස්තාපල්වරයෙකු අත්අඩංගුවට
+167415.json | Black flags displayed in front of state institutions against SAITM, GMOA doctors wear black bands | 167415.json | සයිටම් වලට එරෙහිව රාජ්‍ය ආයතන ඉදිරිපිට කළු කොඩි ඔසවයි - වෛද්‍යවරුත් කළු පටි පළදී
+167423.json | Mosquito repellent for Civil Defence Force after 31 members contracted dengue | 167423.json | 31 දෙනෙකුට ඩෙංගු වැලදීමෙන් පසු සිවිල් ආරක්ෂක භටයින්ට මදුරු විකර්ශක
+167425.json | Heavy traffic reported in Town Hall area due to anti-SAITM protest  | 167425.json | සයිටම් විරෝධී පාගමනක් හේතුවෙන් කොළඹ රථ වාහන තදබදයක්
+70519.json | Video: Hakimullah Mehsud killed by drone | 70519.json | UPDATE :වීඩියෝ: තලෙයිබාන් නායකයාගේ ඝාතනයෙන් පාකිස්ථානය කැළඹේ.
+70520.json | Cabinet focuses attention on Grade 5 scholarship examination | 70520.json | පහේ ශිෂ්‍යත්වය ගැන කැබිනට් මණ්ඩලයේ දැඩි අවධානය.
+70521.json | Video: Let's build understanding and reconciliation - President says in Deepavali message | 70521.json | වීඩියෝ: සංහිඳියාව ඇති කරමු. - ජනපති දීපාවලී පණිවුඩයෙන් කියයි.
+70534.json | Video: Channel 4 engaged in an unsuccessful attempt; Patriotic Movement  | 70534.json | UPDATE :  චැනල් ෆෝ උත්සාහය ඵල රහිතයි. දේශහිතෛෂීන්.
+219486.json | Railway trade unions seek legal advice | 219486.json | දුම්රිය වෘත්තීය සමිති නීති උපදෙස් පතයි
+221348.json | TEACHERS PREPARING TO WITHDRAW FROM A/L EVALUATION ACTIVITIES | 221348.json | උසස් පෙළ විභාග පත්‍ර ඇගයීම් කටයුතුවලින් ඉවත් වීමට ගුරුවරුන් සූදානම් වෙයි
+221379.json | Four wounded in small explosions as Bangkok hosts summit | 221379.json | බැංකොක් නුවර බෝම්බ පිපිරීම් 6කින් 4 දෙනෙකුට තුවාල
+223422.json | A DISCUSSION OF THE SELECT COMMITTEE MEMBERS APPOINTED TO LOOK INTO THE EASTER ATTACK TO BE HELD TODAY | 223422.json | පාස්කු ප්‍රහාරය ගැන සොයන කාරක සභාවේ සාකච්ඡාවක් අද
+223454.json | TWO BROTHERS ARRESTED FOR STEALING MONEY PLACED UNDER PROBATION | 223454.json | මුදල් සොරකමේ යෙදුණු සොහොයුරන් දෙදෙනෙකු පරිවාසයට
+225417.json | SUSPECT ARRESTED WITH DRUGS | 225417.json | මත්ද්‍රව්‍ය සමඟ සැකකරුවෙකු අත්අඩංගුවට
+225454.json | Ruling party MP accused of the deaths of elephants in Habarana | 225454.json | හබරණ වන අලි මියයාම ගැන ආණ්ඩුවේ මන්ත්‍රිවරයෙකුට චෝදනා
+229394.json | Seven female police officers have been appointed as SSPs | 229394.json | කාන්තා පොලිස් නිලධාරිනියන් හත්දෙනෙකු ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී තනතුරට
+231422.json | 480 hospitalized within 48 hours - a decrease from the previous year | 231422.json | පැය 48කදී 480ක් ජාතික රෝහලට - පෙර වසරට සාපේක්ෂව අඩුවීමක්
+231445.json | Two killed in road accident in Ambalantota | 231445.json | අම්බලන්තොට රිය අනතුරකින් දෙදෙනෙකු මරුට
+233534.json | Preparation of maps for Census in its last stages | 233534.json | ජන හා නිවාස සංගණනයේ සිතියම් සැකසීම අවසාන අදියරේ
+50634.json | Ivory Coast mourns 60 killed in New Year's stampede. | 50634.json | නව වසර සැමරීමට ගිය අයිවරිකෝස්ට්හි 60ක් මරුට.
+50684.json | Signs portend of Presidency of BASL changing hands | 50684.json | නීතීඥ සංගමයේ සභාපති ධුරයට වෙනත් අපේක්ෂකයෙක් ?
+54393.json | Germany states Navi Pillay's criticism of Sri Lanka unjust | 54393.json | නවිපිල්ලේගේ විවේචන අසාධාරණයි. - ජර්මනිය.
+60114.json | UNP ready to prepare the forces | 60114.json | සේනාව සූදානම් කිරීමට එ.ජා.ප. ය සැරසේ.
+62167.json | US Ambassador in Sri lanka queried  | 62167.json | මෙරට ඇමරිකානු තානාපතිවරියගෙන් කරුණු විමසයි.
+213638.json | Two additional suspects who were arrested in Dubai with Madhush arrive back in Sri Lanka | 213638.json | මධූෂ් සමඟ අත්අඩංගුවට ගෙන ඩුබායි රාජ්‍යයෙන් පිටුවහල් කළ තවත් දෙදෙනෙක් දිවයිනට
+213639.json | A witness blacks out at President’s commission | 213639.json | සාක්ෂිකරුවෙකු ජනපති කොමිසමේදී සිහිසුන් වේ
+213640.json | UN representatives of Prevention of Torture, arrive in Sri Lanka today | 213640.json | වධ හිංසා වැළැක්වීමේ ජගත් සංවිධාන නියෝජිතයින් අද දිවයිනට
+213641.json | No decisions in relation to water cuts;Trade unions request a 25 per cent reduction to electricity fare | 213641.json | ජලය කප්පාදු කිරීමට කිසිදු තීරණයක් නැහැ - විදුලි ගාස්තු සියයට 25කින් අඩු කරන්නැයි, වෘත්තීය සමිති ඉල්ලයි
+213650.json | Two killed in an accident in Aralaganwila | 213650.json | අරලගංවිල රිය අනතුරකින් දෙදෙනෙකු ජීවිතක්ෂයට
+213665.json | Update : April 15th declared a public holiday | 213665.json | Update - අප්‍රේල් 15 වන දා රජයේ නිවාඩු දිනයක් ලෙස ප්‍රකාශයට පත් කිරීමට කැබිනට් අනුමැතිය - Tuesday, April 2, 2019
+125277.json | Jayalalitha seeks Modi's intervention to get Tamil Nadu fishermen released from SL | 125277.json | ජයලලිතාගෙන් මෝදිට හසුනක්
+125279.json | Bulgarian tourist dies in Sea-side hotel  | 125279.json | විදේශික කාන්තාවක් සංචාරක හෝටලයක් තුළදී හදිසියේ මිය යයි
+125280.json | Twenty dead in Kabul suicide bomb attack  | 125280.json | ඇෆ්ගනිස්ථානයේ  බෝම්බ ප්‍රහාරයකින් 20ක්  මරුට
+125281.json | Heavy Traffic Congestion In Colombo | 125281.json | කොළඹ හිරවෙයි (ඡායාරූප)
+125282.json | A bus on route to the Adams Peak crashes | 125282.json | ශ්‍රි පාද වන්දනාවට එක්වු බස් රථයක් අනතුරට ලක්වෙයි - (ඡායාරූප)
+125283.json | Man arrested with two weapons | 125283.json | ගිනි අවි දෙකක් සමඟ සැකකරුවෙකු අත්අඩංගුවට
+125286.json | A woman nabbed with 7 kilos of gold in Chavakachcheri | 125286.json | රන් කිලෝ 7ක් සමඟ කාන්තාවක් චාවකච්චේරියේදී අත්අඩංගුවට
+125291.json | UPDATE: Yoshitha says no to prison meals  | 125291.json | Update: යෝෂිත හිරබත් එපා කියයි
+125299.json | 26 arrested for concealing chemical fertilizers | 125299.json | රසායනික පොහොර සමග 26ක්  අත්අඩංගුවට
+125300.json | Fonseka To Get Powerful Ministry? | 125300.json | සරත් ෆොන්සේකාට ඇමති ධුරයක්
+125302.json | Former Embilipitiya ASP Arrested | 125302.json | ඇඹිලිපිටිය හිටපු A S P අත්අඩංගුවට - පොලිසිය තහවුරු කරයි
+125305.json | Patient protests before the Karapitiya Teaching Hospital | 125305.json | කරාපිටිය රෝහල ඉදිරිපිට රෝගියකු උපවාසයක (ඡායාරූප)
+125308.json | Presidential Commission Of Inquiry Powers Extended | 125308.json | ජනපති කොමිසමට තවත් බලතල
+125309.json | Jaguar Land Rover Ends Production Of Defender Model | 125309.json | ඩිෆෙන්ඩර් සෙල්ලම ඉවරයි
+125314.json | Pakistan Anti-Narcotics Force Confiscates 20 KG Of Heroin In Karachi | 125314.json | ලංකාවට එවන්න හැදු කුඩු කන්ටේනරයක් අල්ලයි
+125316.json | Bodies Of Five Missing Fishermen Found | 125316.json | නැවක ගැටුණු බෝට්ටුවේ සිටි ධීවරයන් පස්දෙනාගේ සිරුරු සොයාගනී
+184874.json | Fire in Kuruminiyagala Forest Reserve doused | 184874.json | කුරුමිණියාගල ගින්න නිවා දමයි
+184889.json | Kerala cannabis haul apprehended in Jaffna | 184889.json | කේරළ ගංජා කිලෝග්‍රෑම් 10 ක් සමගින් සැකකරුවන් 5 දෙනෙකු අත්අඩංගුවට
+184895.json | Two persons arrested in Wattala with heroin | 184895.json | වත්තලදී හෙරොයින් සමඟ දෙදෙනෙකු අත්අඩංගුවට
+184899.json | Mirijjawila shooting: Car driver to be produced for an identification parade | 184899.json | අම්පාර බස් රථයේ වෙඩි තැබීමේ සිද්ධියට අයෙක් අත්අඩංගුවට
+184902.json | Girl missing from Children's Home in Galle | 184902.json | හුංගම දැරියක් ගාල්ල කිතුලම්පිටිය ළමා නිවාසයකදී අතුරුදන්
+184904.json | New technology added to 1929 | 184904.json | 1929 ට අලූත් තාක්ෂණයක්
+184905.json | Turkish soldiers killed in Syria clashes | 184905.json | සිරියානු ගැටුම්වලින් තුර්කි සෙබලූන් 8 ක් මියයයි
+184906.json | AG seeks Interpol support to locate Mahendran | 184906.json | අර්ජුන් ඇලෝසියස් සහ කසුන් පලිසේන යළි රිමාන්ඩ්
+184908.json | Kataragama elephant goes on rampage | 184908.json | මහ දවල් කතරගම අලියා කුලප්පු වෙයි
+184911.json | MP Ranaweera sought by police | 184911.json | පොලීසිය මන්ත්‍රී ප්‍රසන්න සොයයි
+187441.json | Road tragedy : Four family members perished | 187441.json | ගලේවෙල රිය අනතුරකින් එකම පවුලේ හතරදෙනෙකු ජීවිතක්ෂයට
+187446.json | Illegal affair leads to a murder | 187446.json | දුරදිග ගිය අනියම් සම්බන්ධය මරණයකින් කෙළවර වෙයි (ඡායාරූප)
+187453.json | SLFP secures Dimbulagala PS | 187453.json | දිඹුලාගල ප්‍රාදේශීය සභාවේ බලය නිදහස් පක්ෂයට
+187454.json | Wild elephant attack kills a woman in Welikanda | 187454.json | වන අලි ප්‍රහාරයකින් කාන්තාවක් මරුට
+187462.json | 9 remanded over Digana incident | 187462.json | දිගන සිද්ධියට 09 දෙනෙකු යළි රිමාන්ඩ්
+187465.json | Northern CM asks TNA to lay conditions to support ‘no-confidence motion’ | 187465.json | විශ්වාසභංගයට සහය දීමට කොන්දේසි දමන්න විග්නේෂ්වරන්ගෙන් දෙමළ සන්ධානයට බලපෑම්
+187467.json | Defunct Tiangong-1 space station crashes to earth | 187467.json | චීන අභ්‍යවකාශ පරීක්ෂණාගාරය දකුණු පැසිෆික් සාගරයට ඉහළින් විනාශ වෙයි
+187468.json | University non-academic staff meets Minister Kabir | 187468.json | විශ්වවිද්‍යාල අනධ්‍යයන සේවකයින් සහ විෂයභාර ඇමති අතර හමුවක්
+187473.json | Minister Akila issues a warning | 187473.json | විශ්වාසභංගයෙන් රට අස්ථාවර වන බව ඇමති අකිල කියයි
+187474.json | Airport staff stage a protest | 187474.json | කටුනායක ගුවන්තොටුපල සේවකයින් විරෝධතාවක (ඡායාරූප)
+205352.json | The suspect of murdering two police officers is a former LTTE intelligence leader, Suspect has arrived in Batticaloa to organize Mahaviru celebrations | 205352.json | මඩකලපුවේ දී පොලීසියේ දෙදෙනාගේ ඝාතනයට ඇල්ලූ සැකකරු, එල්.ටී.ටී.ඊ. බුද්ධි අංශය නායකයෙකු බවට හෙළිවේ
+207283.json | First term at schools for 2019 , commences today | 207283.json | පළමු පාසල් වාරය අදින් ඇරඹේ
+54394.json | No Fire Zone aired in Geneva; Remove NGO privileges - Sri Lanka requests from the UN.  | 54394.json | නෝ ෆයර් සෝන් ජිනිවා හි තිරගත වෙයි.
+54400.json |  Former Pakistan President Pervez to end his self-imposed exile | 54400.json | පර්වේස් මුෂාරෆ් යළි පාකිස්තානයට.
+54414.json | GMOA convenes it's AGM | 54414.json | රජයේ වෛද්‍ය සංගමය විශේෂ රැස්වීමක් කැඳවයි.
+54415.json | No minority parties - Bodhu Bala Sena states | 54415.json | සුළු පක්ෂ එපා. - බොදුබල සේනාවෙන් ඉල්ලීමක්.
+54416.json | Truth behind Channel 4 controversy would be exposed-Sri Lankan ambassador in Geneva states | 54416.json | චැනල් ෆෝ වීඩියෝවේ ඇත්ත හෙළි කරනවා. - ජිනිවා හි ශ්‍රී ලංකා තානාපතිගෙන් ප්‍රකාශයක්.
+54417.json | Army did not kill Balachandran - President tells Hindu | 54417.json | හමුදාව බාලචන්ද්‍රන් ඝාතනය කළේ නෑ. - ජනපති හින්දු පුවත්පතට කියයි.
+192168.json | probe on murder of Dananjaya’s father handed over to CID | 192168.json | ධනංජයගේ පියා ඝාතන පරීක්ෂණ CID යට
+192169.json | Who got money from Arjun Aloysius ? | 192169.json | අර්ජුන් ඇලෝෂියස්ගෙන් සල්ලි ගත්තේ කවුද ?
+192172.json | ETI depositors stage another protest | 192172.json | ETI තැන්පත්කරුවන්, අදත් මුදල් ඉල්ලා අදත් විරෝධයේ
+194311.json | 31 injured as elephants go on a rampage in Kahawatte  | 194311.json | පෙරහැරකදී අලියෙකු කුලප්පු වී 31 දෙනෙකුට තුවාල
+194317.json | Group of 16 to meet MR | 194317.json | දහසය, ඒකාබද්ධ විපක්ෂය හිටපු ජනපති සමඟ සාකච්ඡාවක් අද
+194319.json | JVP's 20 A plans hindered - Vasu | 194319.json | ජ.වි.පෙ.ට විස්ස ගෙන ඒමට නොහැකි වෙලා - වාසු
+194320.json | Fmr. President threatens to take NYT to court | 194320.json | නිව්යෝක් ටයිම්ස් වාර්තාවට එරෙහිව හිටපු ජනපති මහින්ද නඩු මගට
+194321.json | "Murder-suicide" in Urubokka | 194321.json | ඌරුබොක්කේදී පිහි ඇනුමකින් කාන්තාවක් මරුට - සැකකරුත් සියදිවි හානිකරගනී
+194322.json | Suicide attacker targets Sikhs in Afghanistan | 194322.json | ඇෆ්ගනිස්ථානයේ මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයෙන් 19 ක් මියයයි
+110596.json | An illegal migrant vessel with 54 Sri Lankans on board seized in Australian waters | 110596.json | ලංකාවේ 54 ක් මහ මුහුද මැද අල්ලන් යයි
+110597.json | Update : Hiru Shradabiwandana held at Seruwa-wila scared site ends successfully with the participation of Hundreds and thousands of devotees | 110597.json | Update:  අතිවිශාල බැතිමතුන් පිරිසකගේ සහභාගීත්වයෙන් හිරු ශ්‍රද්ධාභිවන්දනාව සාර්ථකව අවසන්
+110598.json | Alliance agrees to the 20th amendment: MP Dilan Perera challengers to pass the amendment | 110598.json | 20 ගැන මන්ත්‍රී ඩිලාන්ගෙන් අභියෝගයක්
+110604.json | Chinese ship sinks with at least 450 on board | 110604.json | Update: 450 ක් මහා මුහුදේ ගිලෙයි
+110614.json | Several deaths reported due to motor accidents within the course of the day | 110614.json | Update: 4 ක් මියගොස් 43 කට තුවාල
+110622.json | 14 Indian fishermen arrested in Thalaimannar sea | 110622.json | ඉන්දීයාවේ 14ක් මුහුදේ දී අත්අඩංගුවට
+110623.json | Sri lankan engineer saved from abductors in Nigeria to return home on Thursday | 110623.json | නයිජීරියාවේදී පැහැරගත් ලාංකික ඉංජිනේරුවා අනිද්දා දිවයිනට
+110624.json | Gampaha district local government members pass a resolution against SLFP chairmanship of the President | 110624.json | ජනපති නිදහස් පක්ෂ සභාපති ධුරයෙන් ඉවත් කිරීමේ යෝජනාවක්
+110630.json | A principal hospitalized after consuming gram mixed with laxative tablets at school dansela | 110630.json | Update: කඩලවලට විරේක පෙති - විදුහල්පති රෝහලේ - සිසුන් හයදෙනෙකු පොලීසියේ
+110634.json | Southern Provincial Minister D.V. Upul’s statement is a threat to Police | 110634.json | "උපුල් සිදුකර ඇත්තේ තර්ජනයක් -අත්අඩංගුවට ගත හැකියි"
+110637.json |   No room for debates out of parliament agenda tomorrow | 110637.json | පාර්ලිමේන්තුවේ පිට වැඩවලට ඉඩ නැහැ
+229424.json | This is how a group of students from probation centres wrote the G.C.E. Ordinary Level examination today | 229424.json | පරිවාස භාරයේ සිටින සිසුන් පිරිසක් අද ඇරඹුණු සාමාන්‍ය පෙළ ලියූ හැටි
+229426.json | A special program for the vulnerable and affected people by the adverse weather conditions | 229426.json | අයහපත් කාලගුණයෙන් අවදානම් සහ පීඩාවට පත්ව ඇති ජනතාව වෙනුවෙන් විශේෂ වැඩපිළිවෙළක්
+229427.json | A mobile phone recovered from Kanjipani Imran’s cell | 229427.json | කංජිපානි ඉම්රාන්ගේ සිර මැදිරියේ තිබී ජංගම දුරකථනයක් සොයාගනී
+229428.json | CID TO INVESTIGATE RAJITHA’S WHITE VAN MEDIA BRIEFING | 229428.json | රාජිතගේ "සුදු වෑන්" මාධ්‍ය හමුව ගැන CIDය පරීක්ෂණ අරඹයි
+229436.json | MORE RAIN IN 4 PROVINCES FROM TOMORROW; THE FUNERAL OF WALAPANE LANDSLIDE VICTIMS HELD | 229436.json | හෙට සිට පළාත් 4කට වැසි වැඩිවේ - වලපනේ පස් කන්දට යටවූවන් අවසන් ගමන් යයි
+229440.json | Gazette Notification to end the Parliament Session sent to the Government Printer | 229440.json | පාර්ලිමේන්තු සැසිවාරය අවසන් කිරීමේ ගැසට් නිවේදනය රජයේ මුද්‍රණාලයට
+229452.json | Gazette Notification issued to prorogue  Parliament | 229452.json | පාර්ලිමේන්තුව වාර අවසාන කෙරේ - නව සැසිවාරය එළඹෙන ජනවාරි 03
+231421.json | Final decision on parliamentary positions of the government and opposition today | 231421.json | ආණ්ඩුවේ සහ විපක්ෂයේ පාර්ලිමේන්තු තනතුරු පිළිබඳ අවසන් තීන්දුව අද
+194359.json | Mother of two hacked to death | 194359.json | මීගොඩදී තියුණු ආයුධයකින් පහරදී කාන්තාවක් ඝාතනය කරයි
+194362.json | More cocaine retrieved from arrested Brazilians (Photos) | 194362.json | බ්‍රසීල ජාතිකයින් දෙදෙනාගෙන් තවත් කොකේන් ගුලි ඉවතට (ඡායාරූප)
+194364.json | Hearing on petition against Kerawalapitiya tender postponed | 194364.json | කෙරවලපිටියේ මූලික අයිතිවාසිකම් පෙත්සම සලකා බැලීම කල් යයි
+194365.json | Cash and jewellery worth over Rs. 87mn robbed from Thalawa bank (Photos) | 194365.json | තලාවේ බැංකු කොල්ලය, අටකෝටි 70 ලක්ෂය ඉක්මවයි (ඡායාරූප)
+194370.json | Hiru News - Sri Lanka’s number 1 TV news bulletin – @ 6.55 tonight | 194370.json | පැත්ත ගියත් ඇත්ත කියන ශ්‍රී ලංකාවේ අංක එකේ ප්‍රවෘත්ති විකාශය -  අද 6.55ට
+194373.json | State Minister Vijayakala Maheswaran wants LTTE back | 194373.json | එල්.ටී.ටී.ඊ. ය යළි ගොඩනැගීම සිය අරමුණ බව විජයකලා යාපනයේදී කියයි
+194389.json |  CID to probe Thalawa bank robbery | 194389.json | තලාවේ බැංකු කොල්ලය පිලිබඳ විමර්ශන CID යට
+215571.json | Thundershowers in several provinces | 215571.json | තද සුළං සමඟ දිවයිනේ ප්‍රදේශ රැසකට අදත් ගිඟුරුම් සහිත වැසි
+215572.json | Verdict regarding Madhush today | 215572.json | මධූෂ් ලංකාවට එවනවාද ? නැද්ද ? තීරණාත්මක තීන්දුව අද
+215573.json | Another circular to ensure security of schools | 215573.json | පාසල් ආරක්ෂාවට තවත් චක්‍රලේඛයක්
+215575.json | 25 bodies of foreigners killed in the attack handed over; Four Chinese scientists among them | 215575.json | පාස්කු ප්‍රහාරයෙන් මියගිය විදේශිකයන්ගේ සිරුරු 25 ක් භාරදෙයි, චීන විද්‍යාඥයන් 04කුත් ඒ අතර
+215576.json | Defence Secretary Gavin Williamson sacked over Huawei leak | 215576.json | බ්‍රිතාන්‍ය ආරක්ෂක ලේකම් ධුරයෙන් පහ කෙරේ
+215577.json | Island-wide search operations continue; A sister of terrorist leader Zahraan arrested in Kaattankudy | 215577.json | දිවයින පුරා තවදුරටත් සෝදිසි මෙහෙයුම් - ත්‍රස්ත නායක සහරාන්ගේ සොහොයුරියක් කාත්තන්කුඩියේදී අත්අඩංගුවට
+215584.json | A person apprehended on suspicion of terrorist activities along with a blood stained car | 215584.json | ලේ පැල්ලම් සහිත මෝටර් රථයක් සමඟ ත්‍රස්ත ක්‍රියාවන්ට සැකපිට පුද්ගලයෙකු අත්අඩංගුවට
+215586.json | Special search operation in Dharga town | 215586.json | දර්ගා නගරයේ විශේෂ මෙහෙයුමක්
+215587.json | National Thawheet Jamath Colombo district Organizer remanded | 215587.json | ජාතික තවුහිත් ජමාත් කොළඹ නායකයා රිමාන්ඩ්
+125326.json | Dignity of Sri Lanka is no-where, Says Ex-Pres. Rajapaksha  | 125326.json | යෝෂිත ගැන විමසා මහින්දට සිංගප්පූරුවෙන් ඇමතුමක්
+125332.json | Protecting environment is everyone's responsibility, reminds the President  | 125332.json | පරිසරය සුරැකීමට සියලුදෙනා එක්විය යුතුයි
+127553.json | America to assist SL to protect Indian Ocean  | 127553.json | ඉන්දියන් සාගරය රකින්න ඇමරිකාව සූදානම්
+127554.json | Bin Laden left $29 million to jihad- will  | 127554.json | බින් ලාඞ්න්ගේ අවසන් කැමැති පත්‍රය මාධ්‍යයට
+127555.json | MR headed special SLFP meeting in Battaramulla  | 127555.json | නව පක්ෂයක් ගැන මහින්දගේ ප්‍රධානත්වයෙන් සාකච්ඡාවක්
+127556.json | SLFP holds an emergency Central Committee meeting | 127556.json | නිදහස් පක්ෂය හදිසියේ රැස්වේ
+127557.json | Elephant goes on a rampage in Palakkad, Kerala | 127557.json | වාහන 27ක් කුඩු කළ අලියා
+127558.json | Vice President of Facebook in Latin America arrested | 127558.json | ෆේස්බුක් ලොක්කෙක් අත්අඩංගුවට
+127562.json | Court cases against 73,000 for violating traffic laws | 127562.json | මංතීරු නීතිය කඩ කළ 73,000කට නඩු
+127566.json | US Election 2016: Super Tuesday Tests Candidates | 127566.json | ජනාධිපති ධුර අපේක්ෂකත්ව ඡන්ද විමසීම උණුසුම්
+127570.json | Treasure hunter caught in Wanathawillu | 127570.json | වළදැමූ මිණිමුතු ගොඩ දමයි-(VIDEO)
+127571.json | Ladies caught for stealing high-priced milk packs | 127571.json | ගවුම යටින් කිරි ගෙන ගිය කාන්තාව දැලේ
+127574.json | Seven nabbed for mining for gems | 127574.json | අනවසර මැණික් ගැරූ 7 දෙනෙකු අත්අඩංගුවට
+127575.json |  Brother Beats Disabled Sister To Death | 127575.json | සහෝදරයාගේ පහරින් සහෝදරිය මරුට
+127578.json | Teen’s body recovered from Magalla Sea | 127578.json | දියේ සැගව සිටියදී චානක සොයා ගැනේ-(ඡායාරූප)
+127580.json | New Secretary Appointed To PRECIFAC | 127580.json | බරපතල වංචා සොයන ජනාධිපති කොමිසමේ නව ලේකම් වැඩභාර ගනී
+127581.json | Mother and Daughter nabbed for Trafficking Ganja  | 127581.json | මවත් දියණියත් ගංජා සමඟ  දැලේ
+127583.json | Man arrested over sexual abuse of a minor | 127583.json | බනිස් ගන්න කඩයට ගිය දැරියට මුදලාලි මාමා කල හදිය
+182662.json | Teacher attacked in Kalpitiya for punishing a student  | 182662.json | සිසුවෙකුට දඬුවම් කළැයි ගුරුවරයෙකුට 6 දෙනෙකු පහරදෙයි
+182664.json | Water Board employees announce four-hour strike  | 182664.json | ජල සේවකයන් අදත් වර්ජනයේ
+182674.json | Heavy traffic in Colombo roads | 182674.json | කොළඹ අවට අදත් දැඩි රථවාහන තදබදයක්
+182675.json | Showers predicted to return  | 182675.json | අදත් මිලීමීටර් 75 ඉක්මවූ තද වැසි
+182678.json | Another brothel raided in Mt. Lavinia | 182678.json | ගල්කිස්සේ පවත්වාගෙන ගිය ගණිකා නිවසක් වටලයි
+182679.json | Van drives into pedestrians in China | 182679.json | චීනයේ වෑන් රථයක් පදිකයන් අතරට පදවා 18 දෙනෙකුට තුවාල
+182681.json | Head-on collision kills three-wheel driver | 182681.json | වැලිගම රිය අනතුරකින් අයෙක් මියගොස් 5 ක් රෝහලේ (ඡායාරූප)
+182682.json | Young man dies in train mishap | 182682.json | දුම්රියක ගැටී තරුණයෙකු මරුට
+182685.json | Court rejects Gotabhaya's request | 182685.json | ගෝඨාභයගේ ඇවන්ගාඩ්  පෙත්සම ඉවතට
+182691.json | Temple tusker attacks Prof. Wimalarathana Thera     | 182691.json | බෙල්ලන්විල විමලරතන හිමියන්ට ඇතෙකු පහරදෙයි
+182692.json | President reveals where PM went wrong | 182692.json | හිටපු ජනපතිට සහ වත්මන් අගමැතිට වැරදුණු තැන්
+182695.json | Election Commission asks voters not to fall prey to election gimmicks | 182695.json | අපේක්ෂකයින්ගේ කූඨ උපක්‍රම වලට නොරැවටෙන්න
+182699.json | Lanka Sathosa cuts prices ahead of Independence | 182699.json | නිදහස වෙනුවෙන් අත්‍යාවශ්‍ය ආහාර ද්‍රව්‍ය 7 ක මිල අඩු කෙරේ
+182700.json | Fort Magistrate names suspects in Bond case | 182700.json | අර්ජුන් මහේන්ද්‍රන් ඇතුලු 3 ක් බැඳුම්කර ගනුදෙනුවේ සැකකරුවන් ලෙසට නම් කෙරේ
+182701.json | Water Board employees conduct island-wide token strike | 182701.json | ජල සේවකයින් ආරම්භ කළ සංකේත වර්ජනය දිවයින පුරා
+182705.json | President highlights importance of protecting local industries | 182705.json | දේශීය ආර්ථිකය ශක්තිමත් කරන්න දේශීය කර්මාන්න රැකගත යුතුයි
+182706.json | Special request from Speaker | 182706.json | කථානායකවරයාගෙන් විශේෂ ඉල්ලිමක්
+182723.json | Notices issued on Basil and Risath | 182723.json | හිටපු ඇමති බැසිල්, ඇමති රිෂාඩ් ඇතුළු පිරිසකට නොතීසි
+182724.json | Court issues order against PTL | 182724.json | පර්පෙචුවෙල් ටෙ‍්‍රෂරීස් සමාගමට තහනම් නියෝගයක්
+182727.json | 5-member commission to probe malpractices at national airlines | 182727.json | ගුවන් සේවා ගැන සොයන, විශේෂ ජනාධිපති කොමිසම පත් කෙරේ
+184872.json | Many areas to expect showers today as well | 184872.json | අදත් ප්‍රදේශ රැසකට වැසි
+153524.json | Water cannon and tear gas fired at medical faculty students protesting - 12 students arrested | 153524.json | වෛද්‍ය පීඨ සිසුන්ට යළිත් ජල සහ කදුළු ගෑස් - සිසුන් 12 දෙනෙකුත් අත්අඩංගුවට
+153528.json | Final decision on Hambanthota port due today or tomorrow; 2 weeks ultimatum from Trade unions | 153528.json | හම්බන්තොට වරාය ගැන අවසන් තීන්දුව අද හෝ හෙට
+155813.json | Suspicions that Weapons recovered at the Mount Lavania court complex, were intended to be used to assassinate a underworld gang leader | 155813.json | ගල්කිස්ස අධිකරණයෙන් හමුවූ ගිනි අවි පාතාල කල්ලි නායකයෙකු ඝාතනයට ගෙන ආවාදැයි සැක
+155814.json | SLFP central committee and the executive committee convene today | 155814.json | නිදහස් පක්ෂයේ විධායක, මධ්‍යම සහ සමස්ත ලංකා කාරක සභා අද රැස්වෙයි
+155816.json | Concerns that full face helmets out of stock over the next 4 months | 155816.json | ඉදිරි මාස 4 ෆුල් ෆේස් හෙල්මට් හිගයක්
+155818.json | Compensation for families of prison officers killed during the Kaluthara shooting | 155818.json | කළුතර වෙඩි තැබිමේදි මියගිය බන්ධනාගාර නිලධාරින්ට වන්දි
+155828.json | Priyasad Depp takes oaths as new Chief Justice | 155828.json | නව අගවිනිසුරු ලෙස ප්‍රියසාද් ඩෙප් ජනපති ඉදිරියේ දිවුරුම් දෙයි
+155835.json | Mastermind behind the murder of Samayan identified; Security beefed up at Katunayaka and Maththala to prevent suspects leaving the country | 155835.json | බන්ධනාගාර බසයට වෙඩි තැබු සැකකරුවන් හඳුනාගැනේ
+155838.json | Presidential commission of inquiry into massive fraud, term extended by 6 months | 155838.json | බරපතල වංචා කොමිසමේ කාලය දීර්ඝ කෙරේ
+112469.json | Upcountry people’s front to contest under the elephant symbol; Swan to contest solo | 112469.json | කඳුරට ජනතා පෙරමුණ අලියා සමඟ ඡන්දයට - හංසයා තනියම සටනට
+112471.json | Update: HIRU FM which is Sri Lanka's number 1 Sinhala radio station and has the highest listenership celebrates 17 years today | 112471.json | Update: හිරු විය හැක්කේ හිරුටම පමණී - හිරු එෆ්.එම්. ජනතා අභිෂේකයේ 17 වන සංවත්සරය සමරයි
+112472.json | Will tamed elephants be unavailable for Cultural festivals including Dalada Perehara | 112472.json | දළදා පෙරහර ඇතුලූ සංස්කෘතික උත්සවවලට හීලෑ අලි ඇතුන් අහිමිවෙයිද?
+112480.json | 8 arrested for gem mining without licenses | 112480.json | ලයිසන් නැතිව මැණික් ගැරූ 8 ක් මාට්ටු
+112481.json | Rameswaram fishermen launch indefinite strike | 112481.json | තමිල්නාඩු ධීවරයන් උපවාසයක
+112491.json | Central Bank governor attended the treasury bond issue twice  - reveals COPE report | 112491.json | බැදුම්කර වෙන්දේසියට මහ බැංකු අධිපති දෙවරක් පැමිණියා
+112492.json | Prabha Ganeshan decides not to contest | 112492.json | ප්‍රභා ගනේෂන් මෙවර ඡන්දෙට නෑ
+112493.json | Chamal Rajapakse to the arena | 112493.json | නිදහස් සන්ධානයේ සටන චමල්ට පැවරෙන ලකුණු
+112494.json | Don't rage the elephant – says UNP | 112494.json | අලියා කුලප්පු කරන්න එපා - එජාපය කියයි
+72564.json | Private bus strike in Mathara. | 72564.json | මාතරින් ආරම්භ වන කෙටි දුර සේවා 5ක පෞද්ගලික බස් වර්ජනයක්.
+72574.json | A van falls into a precipice injuring four | 72574.json | වෑන් රථයක් ප්‍රපාතයකට පෙරළී සිව්දෙනෙකුට තුවාල.
+72575.json | A person arrested for attempting to smuggle gold out of the country | 72575.json | ගුද මාර්ගයේ රන් සඟවා දිවයිනෙන් පිටවීමට උත්සාහ කළ අයක් දැලේ.
+72579.json | Investigations begin to arrest the main suspects of gold smuggling racket between SL and India | 72579.json | රන් ජාවාරමේ මහමොළකරුවන්ට දැල එලයි.
+72580.json | External Affairs Minister should resign from his post - says Mangala | 72580.json | විදේශ අමාත්‍යවරයා තනතුරෙන් ඉවත් විය යුතුයි. මංගල
+72581.json | No final decision taken yet on powdered milk price increase - Legal action against hoarders | 72581.json | කිරිපිටි මිල ඉහළ දැමීමට තවම තීරණයක් නැහැ.
+72588.json | An expatriate worker seeks compensation following accident. | 72588.json | සෞදියේ දී ශ්‍රී ලාංකික ශ්‍රමිකයෙකුට පාදයක් අහිමි වෙයි.
+72589.json | Police request motor cycles not to enter the expressway | 72589.json | අධිවේගයට යතුරුපැදි බැහැ.
+72591.json | Eleven suspects of J' Pura student murder case acquitted | 72591.json | ජ’පුර සිසු ඝාතනයේ 11 දෙනෙකු නිදහස් කරයි.
+72596.json | Rise of Dengue risk as Northeastern monsoon activating | 72596.json | ඊසාන දිග මෝසම් වර්ෂාවත් සමග ඩෙංගු ව්‍යාප්තවීමේ අවදානමක්.
+72597.json | North Western Provincial Councilor Kamal Indika remanded | 72597.json | වයඹ පළාත් සභා මන්ත්‍රී කමල් ඉන්දික අත්අඩංගුවට.
+72598.json | Island-wide raids to nab errant soft drink sellers | 72598.json | සිසිල් බීම මිල සහතික කිරීමට දිවයින පුරා වැටලීම්.
+72600.json | Police team from Colombo dispatched to arrest Southern Provincial Agriculture Minister | 72600.json | දකුණේ කෘෂි ඇමති අත්අඩංගුවට ගන්නපොලිස් කණ්ඩායමක් කොළඹින්.
+72601.json | Video: Group of farmers wearing loin cloths in front of Fort Railway Station | 72601.json | වීඩියෝ: අමුඩ ගසාගත් ගොවීන් පිරිසක් කොටුව දුම්රියපල ඉදිරිපිට.
+72602.json | Confession from LTTE member regarding plan to capture Jaffna | 72602.json | යාපනය අල්ලාගැනීමේ සැළසුම් ගැන LTTE සාමාජිකයෙකුගෙන් පාපොච්චාරණයක්.
+72603.json |  Murder case of Khuram Shaikh to be heard in March; Russian girlfriend summoned to courts as witness | 72603.json | කුරාම් ෂෙයික් ඝාතන නඩුව මාර්තුවේ.
+72604.json | Signs of Western and Southern Provincial Councils being dissolved in December; Election to be held in March | 72604.json | බස්නාහිර - දකුණ දෙසැම්බරයේ විසුරුවයිද?
+72609.json | MCNC dissolved  | 72609.json | MCNS  විසුරුවා හැරේ.
+72610.json | Thailand protests: PM rejects resignation demand | 72610.json | තායි අගමැතිනිය ඉල්ලා අස් නොවේ.
+233558.json | 17.5 tonnes of food seized following CIA revelations | 233558.json | හිරු සී.අයි.ඒ. අනාවරණයෙන්, කල් ඉකුත් වූ ආහාර ටොන් 17ක්, හැදල ප්‍රධාන පෙළේ ආහාර නිෂ්පාදනාගාරයකින් සොයා ගැනේ
+233569.json | A loss of 9,000 million recorded on bonds during the Government of Good Governance, Says MP Harsha  | 233569.json | යහපාලන රජය සමයේ බැඳුම්කරවලින්, රුපියල් මිලියන 9000ක පාඩුවක් - එජාප මන්ත්‍රී හර්ෂ
+233571.json | Chinese Government allocated 173 Billion Dollars to combat Coronavirus  71 admitted to the IDH Hospital within a week, over suspicions they have contracted the virus | 233571.json | කොරෝනා වෛරසය ආසාදනය වී ඇත්දැයි සැකයෙන්, සතියක් තුල 71ක් අයි.ඩී.එච් රෝහලට
+50628.json | Large number of rules an inconvenience to the people; says Miniser Anura Yapa. | 50628.json | නීති ගොඩක්, ජනතාවට කරදරයක්. - ඇමති අනුර යාපා.
+50629.json | Justice from Minister Hakeem for the law entrance exam crisis. | 50629.json | නීති ප්‍රවේශ විභාග අර්බුදයට ඇමති හකීම්ගෙන් සාධාරණයක්.
+50630.json | Opposition leader meets his holiness the Pope today. | 50630.json | විපක්ෂ නායකවරයා අද පාප් වහන්සේ බැහැ දකී.
+50631.json | The Government in preparation for a reply to the UN statement abut impeachment.  | 50631.json | දෝෂාභියෝගය ගැන ජගත් සංවිධාන ප්‍රකාශයට ලක් රජය පිළිතුරු දීමට සූදානමින්.
+66309.json | Anna Hasare an activist against corruption in India prepares to visit Sri Lanka.       | 66309.json | අන්නා හසාරේ ශ්‍රී ලංකා සංචාරයකට සැරසේ.
+66310.json | Brother and sister killed by falling into a culvert    | 66310.json | බෝක්කු වළකට වැටී එකම පවුලේ අයියා - නගෝ මරුට.
+66311.json | Privileges are obtained only by a small group A statement from the opposition leader    | 66311.json | වරප්‍රසාද හිමිවන්නේ සුළු පිරිසකට පමණයි. විපක්ෂ නායක.
+66312.json | The propaganda saying that state banks were being sold is false says President.          | 66312.json | රාජ්‍ය බැංකු විකුණන බවට කරන ප්‍රකාශ අසත්‍යයක්. ජනපති.
+66318.json | John Kerry US has evidence of Syrian sarin use  | 66318.json | සිරියාව, සරේන් විෂ රසායනිකය භාවිත කළ බවට ඇමරිකාව තහවුරු කරයි.
+66324.json | UN HR Commissioner Navi Pillai has transgressed her mandate during her visit says GovT       | 66324.json | නවිපිල්ලේගේ ප්‍රකාශයන්ට ලක් රජයෙන් ප්‍රතිචාර.
+66335.json | A mother and 3 children staging a protest in front of the Kegalle SPs office   | 66335.json | මවක් දරුවන් තිදෙනාත් සමග කෑගල්ලේ විරෝධතාවක.
+66336.json | 40000 government servants and 7000 police personnel will be assigned for election duty | 66336.json | ඡන්ද වැඩට රාජ්‍ය සේවකයන් 40 000 ක්. පොලීසියෙන් 7000 ක්.
+66337.json | Minister Mervyn should have sent his marriage proposal to Kandy Police says JVP | 66337.json | ඇමති මර්වින්ගේ මංගල යෝජනාව මහනුවර පොලීසියටයි. ජ.වි.පෙ.
+66338.json | Sri Lankan government responds to Navi Pillays statements       | 66338.json | නවිපිල්ලේගේ ප්‍රකාශයන්ට ලක් රජයෙන් ප්‍රතිචාර.
+66358.json | CID concludes investigations on bribery charges against Vaas Gunawardana. | 66358.json | වාස් ගුණවර්ධනගේ කප්පම් පරීක්ෂණ අවසන්.
+66359.json | Only the government can increase bus fares - Gamunu Wijerathna ready to go to courts. | 66359.json | බස් ගාස්තු වැඩිකිරීම රජයෙන් පමණයි.
+66360.json | Government is unable to give relief in the budget - says Opposition leader. | 66360.json | අයවැයේදී සහන දෙන්න ආණ්ඩුවට බැහැ. - විපක්ෂ නායක.
+66361.json | Democracy has been consolidated - says President at the 62ND SLFP convention. | 66361.json | අපි ප්‍රජාතන්ත්‍රවාදය තහවුරු කළා. - ශ්‍රී.ල.නි.ප. 62 සමරුවේ දී ජනපති කියයි.
+223455.json | SRI LANKA NAVY'S WESTERN NAVAL COMMAND TO GALLE FACE | 223455.json | නාවික හමුදාවේ බටහිර නාවික විධානය ගාලූමුවදොරට
+223456.json | ASIAN PARLIAMENTARIANS HOLD DISCUSSIONS ON CHILD PROTECTION | 223456.json | ළමා සුරක්ෂිතතාවය වෙනුවෙන් ආසියානු පාර්ලිමේන්තු මන්ත්‍රීවරුන් සාකච්ඡාවක
+223457.json | SUSPECTS OF THE MURDER OF TWO BUSINESSMEN IN RATHGAMA REMANDED UNTIL THE 16TH OF THIS MONTH | 223457.json | රත්ගම ව්‍යාපාරිකයින් දෙදෙනා ඝාතනයේ සැකකරුවන් මේ මස 16 වන දා දක්වා යළි රිමාන්ඩ්
+223458.json | THE FINAL WISHES OF THE LATE PROFESSOR CARLO FONSEKA THAT WILL COME TO PASS THIS EVENING  | 223458.json | අද පස්වරුවේ ඉටුවන අභාවප්‍රාප්ත මහාචාර්ය කාලෝ ෆොන්සේකාගේ අවසන් කැමැත්ත
+223460.json | PHARMACY IN GALENBINDUNUWEWA SEALED  | 223460.json | ගලෙන්බිදුණුවැව ඔසුසැලකට මුද්‍රා තබයි
+223461.json | ZION CHURCH SUICIDE ATTACKER’S HEAD BURIED IN THE BATTICALOA HINDU CEMETERY, EXHUMED   | 223461.json | මඩකලපු හින්දු සුසාන භූමියේ වළ දැමූ සියොන් ප්‍රහාරකයාගේ හිස යළි ගොඩ ගැනේ
+223463.json | Attorney General submits 21 thousand paged report to bring down Arjuna Mahendran | 223463.json | අර්ජුන් මහේන්ද්‍රන් ගෙන්වා ගැනීම සදහා අමාත්‍යාංශ දෙකකට, නීතිපතිගෙන් පිටු 21,000ක වාර්තාවක්,
+223464.json | Zion suicide bombers remains exhumed from Hindu cemetery | 223464.json | සියොන් දේවස්ථානට ප්‍රහාරයක් එල්ල කළ ත්‍රස්වාදියාගේ හිස කොටස මඩකලපුව රෝහලට
+225405.json | DECLARATION OF ASSETS AND LIABILITIES COMPULSORY FOR PRESIDENTIAL CANDIDATES | 225405.json | ජනාධිපතිවරණ අපේක්ෂකයින්ට, වත්කම් - බැරකම් ප්‍රකාශ අනිවාර්යයි
+225406.json | 'SIRAKATHA' INSTEAD OF ‘NAYAKATHA’ - BASIL | 225406.json | ණය කත වෙනුවට සිරිකත - බැසිල්
+225409.json | PETITION REGARDING GOTABHAYA'S CITIZENSHIP TO BE TAKEN UP TODAY | 225409.json | Update :පුරවැසි පෙත්සම විභාග කිරීම ඇරඹේ
+225413.json | WILL MURALITHARAN BE CONTESTING ELECTIONS? THE TRUTH ABOUT SOCIAL MEDIA REPORTS | 225413.json | සුපිරි ක්‍රීඩක මුරලිදරන් මැතිවරණයට එනවාද ? බුකිය කළඹපු කතාවේ ඇත්ත නැත්ත මෙන්න
+225414.json | SRI LANKAN ARRESTED WITH ‘WALLAPATTA’ AT THE AIRPORT | 225414.json | වල්ලපට්ටා සමඟ ශ්‍රී ලාංකිකයෙකු ගුවන් තොටුපළේදී අත්අඩංගුවට
+225415.json | DISCUSSION BETWEEN RAILWAY TRADE UNIONS TODAY | 225415.json | පරිපාලන සේවා සහ විධායක ශ්‍රේණි නිලධාරීන්ගේ වෘත්තීය ක්‍රියාමාර්ග අවසන්
+225416.json | RED LIGHT FROM POSTAL TRADE UNIONS | 225416.json | තැපැල් වෘත්තීය සමිතිවලින් රතු එළියක්
+219520.json | Former Defense Secretary Hemasiri Fernando arrested  | 219520.json | හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු අත්අඩංගුවට
+219521.json | Hospitalized Pujith Jayasundara and Hemasiri Fernando arrested | 219521.json | රෝහලේ සිටි පූජිත් ජයසුන්දර සහ හේමසිරි ප්‍රනාන්දු සී.අයි.ඩී. අත්අඩංගුවට
+219527.json | Wimal wants a clarification about the twitter message of the American Ambassador  | 219527.json | ඇමරිකානු තානාපතිනියගේ ට්විටර් පණිවුඩය ගැන විමල් පැහැදිලි කිරීමක් ඉල්ලයි
+221343.json | Minister Rishaad says he is ready for any no-confidence motion | 221343.json | ඕනෑම විශ්වාසභංගයකට සූදානම් බව ඇමති රිෂාඩ් කියයි
+221344.json | Government analysts ask for a specialists test before garbage container inspection | 221344.json | කසළ බහාළුම් පරීක්ෂාවට පෙර රස පරීක්ෂකවරු විශේෂඥ පරීක්ෂණයක් ඉල්ලයි
+221346.json | DISASTER MANAGEMENT CENTRE ADVISES FISHERMEN IN THE BAY OF BENGAL | 221346.json | බෙංගාල බොක්ක ප්‍රදේශයේ මුහුදු ගිය ධීවරයන්ට ආපදා කළමනාකරණ මධ්‍යස්ථානයෙන් උපදේශයක්
+221347.json | THE HEATED INCIDENT IN MARADANA | 221347.json | මරදාන රත්කළ සිද්ධිය මෙන්න
+119524.json | Former MP’s given one more month to hand over their official residences | 119524.json | හිටපු මන්ත්‍රීවරුන්ට නිල නිවාස භාරදීමට රජයෙන් තවත් මාසයක්
+119526.json | President begins bilateral discussions with Thai Prime Minister | 119526.json | ජනපති, තායිලන්ත අගමැති සමඟ සාකච්ඡා  අරඹයි
+119530.json | Police permitted to detain and question the main suspect of Karate Wasantha murder, SF Lokka | 119530.json | කරාතේ වසන්ත ඝාතනයේ ප්‍රධාන සැකකරු, එස්.එෆ් ලොක්කා රදවාගෙන ප්‍රශ්න කරන්න, පොලීසියට අවසර
+119531.json | Houses for Meeriyabadda victims by next January | 119531.json | මීරියබැද්දේ නිවාස අහිමිවූවන්ට ජනවාරියට පෙර නිවාස
+121185.json | A principal in Galgamuwa instructs parents to pay 7000 rupees per student to a retail shop | 121185.json | දරුවන් පාසලට දාන්න - කඩේ අක්කට 7000ක් ගෙවන්නැයි කියන ගල්ගමුවේ විදුහල්පති  - හිරු CIA
+121187.json | Vasudeva uses derogatory language for the second time in Parliament | 121187.json | 'ඕයි තමුසෙට පණු කැවිල්ලද - වාඩිවෙයන් බයියා' -  වාසු පාර්ලිමේන්තුව අමතයි
+121188.json | Avant gaurd refutes the report about the floating armoury submitted to the Attorney General | 121188.json | පාවෙන අවි ගබඩාවේ වාර්තාව ඇවන්ගාඩ් ප්‍රතික්ෂේප කරයි
+121190.json | A uniform day for schools. | 121190.json | ළමයින්ගේ නිල ඇඳුම් බලන්න දිනයක්
+121191.json | Voting on 2nd reading of the budget today | 121191.json | අයවැය ඡන්දය අද - ජවිපෙ සහ ඒකාබද්ධ විපක්ෂය විරුද්ධ වෙයි
+121192.json | Fake Cop arrested while collecting ransom | 121192.json | පොලිස් වෙස් ගෙන කප්පම් ගත් පුද්ගලයාට වැඩවරදී
+121193.json | Rain to continue today as well | 121193.json | අදත් දිවයිනේ තැනින් තැන වැසි
+121194.json | Ex-President CBK apologizes | 121194.json | හිටපු ජනපතිනි චන්ද්‍රිකා සමාව ඉල්ලයි
+121195.json | CBK failed to Reconcile during her tenure | 121195.json | සංහිදියාව ගිලිහුණේ චන්ද්‍රිකාගේ සමයේ
+121196.json | Wigneshwaran stressed over Northern lands | 121196.json | උතුරේ ඉඩම් ගැන විග්නේෂ්වරන් කණස්සල්ලෙන්
+121197.json | Cop arrested while taking bribe | 121197.json | අල්ලස් ගැනීමට තැත් කළ පොලිස් සැරයන්වරයා මාට්ටු
+121198.json | Six OICs transferred | 121198.json | නාරාහේන්පිට  OIC ට ස්ථාන මාරුවීමක්
+121199.json | Syria air strikes: PM urges Tory MPs to 'take a stand' | 121199.json | සිරියානු මෙහෙයුම් ගැන බ්‍රිතාන්‍යයේ  තීරණය අද
+121200.json | US to deploy special force to Iraq to build pressure on IS | 121200.json | IS පැන්නීමට  ඇමරිකාවෙන් තවත් හමුදා
+121201.json | Police Search for Hit-and-Run Driver Who Struck a Woman | 121201.json | පුද්ගලයෙකු  යටකර පලාගිය වෑන් රථය සොයා මෙහෙයුම්
+121204.json | Flights Cancelled As Floods Strike Chennai Airport | 121204.json | චෙන්නායි ගුවන් ගමන් අවලංගුයි - ලේඛණය මෙන්න
+121206.json | A protest staged opposite Wattegama primary school | 121206.json | වත්තේගම ප්‍රාථමික විද්‍යාලය ඉදිරිපිට උද්ඝෝෂණයක්
+121208.json | Aung San Suu Kyi meets president and army chief in transition talks? | 121208.json | මියන්මාර රාජ්‍ය පාලන හුවමාරුව සාමකාමී වෙයි ද ?
+221381.json | FORMER ARMY OFFICER ARRESTED FOR ASSAULTING JOURNALIST UPALI TENNAKOON RELEASED ON BAIL  | 221381.json | මාධ්‍යවේදී උපාලි තෙන්නකොන්ට පහරදීමේ සිද්ධියට අත්අංගුවට ගත් හිටපු හමුදා නිලධාරියාට ඇප
+221382.json | ELEPHANT CALF TO BE TREATED FOR SERIOUS INJURIES TO THE TRUNK  | 221382.json | හොඬයට බරපතල තුවාල සිදුවූ වන අලි පැටවෙකුට ප්‍රතිකාර
+221383.json | TWO MORE SUPPORTERS OF SAHARAN HANDED OVER TO THE TERRORIST INVESTIGATIONS UNIT | 221383.json | සහරාන්ගේ තවත් අනුගාමිකයින් දෙදෙනෙකු ත්‍රස්තවාදී විමර්ශන ඒකකයට භාර දෙයි
+221384.json | RUHUNU UNIVERSITY TO BE OPENED FROM MONDAY | 221384.json | රුහුණු සරසවියේ විද්‍යා පීඨයේ පාඨමාලා කිහිපයක් සඳුදා සිට යළි ඇරඹේ
+221385.json | 131 Drunk Drivers arrested during the past 24 hours | 221385.json | තවත් බීමත් රියදුරන් 131 ක් අත්අඩංගුවට
+221387.json | INCREASED WIND CONDITIONS  | 221387.json | සුළං තත්ත්වය වැඩි වීමේ හැකියාවක්
+221388.json | PRIVATE BUS STRIKE ON CHILAW-KURUNEGALA ROAD | 221388.json | හලාවත - කුරුණෑගල පෞද්ගලික බස් වර්ජනයක්
+221389.json | Kurunegala DIG’s transfer cancelled | 221389.json | අනුමත කළ කුරුණෑගල DIGගේ ස්ථාන මාරුව, අවලංගු කෙරේ
+221391.json | Jailed Hambantota Mayor taken to Angunakolapelassa prison | 221391.json | හම්බන්තොට නගරාධිපති, අගුණකොළපැලැස්ස බන්ධනාගාරයට
+221392.json | Tug- of-war on drug shortage | 221392.json | ඖෂධ හිඟයත් දෙපැත්තක
+221393.json | Clash of opinions in the UNP intensified | 221393.json | එජාපයේ මත ගැටුම උග්‍ර වෙයි
+221419.json | 21 years of Hiru; 21 millionaires in 21 days,18th millionaire W.A Anura Sampath from Siyabalanduwa  | 221419.json | හිරුට 21 යි දවස් 21 න් දස ලක්ෂපතියන් 21 යි! 18වැනි දස ලක්ෂපතියා සියඹලාණ්ඩුවෙන්
+223415.json | S. B Replies to Duminda | 223415.json | දුමින්දට එස්.බී.ගෙන් පිළිතුරු
+223416.json | Fishing trawler “Surathalee 04” floats in bay of Bengal | 223416.json | සුරතලී - 04 බෙංගාල බොක්කේ පාවෙයි
+223418.json | THE HEAD OF THE TERRORIST BURIED IN THE KALLIYANKADU HINDU CEMETERY TO BE EXHUMED | 223418.json | කල්ලියන්කාඩු හින්දු සුසාන භූමියේ වළ දැමූ ත්‍රස්තවාදියාගේ හිස කොටස යළි ගොඩ ගැනේ
+223419.json | Protests in Australia against extraditing Sri Lankan family | 223419.json | ශ්‍රී ලාංකික පවුල පිටුවහල් කළැයි ඕස්ට්‍රේලියාවේ විරෝධතා
+223421.json | Prime Minister arrives in the Maldives | 223421.json | අගමැති මාලදිවයිනට
+187480.json | Japanese PM to visit USA | 187480.json | ජපාන අග්‍රාමාත්‍ය ෂින්සෝ අබේ ඇමරිකාවේ සංචාරයක
+187481.json | Unidentified group kills a woman in Vadamaarchchi | 187481.json | යාපනය වඩමාරච්චි ප්‍රදේශයේදී කාන්තාවක් ඝාතනය කෙරේ
+187483.json | Vass Gunawardena gets bail | 187483.json | හිටපු නියෝජ්‍ය පොලිස්පති වාස් ගුණවර්ධන ඇතුළු 5 දෙනෙකුට ඇප
+187484.json | Motorcycle-bus collision kills 2 in Pelmadulla | 187484.json | පැල්මඩුල්ලේ රිය අනතුරකින් පුද්ගලයින් දෙදෙනෙකු මරුට
+187488.json | Bird strike delays Dubai bound flight at Mattala | 187488.json | කටුනායකින් ඩුබායි ගිය යානයට මත්තලදී සිදුවූ දේ
+187489.json | Fire destroys three-wheeler | 187489.json | නාවලපිටියේදී ත්‍රි රෝද රථයක් හදිසියේ ගිනි ගනී
+187491.json | President & PM in a crucial discussion  | 187491.json | ජනපති අගමැති හදිසියේ හමුවෙයි
+187492.json | Electrocution kills husband & wife  | 187492.json | විදුලි සැර වැදී අඹු-සැමි යුවළක් මරුට
+187493.json | SLFP is with people's mandate, says Susil  | 187493.json | නිදහස් පක්ෂය ජනමත විමසුමක
+187494.json | Devotees of "Hiru Siddhartha Gauthama Dambadiva Wandana" to reach Savath Nuwara (Photos) | 187494.json | හිරු සිද්ධාර්ථ ගෞතම දඹදිව වන්දනා නඩය අද සැවැත්නුවරට (ඡායාරූප)
+187504.json | Chief prelates write to President | 187504.json | මහනායක හිමිවරුන් ජනපතිට ලියයි
+187507.json | 'No-confidence motion' will be won, says Joint Opposition | 187507.json | අගමැතිට එරෙහි විශ්වාසභංගය නියත වශයෙන්ම ජයගන්නවා - ඒකාබද්ධ විපක්ෂය
+189748.json | UNP backbenchers to meet PM | 189748.json | එජාප පසුපෙළ මන්ත්‍රීවරුන් අගමැති හමුවීමට සැරසේ
+189750.json | State and Deputy Ministers to take oaths | 189750.json | රාජ්‍ය සහ නියෝජ්‍ය අමාත්‍යවරුන් දිවුරුම් දීම අද
+189751.json | Final rites of the legend of Sri Lankan Cinema, today. | 189751.json | හෙළයේ මහා සිනමාවේදියා අද දැයෙන් නික්ම යයි
+203452.json | Another Minister and Deputy Minister take oaths | 203452.json | තවත් ඇමතිවරයෙකු සහ නියෝජ්‍ය ඇමතිවරයෙකු දිවුරුම් දෙයි
+205318.json | President and United National Front to meet again today | 205318.json | යුක්තියේ යාත්‍රාව අද තංගල්ලේ
+205319.json | Advice from Examinations Commissioner to O/L students | 205319.json | සාමාන්‍ය පෙළ සිසුන්ට විභාග කොමසාරිස්ගෙන් උපදෙස්
+205322.json | UNP writes to Sambanthan | 205322.json | එජාපය සම්බන්ධන්ට ලියයි
+119490.json | President invites Sri Lankan intellectuals in Thailand to return to Motherland | 119490.json | සිය උපන් රටට පැමිණ සේවය ලබාදෙන්න
+119491.json | Sri Lankan Flight Diverted to Mattala | 119491.json | Update: හදිසියේ මත්තල‍ට හැරවූ  යානය යළි කටුනායක එයි
+119493.json | SF Reveals about MR's Underground Bunker | 119493.json | ජනපති මැදුරේ භූගත නිවාසයක ආරක්ෂක මණ්ඩලය රැස්වූයේ නැහැ
+119496.json | Sinai plane crash: Russian airliner 'broke up in mid-air' | 119496.json | අනතුරට පත් රුසියානු යානය ගුවනේදී විනාශ වූ බව තහවුරු වේ
+119497.json | Police arrests Absconded SF LOKKA | 119497.json | එස්.එෆ්. ලොක්කයි - 28යි
+119500.json | IGP Pujith and DIG Mathurata at Police Commission | 119500.json | පූජිත් ජයසුන්දර සහ ගාමිණී මතුරට පොලිස් කොමිසමට පැමිණේ
+119501.json | 12 Sluice gates opened at Rajanganaya – Kala oya under threat | 119501.json | රාජාංගණයේ 12ක් ඇරලා - තත්පරයට ඝන අඩි 9000යි -  කලා ඔය අවදානම් (ඡායාරූප)
+119505.json | Mahiyangana Rajamaha temple have been robbed of 8 lakhs | 119505.json | මහියංගණය රාජමහා විහාරයෙන් ලක්ෂ 8ක් කොල්ලකයි
+119507.json | Suspect in Maldives Boat Blast Arrested In Sri Lanka with a Girl | 119507.json | Update: මාලදිවයින් ජනපති ඝාතන කුමන්ත්‍රණයේ සැකකරුවෙක්  ලංකාවේ - අල්ලා යවයි
+119508.json | Kondaya's brother Saman Jayalath further remanded | 119508.json | සේයා ඝාතනය සිද්ධියේ සැකකාර සමන් ජයලත් යළි රිමාන්ඩ්
+119510.json | This Stray Dog Found A Newborn Baby On the Street, What The Dog Did Was SHOCKING! | 119510.json | උපන් ගමන් කුණු බක්කියට දැමූ බිළිඳියගේ  දිවි බේරු බල්ලෙක්
+119511.json | ISIS Seizes City of Mheen in Central Syria | 119511.json | හොම්ස් ප්‍රාන්තයේ නගරයක් අයි.එස්. සටන්කාමීන් යටතට
+119513.json | Karapitiya hospital staff’s body found in a drain | 119513.json | කරාපිටිය රෝහලේ සේවකයෙකුගේ මළ සිරුරක් කාණුවකින්  හමුවෙයි (ඡායාරූප)
+119514.json | JVP Supremo Anura Kumara in hospital | 119514.json | අනුරට බරපතල නෑ
+119516.json | Sinai crash: first bodies arrive in Russia as officials say plane broke up in air | 119516.json | ගුවන් අනතුරට හේතුව බාහිර සාධකයක්ම  බව රුසියානු  සමාගම පවසයි
+70545.json | Lal Kantha to be JVP Western Province Chief Ministerial candidate | 70545.json | ලාල් කාන්තට අලූත් තැනක්.
+70546.json | India still undecided on Manmohan Singh's Sri Lanka visit | 70546.json | ලංකාවට යන්න ෆස්ට් පෝස්ට් මන්මෝහන්ට කියයි.
+70570.json | A special permit for public transportation in the highway.  | 70570.json | අධිවේගයේ මගී ප්‍රවාහනයට විශේෂ බලපත්‍රයක්.
+70571.json | Video: Heavy rains expected during next 24 hours. | 70571.json | දිවයින පුරා මිලිමීටර් 100 ඉක්ම වූ තද වැසි.
+72558.json | UN Special Rapporteur on the Human Rights of Internally Displaced Persons to arrive in the island today. | 72558.json | එක්සත් ජාතීන්ගේ විශේෂ නියෝජිතයෙකු දිවයිනට.
+72559.json | An assurance from SLSI for identification of places selling non-meat foods. | 72559.json | නිර්මාංශ ආහාර අලෙවිකරුවන්ට ප්‍රමිතියක්.
+196588.json | Party leaders’ agree to hold Provincial Council election in January | 196588.json | පළාත් සභා මැතිවරණය ජනවාරි 05 පැවැත්වීමට එකඟතාවක්
+196589.json | Police in Jaffna to curb clashes between Ava & Dhanurok groups | 196589.json | ආවා - ධනුරොක් ගැටුම් මඩින්න යාපනයේ පොලීසි තුනක නිලධාරීන්ගේ නිවාඩු අවලංගු කෙරේ
+196591.json | ‘Jana Bala Sena’ to be held in Colombo | 196591.json | ‘‘ජනබල සේනා’’ අද කොළඹට
+196592.json | Minister Kabir explains reason to increase vehicle tax | 196592.json | වාහන මිල වැඩිවීමට හේතුව ඇමති කබීර් පහදයි
+196594.json | Violence flares up in Zimbabwe after elections | 196594.json | සිම්බාබ්වේ පශ්චාත් මැතිවරණ ප්‍රචන්ඩ ක්‍රියා ඉහළට
+196597.json | Landmark find : Australian experts contain dengue fever outbreak | 196597.json | පර්යේෂණ කණ්ඩායමක් ඕස්ට්‍රේලියානු නගරයක් ඩෙංගු රෝගයෙන් මුදාගනී
+196599.json | More skeleton parts found from Mannar mass grave | 196599.json | මන්නාරම සමූහ මිනීවලෙන් මිනිස් සිරුරු 62ක අස්ථි කොටස් හමුවේ
+196603.json | Tense situation erupts during Dambulla match, 10 arrested | 196603.json | ක්‍රිකට් තරගය අතරතුර උණුසුම් තත්ත්වයක් - 10 ක් අත්අඩංගුවට
+196617.json | Forest fire causes damages to Northern Railway Line | 196617.json | කැලෑ ගිනි තැබීමෙන් උතුරු දුම්රිය මාර්ගයට හානි
+196621.json | Prof. Colvin Gunaratne resigns | 196621.json | මහාචාර්ය කොල්වින් ගුණරත්න වෛද්‍ය සභාවේ සභාපති ධුරයෙන් ඉල්ලා අස්වේ
+198987.json | Lover arrested for murdering female PC (Photos) | 198987.json | පෙම්වතිය ඝාතනය කර ගිනි තැබූ පෙම්වතා (ඡායරූප)
+198989.json | Huge explosion in Somali capital | 198989.json | සෝමාලි අගනුවර දැවැන්ත පිපිරීමක්
+198992.json | Third school term begins tomorrow | 198992.json | තුන්වන පාසල් වාරය හෙට ඇරඹේ
+199000.json | Two teenagers drown in Deduru Oya | 199000.json | දැඳුරු ඔයේ ගිලී පාසල් සිසුන් දෙදෙනෙක් ජීවිතක්ෂයට
+201187.json | Train passenger organizations charge that the 15 per cent Train fare increase is a hoax | 201187.json | 15%ක දුම්රිය ගාස්තු වැඩිවීම ප්‍රෝඪාවක්  - දුම්රිය මගී සංවිධානවලින් චෝදනා
+201189.json | Strong winds hit Puthlam, Severe Thunderstorms and heavy Rainfall has been forecast for today  | 201189.json | පුත්තලමට තද සුළං  - අදත් ගිගුරුම් සහිත වැසි
+201194.json | CID probe in search of three Sri Lankans alleged to have been connected to a rape charge in Korea 19 years ago | 201194.json | වසර 19කට පෙර කොරියාවේ සිදුවූ ස්ත්‍රී දූෂණයකට, ශ්‍රී ලාංකිකයින් තිදෙනෙකු සොයා සී.අයි.ඩී.යෙන් පරීක්ෂණ
+189754.json | Singer Priyantha Fernando's funeral on Friday | 189754.json | අභාවප්‍රාප්ත ගායන ශිල්පී ප්‍රියන්ත ප්‍රනාන්දුගේ අවසන් කටයුතු ලබන සිකුරාදා
+189762.json | Head of 'Mahason Balakaya' remanded | 189762.json | මහසෝන් බලකායේ අමිත් යළි රිමාන්ඩ්
+189763.json | State & Deputy Ministers to be sworn-in | 189763.json | Update : රාජ්‍ය නියෝජ්‍ය අමාත්‍යවරුන්ගේ දිවුරුම් දීම සඳහා ජනපති පැමිණෙයි
+189765.json | Showers to hit many areas | 189765.json | අදත් පළාත් කිහිපයකට වැසි
+189767.json | Update: 8 State Ministers & 10 Deputy Ministers sworn-in | 189767.json | රාජ්‍ය නියෝජ්‍ය අමාත්‍යවරුන්ගේ දිවුරුම් දීම ඇරඹේ
+189769.json | Two Ministers assume office | 189769.json | නව කැබිනට් අමාත්‍යවරුන් දෙදෙනෙකු වැඩ අරඹයි
+189770.json | Katunayake - Colombo private buses launch strike | 189770.json | කොළඹ - කටුනායක බස් රථ වර්ජනයක්
+189772.json | Exposition of Kapilawasthu exact sacred relics in Jethawanaramaya ends | 189772.json | හිරු උත්තම ධාතු වන්දනාවේදී,ලක්ෂ සංඛ්‍යාත බැතිමතුන්ගේ වන්දනාවට පාත්‍රවූ කපිලවස්තුපුර නිසැක ශ්‍රී සර්වඥධාතූන් වහන්සේ ගල්ගමුවට වැඩමවයි
+189773.json | Remains of Dr. Lester James Peiris taken to Independence Square | 189773.json | ආචාර්ය ලෙස්ටර් ජේම්ස් පීරිස්ගේ දේහය නිදහස් චත්‍රරස‍්‍රයේ තැන්පත් කරයි
+189774.json | SLFP’s “Group of 16” in Kandy | 189774.json | 16 දෙනාගේ කණ්ඩායම මහනුවරට
+189776.json | Registration of new motor vehicles decreases | 189776.json | රථ වාහන ලියාපදිංචියේ විශේෂ වෙනසක්
+189778.json | Wimal clarifies Cabinet reshuffle | 189778.json | අමාත්‍ය මණ්ඩල සංශෝධන ගැන විමල්ගෙන් පැහැදිලි කිරීමක්
+189779.json | Lakshman Seneviratne's Ministerial post amended | 189779.json | ලක්ෂ්මන් සෙනෙවිරත්නගේ අමාත්‍ය ධුරයේ සංශෝධනයක්
+189780.json | 8 State Ministers and 10 Deputy Ministers appointed (Photos) | 189780.json | රාජ්‍ය අමාත්‍යවරුන් 8 ක් සහ නියෝජ්‍ය අමාත්‍යවරුන් 10 ක් දිවුරුම් දෙයි (ඡායාරූප)
+189782.json | New Kelani Bridge to be closed time to time | 189782.json | කොළඹ - නුවර මාර්ගයේ රථ වාහන ගමනාගමනය සීමා කෙරේ
+189785.json | Fmr. intelligence chief re-remanded | 189785.json | හිටපු හමුදා බුද්ධි අංශ අධ්‍යක්ෂක විශ්‍රාමික මේජර් ජනරාල් අමල් කරුණාසේකර යලි රිමාන්ඩ්
+189786.json | Glyphosate ban removed for tea & rubber | 189786.json | තේ සහ රබර් සඳහා පැවති ග්ලයිෆොසේට් තහනම ඉවතට
+189790.json | Southern Iran hit by earthquake | 189790.json | ඉරානයේ භූ කම්පනයක්
+189794.json | Hot weather advisory issued | 189794.json | හෙට දිනයේ උණුසුම් කාලගුණය ගැන වැඩි අවධානයකින් සිටින්න - කාලගුණ විද්‍යා දෙපාර්තමේන්තුවෙන් අවවාදයක්
+189795.json | Locomotive operators to take a trade union action next week | 189795.json | දුම්රිය එන්ජින් රියදුරන් ලබන 8 වනදා සිට වෘත්තිය ක්‍රියාමාර්ගයකට
+207308.json | Police sergeant killed in accident | 207308.json | ගලේවෙල අනතුරකින් පොලිස් සැරයන්වරයෙකු මරුට
+207311.json | Budget 2019 presented to the cabinet for approval | 207311.json | අයවැය, අනුමැතිය සඳහා කැබිනට් මණ්ඩලයට
+207318.json | drug peddling believed to be the Motive behind the Kaluthara shooting - Suspects have been identified | 207318.json | කළුතර වෙඩි තැබීම මත්කුඩු ආරවුලක් - සැකකරුවන් හඳුනා ගනී
+207323.json | Forensic auditing of the Bond Scam to be completed before the end of this year | 207323.json | බැඳුම්කර වංචාවේ වෝහාරික විගණනය මේ වසර අවසන් වීමට පෙර
+207331.json | Deleted details of hour long audio clip of Namala Kumara’s mobile phone submitted to court | 207331.json | හොංකොං විමර්ශනයේදී සොයාගත් නාමල් කුමාරගේ දුරකථන දත්ත ගැනත් රස පරීක්ෂක වාර්තාවක් කැඳවයි
+207340.json | Purviews of ministries likely to be changed | 207340.json | අමාත්‍යාංශ විෂයන් යළි වෙනස්වන ලකුණු
+207342.json | Thevarapperuma responds again to Sarath Fonseka | 207342.json | තෙවරප්පෙරුමගෙන් ෆොන්සේකාට යළි ප්‍රතිචාර
+192140.json | Chinese-run brothel raided in Colpetty | 192140.json | කොල්ලුපිටියෙන් වැටලූ චීන ගණිකා මධ්‍යස්ථානය
+192142.json | SriLankan flight time changes tomorrow | 192142.json | කටුනායක ගුවන් තොටුපළේ ගුවන් ගමන්වල හෙට වෙනසක්
+192143.json | Two women murdered in Kosgama | 192143.json | කොස්ගම සිදුවූ ද්විත්ව ඝාතනය
+192144.json | 60,000 new Tax files opened | 192144.json | නව බදු ලිපි ගොනු 60,000ක් විවෘත කෙරේ
+192145.json | SLFP Central Committee meeting where positions change, tomorrow | 192145.json | තනතුරු වෙනස් වන නිදහස් පක්ෂ මධ්‍යම කාරක සභාව හෙට
+192148.json | Bad smell emanating from water being distributed from Biyagama | 192148.json | බියගම ප්‍රදේශ කිහිපයකට බෙදා හැරෙන ජලයේ දුඟදක්
+192153.json | Kerala getting ready for 2nd wave of Nipah outbreak | 192153.json | නිපා වෛරසයෙන් ඉන්දියාවේ ජීවිත හානි 16ක්
+192160.json | Roger resigns from Wimal's party | 192160.json | රොජර් සෙනෙවිරත්න, ජාතික නිදහස් පෙරමුණෙන් ඉවත් වෙයි
+231423.json | New school term commences; School uniform vouchers for schools in 6 provinces already distributed | 231423.json | නව පාසල් වාරය ඇරඹේ - පළාත් 6ක පාසල්වලට නිල ඇඳුම් වවුචර් බෙදා අවසන්
+231424.json | Phottuwa is expecting two-thirds at the General Election  | 231424.json | පොහොට්ටුව තුනෙන් දෙකක් අපේක්ෂාවෙන්
+231425.json | Navy to take stern action against human trafficking | 231425.json | මිනිස් ජාවාරම්කරුවන්ට නාවික හමුදාවෙන් දැඩි පියවර
+231426.json | Businessman killed in a shooting in Ragama | 231426.json | රාගම වෙඩි තැබීමකින් ව්‍යාපාරිකයෙකු මරුට
+231427.json | 392,000 babies born on New Year's Eve | 231427.json | නව වසර උදාවේ දරු උපත් 392,000ක්
+231431.json | Superintendent of Police Jaliya Senaratne appointed as the Director of the Media Division    | 231431.json | පොලිස් අධිකාරී ජාලිය සේනාරත්න මාධ්‍ය කොට්ඨාශයේ අධ්‍යක්‍ෂ ලෙස පත් කරයි
+231432.json | Man stabbed to death in Kottawa | 231432.json | කොට්ටාවේදී තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කරයි
+231433.json | A person killed in motorbike accident in Narammala | 231433.json | නාරම්මල යතුරුපැදි අනතුරකින් පුද්ගලයෙකු මරුට
+231435.json | Army Commander appointed as Acting Chief of Defense Staff | 231435.json | යුධහමුදාපති වැඩබලන ආරක්ෂක මාණ්ඩලික ප්‍රධානී ලෙස වැඩ අරඹයි - පොලිස් මාධ්‍ය කොට්ඨාශයට නව අධ්‍යක්ෂවරයෙක්
+231436.json | Gammanpila reports to Presidential commission probing Easter Sunday attack | 231436.json | ගම්මන්පිල පාස්කු ප්‍රහාරය ගැන සොයන ජනපති කොමිසමට
+231437.json | Cash dispute leads to shooting in Ragama | 231437.json | රාගම වෙඩි තැබීමට හේතුව මුදල් ආරවුලක්
+231438.json | Government MPs to the Presidential Secretariat - TNA meets in the afternoon | 231438.json | ආණ්ඩු පක්ෂ මන්ත්‍රීවරුන් ජනපති කාර්යාලයට - දෙමළ සන්ධනායත් පස්වරුවේ රැස්වේ
+231441.json | RUMI MOHAMED’S BAIL APPLICATION REJECTED | 231441.json | රූමි මොහොමඩ්ට ඇප ඉල්ලන්න ගිය මෝසම ප්‍රතික්ෂේප කෙරේ
+231442.json | Water cut in several areas in Negombo from Monday | 231442.json | ලබන සදුදා මීගමුව ප්‍රදේශ කිහිපයකට ජල සැපයුම අත්හිටුවයි
+231443.json | A person dies during religious ceremony at a temple in Ichankulam | 231443.json | ඊච්චන්කුලම්හි කෝවිලක පැවති පූජා කටයුත්තක් අතරතුර පුද්ගලයෙකු මියයයි
+50659.json | China readies draft law for exploration of Indian Ocean. | 50659.json | චීනයට ඉන්දියාවේ විරෝධය.
+50660.json | Minister of Higher Education refutes claims that student was hospitalised following her reprimand during leadership training programme | 50660.json | නායකත්ව පුහුණුවේදී දඬුවම් ලබා සිසුවියක් රෝගාතුර වීම අසත්‍යයක්ලූ.
+50661.json | Protest's observed before several schools today during commencement of new term | 50661.json | නව වාරය ආරම්භයේදී පාසල් කිහිපයක උද්ඝෝෂණ.
+50662.json | Impeachment is parliamentary process; UNP abstains from going to court over impeachment; Leader of the opposition to make special statement in due course    | 50662.json | දෝෂාභියෝගය සම්බන්ධයෙන් එජාපය උසාවි යාමෙන් වළකී.
+50682.json | Waiko takes up international mission to denounce Sri Lanka | 50682.json | වයිකෝගෙන් තවත් අන්තර්ජාතික මෙහෙයුමක්.
+50683.json | All stocks of Cloxacillin vaccines banned from use | 50683.json | ක්ලොක්සිසිලින් ප්‍රතිජීවක ඖෂධ තොගයම භාවිතයෙන් ඉවතට.
+164893.json | Protest in Kosgoda obstructing the railway line; Train services disrupted (Photos) | 164893.json | කොස්ගොඩ - දුවෙමෝදර දී දුම්රිය මග හරස් කරමින් උද්ඝෝෂනයක් (ඡායාරූප)
+164896.json |  JVP requests a straightforward answer from the government regarding Uma Oya issue | 164896.json | උමා ඔය ගැටළුවට ජවිපෙ, ආණ්ඩුවෙන් ඍජු පිළිතුරක් ඉල්ලයි
+164907.json | One killed and two injured following a mine collapse in Nivithigala | 164907.json | නිවිතිගල පතලක් කඩා වැටී එක් අයෙකු මරුට
+160400.json | SLFP MPs who went to the Galle Face Rally will not be reprimanded, Minister SB says, The need is to unite the party | 160400.json | ගාලුමුවදොරට පැමිණි නිදහස් පක්ෂ මන්ත්‍රීවරුන්ට දඬුවමක් නැහැ අවශ්‍යතාව පක්ෂය එක් කිරීමයි - ඇමති එස්.බී
+160401.json | Four female photographers swept away by waves off the coast of chilaw | 160401.json | හලාවත මුහුදේ ඡායාරූප ගනිමින් සිටි කාන්තාවන් 4 දෙනෙකු රළ පහරට හසුවේ
+160402.json | Donald Trump says he would be honoured to meet Kim Jong-un | 160402.json | ජනපති ට්‍රම්ප් උතුරු කොරියානු නායකයා හමුවීමට සූදානම්
+160403.json | Our prime aim is to develop the country with enduring peace – President  | 160403.json | ස්ථීර සාමයක් සහිතව රට සංවර්ධනය කිරීම අරමුණයි - ජනපති
+160406.json | Five Indian fishermen arrested in Sri Lankan waters | 160406.json | ඉන්දීය ධීවරයන් 5 දෙනෙකු අත්අඩංගුවට
+160410.json | Fire erupts in Badulla-Alugolla Forest Reserve | 160410.json | බදුල්ල - අළුගොල්ල රක්ෂිතයේ ගින්නක්
+160414.json | Elderly woman in Imaduwa commits suicide   | 160414.json | ඉමදූවේ වයෝවෘද්ධ කාන්තාවක් ගිනි තබාගෙන සිය දිවි නසා ගනී
+160415.json | US warns American airplane passengers to Europe over ISIS attacks | 160415.json | යුරෝපයට යන ගුවන් මගීන්ට ඇමරිකාවෙන් අනතුරු ඇඟවිමක්
+160417.json | Two persons drowned and gone missing in two areas | 160417.json | ප්‍රදේශ දෙකකදී දෙදෙනෙකු දියේ ගිලී අතුරුදන් වෙයි
+160418.json | Gammanpila granted permission to travel abroad | 160418.json | ගම්මන්පිළට රට යන්න අවසර
+160419.json | U.S. Says Thaad Missile Shield Ready to Defend South Korea | 160419.json | දකුණු කොරියාවේ තාඩ් මිසයිල ආරක්ෂණ පද්ධතිය සක්‍රීය කෙරේ
+160420.json | Boyfriend remanded over uploading girlfriends nude photos on Facebook | 160420.json | ආදර කතාවට පිටුපෑ පෙම්වතියගේ නිරුවත් ඡායාරූප ෆේස්බුක් එකට දැමූ පෙම්වතා රිමාන්ඩ්
+160422.json | Giant Whale Washed Ashore in Kamburugamuwa (Photos) | 160422.json | කඹුරුගමුව වෙරළට ගොඩ ගැසූ දැවැන්තයා මෙන්න (ඡායාරූප)
+144309.json | President and Northern chief minister attend the closing ceremony of the National Sports Festival | 144309.json | ජාතික ක්‍රීඩා උළෙලේ සමාප්තියට ජනපති සමඟ උතුරු මහඇමතිත්
+144315.json | Tense situation at the Dambulla Pradeshiya Sabha following failure to allocate opportunity to address the gathering | 144315.json | කතාවක් නොදුන්නැයි දඹුල්ල ප්‍රාදේශීය සභාවේ ගාලගෝට්ටියක්
+146604.json | Power supply system affected by lightning restored  | 146604.json | විදුලි සම්ප්‍රේෂණ පද්ධතියේ ඇතිවූ දෝෂය යථා තත්ත්වයට- හේතුව අකුණු සැර වැදීමක්
+146605.json | JVP leader speaks about the COPE Report- [video] | 146605.json | බැඳුම්කර ගනුදෙනුවේ මහමොළකරු කවුද ? - ජවිපෙ
+146606.json | A child dies after choking on an orange seed | 146606.json | දොඩම් ඇටයක් සිරවී දරුවෙකු මියයයි.
+146609.json | Expedite the report regarding the death of the two Jaffna students; President instructs Attorney General | 146609.json | යාපනය සිසුන් දෙදෙනාගේ මරණ පරීක්ෂණ වාර්තා කඩිනම් කරන්න - ජනපතිගෙන් නීතිපතිට උපදෙස්
+146611.json | Train service in up-country disrupted due to caving   | 146611.json | උඩරට දුම්රිය මාර්ගයේ ගිලා බැසීමක් - දුම්රිය ගමන් අවලංගු කරයි
+112506.json | FCID questions WPC Chief Minister Prasanna’s wife for 7 hours | 112506.json | Update: මිලියන 5ක ගණුදෙනුවක්! මහඇමතිගේ බිරිඳගෙන් පැය 7ක් ප්‍රශ්න කරයි
+112512.json | Update: President refuses giving nominations to the Former President Rajapaksa | 112512.json | Update:  මහින්දට නාමයෝජනාදීම ජනපති ප්‍රතික්ෂේප කරයි
+112515.json | National Development Plans should be based on country’s priorities – President | 112515.json | ප්‍රමුඛතා හඳුනාගෙන සංවර්ධනය කරමු - ජනපති
+114182.json | Election related clashes in Galewala leave 4 injured #GenElecSL   | 114182.json | ගලේවෙල - දඹගොල්ල, බුලනවැව සහ  මකුළුගස්වැව ගැටුම් - 4 ක් රෝහලේ #GenElecSL
+114183.json | Postal voting to commence tomorrow #GenElecSL   | 114183.json | තැපැල් ඡන්ද විමසීම හෙට ඇරඹේ #GenElecSL
+114184.json | 3 drown; twins among them | 114184.json | නිවුන් සොයුරියන් ඇතුළු තිදෙනෙක් දියේ ගිලෙයි
+114192.json | India and Myanmar monsoon rains leave dozens dead | 114192.json | මියන්මාරයේ ජල ගැලීම්වලින් 27ක්  මියයයි
+146616.json | Police finds Rs. 10.5 million worth gold robbed from a Nugegoda shop; CCTV footage  | 146616.json | කිලෝ එකහමාරක රන් භාණ්ඩ කොල්ලයේ සැකකරුවන් අත්අඩංගුවට
+146619.json | Mosul battle: Iraqi special forces enter city | 146619.json | ඉරාක හමුදා මෝසුල් නගරයට ඇතුළු වෙයි
+146620.json | School in Wellawaya closed due to wasps  | 146620.json | බඹර කූඩුවක් ඇවිස්සීමෙන් වැල්ලවායේ පාසලක ප්‍රාථමික අංශය වැසේ
+146621.json | Stock of sea cucumber taken into police custody in India  | 146621.json | ශ්‍රී ලංකාවට ගෙන ඒමට සූදානම් කර තිබූ මුහුදු කූඩැල්ලන් තොගයක් අත්අඩංගුවට
+146628.json | Prices of fish see a sharp drop  | 146628.json | වාර්තාගත මත්ස්‍ය අස්වැන්නක් - මිලත් පහළට
+146635.json | Fishermen protest in Southern Province  | 146635.json | ගාලු පාරේ ධීවර උද්ඝෝෂණයක්
+146639.json | G.L. Peiris to Chair Sri Lanka Podujana Peramuna changed | 146639.json | ඒකාබද්ධ විපක්ෂයේ පක්ෂය ශ්‍රී ලංකා පොදුජන පෙරමුණ?
+146640.json | President Barack and Michelle Obama Dance to Michael Jackson's 'Thriller' on Halloween | 146640.json | ඔබාමා යුවලගේ අපූරු නර්තනය
+146641.json | South Korea names new Prime Minister, Foreign Minister amid political scandal | 146641.json | දකුණු කොරියාවට නව අගමැතිවරයෙක් සහ මුදල් ඇමතිිවරයෙක්
+146644.json | Suspects of former minister Fernandopulle murder re-remanded  | 146644.json | ජෙයරාජ් ඝාතනයේ සැකකරුවන් යලි රිමාන්ඞ්
+146645.json | TNA tells EU delegation to grant GSP plus only if promises are fulfilled | 146645.json | පොරොන්දු ඉටුකළහොත් පමණක් GSP දෙන්න - දෙමළ සන්ධානය යුරෝපා නියෝජිතයින්ට කියයි.
+146647.json | Atmospheric disturbance in the Bay of Bengal to cause more rains  | 146647.json | වැඩිම වැස්ස කුරුණෑගලට
+146648.json | Prime Minister says the government’s best victory is the COPE report | 146648.json | ආණ්ඩුව ලැබූ හොදම ජයග්‍රහණය කෝප් වාර්තාවයි - අගමැති කියයි
+146649.json | Minimum age limit of criminal responsibility increased  | 146649.json | අපරාධ වරදකට වගකීම් දැරීමේ වයස් සීමාව ඉහළට
+52591.json | Residents of Madampe engage in highway revolt | 52591.json | මාදම්පේ ප්‍රදේශවාසීන් ටයර් පුලූස්සමින් මහ පාරේ විරෝධතාවයක.
+52592.json | Permit UN observers; UK requests of Sri Lanka | 52592.json | ජගත් සංවිධාන නිරීක්ෂකයන්ට ඉඩ දෙන්න. - බ්‍රිතාන්‍යය.
+52593.json | Ranil challenges government to go in for referendum | 52593.json | හැකිනම් ජනමත විචාරණයක් පවත්වන්න. - රනිල්.
+52594.json | Former Indian CJ quits Sri Lankan visit | 52594.json | ඉන්දියාවේ හිටපු අගවිනිසුරුගේ ශ්‍රී ලංකා චාරිකාව නවතී.
+52595.json | Tamil Nadu demands sanctions over Sri Lanka | 52595.json | ලංකාවට ආර්ථික සම්බාධක - තමිල්නාඩුවේ ආණ්ඩුකාර.
+52606.json | Nasa scientist handover final report | 52606.json | පිටසක්වල ජීවය හා වර්ණ වැසි ගැන අවසන් වාර්තාවක්.
+52607.json | Minister of transport in search of deadly reptile | 52607.json | ප්‍රවාහන ඇමති මාපිලෙක් සොයයි.
+52608.json | Lets be expedient; Opposition Leader | 52608.json | වේගවත් වෙමු - විපක්ෂ නායක.
+52609.json | Appointments of Judicial Services Commission well within constitution; Minister Hakeem | 52609.json | අධිකරණ සේවා කොමිසමේ නව පත් කිරීම ව්‍යවස්ථානුකූල බවට ප්‍රකාශයක්.
+52613.json | UPFA member of Seethawaka Gayan Duminda says his life is in danger | 52613.json | ඝාතන තැතක් ගැන සීතාවක ප්‍රාදේශීය සභා මන්ත්‍රීවරයෙකු හෙළි කරයි.
+52615.json | Army saves Rs. 1.5 Billion for the government  | 52615.json | යුද හමුදාව රජයට රු. මිලියන 1500 ක් ඉතිරි කර දෙයි.
+52616.json | LPBOA wants fuel subsidy in place of bus fare revision | 52616.json | ගාස්තු සංශෝධනය ගැන බස් සංගම්වලින් විවේචන.
+54391.json | GMOA national hospital branch dissolved | 54391.json | GMO ජාතික රෝහල් ශාඛාව විසුරුවා හැරේ.
+54392.json | UNP requires fulltime organizers - says Opposition leader | 54392.json | එජාපයට අවශ්‍ය Full Time  සංවිධායකයන් පමණයි. - රනිල්.
+60115.json | There is no final decision regarding the 13th amendment; says Alliance.    | 60115.json | 13 ගැන තවම අවසන් තීන්දුවක් නැහැ. සන්ධානය කියයි.
+60116.json | Heavy rains today as well; beware of lightning; warns Met department. | 60116.json | අදත් තද වැසි. අකුණු ගැනත් අවධානයෙන් සිටින්න.
+60117.json | Release the arrested university students; says JVP | 60117.json | සබරගමුව සිසුන් නිදහස් කරන්න. ජවිපෙ
+60135.json | India to construct Seetha temple in Sri Lanka | 60135.json | ඉන්දියාවෙන් ශ්‍රී ලංකාවේ සීතා දොවොලක්.
+60136.json | 3 members of same family missing after boat capsizes in Kalu River | 60136.json | කළු ගඟේ ඔරුවක් පෙරලී එකම පවුලේ තුන් දෙනෙකු අතුරුදන්.
+60137.json | Attorney General dismisses plans by water supply board    | 60137.json | ජල සම්පාදනයේ සමාගම් සැලසුම නීතිපති ඉවත දමයි.
+60138.json | Trincomalee Urban Council suspends American agreement | 60138.json | ත්‍රිකුණාමල නගර සභාවේ ඇමෙරිකානු ගිවිසුම අත්හිටුවයි.
+60142.json | Syria conflict: Red Cross 'alarmed' over Qusair | 60142.json | සිරියාවට එරෙහිව බ්‍රිතාන්‍යය ගෙනා යෝජනාව රුසියාව නවතයි.
+60155.json | China general defends maritime role in island disputes    | 60155.json | චීනය ආශ්‍රිත  දුපත් ගැන එරට ප්‍රධානියෙකුගෙන් විශේෂ ප්‍රකාශයක්.
+60161.json | Doctor Jayalath Jayawardhana bids farewell to nation    | 60161.json | දොස්තර ජයලත් ජයවර්ධන දැයෙන් සමුගනී.
+60162.json | Bodies of 2 out of the 3 victims who drowned in Kalu river recovered       | 60162.json | කළු ගගට බිළි වූ තිදෙනාගෙන් දෙදෙනෙකුගේ සිරුරු සොයා ගැනේ.
+60163.json | Murder suspect killed in police fire    | 60163.json | ඝාතනයකට සූදානම් වූ සැකකරුවෙකු පොලිස් වෙඩි පහරින් මරුට.
+60164.json | President issues certification concerning Buddhists    | 60164.json | බෞද්ධයන් ගැන ජනපතිගෙන් සහතිකයක්.
+62165.json | Teacher - student request unfair; says Higher education ministry.          | 62165.json | ගුරු - සිසු ඉල්ලීම් අසාධාරණයි. - උසස් අධ්‍යාපන අමාත්‍යාංශය.
+62166.json | A gambling centre in Colombo 7 raided; 83 taken into police custody.    | 62166.json | කොළඹ හතෙන් සූදුපොළක් වටලයි. - 83 ක් පොලිස් දැලේ.
